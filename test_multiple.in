@@ -1,0 +1,8 @@
+LOAD simple_entities.txt entities
+LOAD simple_relationships.txt relationships
+PRINT 34a
+PATH 34a 341
+PATH 34a 234
+HIGHEST
+FINDALL type LI
+EXIT
