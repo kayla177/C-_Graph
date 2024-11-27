@@ -1,0 +1,7 @@
+ENTITY VCM43JO2 name_VCM4 paper
+ENTITY VXSHYHNU name_VXSH journal
+ENTITY BVZH0R37 name_BVZH institution
+PRINT ?*#(;MU[
+DELETE ?*#(;MU[
+PATH ?*#(;MU[ VXSHYHNU
+EXIT

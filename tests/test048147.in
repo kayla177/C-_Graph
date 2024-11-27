@@ -1,0 +1,7 @@
+ENTITY 0HTLGVY4 name_0HTL institution
+ENTITY NL1Z42ZT name_NL1Z author
+ENTITY 57DURBGM name_57DU institution
+PRINT {&(]GL)<
+DELETE {&(]GL)<
+PATH {&(]GL)< 0HTLGVY4
+EXIT

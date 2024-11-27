@@ -1,0 +1,7 @@
+ENTITY 6M88AFRZ name_6M88 conference
+ENTITY NGNESYJE name_NGNE institution
+ENTITY NOYLGHNY name_NOYL journal
+PRINT :%8&Z9!|
+DELETE :%8&Z9!|
+PATH :%8&Z9!| NGNESYJE
+EXIT

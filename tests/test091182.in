@@ -1,0 +1,7 @@
+ENTITY V4NH2SNK name_V4NH conference
+ENTITY 7T4Q8SDY name_7T4Q paper
+ENTITY XNVTEA69 name_XNVT conference
+PRINT >L;>HD$,
+DELETE >L;>HD$,
+PATH >L;>HD$, XNVTEA69
+EXIT

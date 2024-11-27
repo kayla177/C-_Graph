@@ -1,0 +1,7 @@
+ENTITY EWSO68NK name_EWSO conference
+ENTITY 15AXNU3B name_15AX journal
+ENTITY L1AX1WJ3 name_L1AX journal
+PRINT G{>$,^T+
+DELETE 82*7*>(S
+PATH G{>$,^T+ EWSO68NK
+EXIT

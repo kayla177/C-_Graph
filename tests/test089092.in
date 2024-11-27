@@ -1,0 +1,7 @@
+ENTITY 6I9Z7YIK name_6I9Z journal
+ENTITY AWVCKPF7 name_AWVC journal
+ENTITY NSTJJQQY name_NSTJ institution
+PRINT N.9=%?*6
+DELETE N.9=%?*6
+PATH N.9=%?*6 NSTJJQQY
+EXIT

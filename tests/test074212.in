@@ -1,0 +1,7 @@
+ENTITY RZVZ8S8R name_RZVZ paper
+ENTITY W9TUPEXK name_W9TU journal
+ENTITY MT4NFYCY name_MT4N conference
+PRINT %J}{#[?O
+DELETE %J}{#[?O
+PATH {<+Z:KU% MT4NFYCY
+EXIT

@@ -1,0 +1,7 @@
+ENTITY Z7ZZ1K0Q name_Z7ZZ journal
+ENTITY F1P1IKN1 name_F1P1 conference
+ENTITY WGLS8TQP name_WGLS institution
+PRINT !$_7:[2@
+DELETE !$_7:[2@
+PATH !$_7:[2@ Z7ZZ1K0Q
+EXIT

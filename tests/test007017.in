@@ -1,0 +1,7 @@
+ENTITY LH356O88 name_LH35 conference
+ENTITY EWEH3904 name_EWEH journal
+ENTITY QU1OF1P9 name_QU1O institution
+PRINT ];>|O;!=
+DELETE ];>|O;!=
+PATH ];>|O;!= LH356O88
+EXIT

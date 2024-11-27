@@ -1,0 +1,7 @@
+ENTITY 6NNG8NKJ name_6NNG conference
+ENTITY FMMM0E6I name_FMMM journal
+ENTITY V7MYVVGK name_V7MY institution
+PRINT !+5|-X*)
+DELETE !+5|-X*)
+PATH !+5|-X*) V7MYVVGK
+EXIT

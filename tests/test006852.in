@@ -1,0 +1,7 @@
+ENTITY U23LR54V name_U23L institution
+ENTITY 40O6Q55M name_40O6 institution
+ENTITY BQR959QY name_BQR9 institution
+PRINT RICL!*{Q
+DELETE .7R=->$Y
+PATH &20^0QY# U23LR54V
+EXIT

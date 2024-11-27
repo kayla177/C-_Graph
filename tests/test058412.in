@@ -1,0 +1,7 @@
+ENTITY GT0IPKNE name_GT0I author
+ENTITY SR7CD12I name_SR7C conference
+ENTITY K1B6MICI name_K1B6 institution
+PRINT ?#:G-F{|
+DELETE LPTB-MB?
+PATH ?#:G-F{| K1B6MICI
+EXIT

@@ -1,0 +1,7 @@
+ENTITY OCTFCDTR name_OCTF conference
+ENTITY T6NBWDCH name_T6NB institution
+ENTITY PWIMEQYS name_PWIM institution
+PRINT I.6U|*5[
+DELETE 445|^;.)
+PATH ,P9[]%*F OCTFCDTR
+EXIT

@@ -1,0 +1,7 @@
+ENTITY R9XKCTEY name_R9XK journal
+ENTITY S68GWLKQ name_S68G institution
+ENTITY 0QSSTJLJ name_0QSS conference
+PRINT 0G3|$_}#
+DELETE 0G3|$_}#
+PATH 0G3|$_}# R9XKCTEY
+EXIT

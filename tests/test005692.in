@@ -1,0 +1,7 @@
+ENTITY YSB520D2 name_YSB5 institution
+ENTITY LZSGY4UB name_LZSG institution
+ENTITY 0WXXH94O name_0WXX institution
+PRINT [}Z:O0^=
+DELETE EU|^.A_$
+PATH EU|^.A_$ LZSGY4UB
+EXIT

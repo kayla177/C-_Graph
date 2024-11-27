@@ -1,0 +1,7 @@
+ENTITY 5FYFP5VO name_5FYF conference
+ENTITY XBUWBB3B name_XBUW institution
+ENTITY 5VDYFPWQ name_5VDY author
+PRINT &<9,{P,[
+DELETE &<9,{P,[
+PATH &<9,{P,[ 5FYFP5VO
+EXIT

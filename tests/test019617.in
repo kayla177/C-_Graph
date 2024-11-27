@@ -1,0 +1,7 @@
+ENTITY S97FGVMH name_S97F conference
+ENTITY C869GKHL name_C869 paper
+ENTITY Y8ASPMPW name_Y8AS institution
+PRINT &IA??@_<
+DELETE &IA??@_<
+PATH &IA??@_< S97FGVMH
+EXIT

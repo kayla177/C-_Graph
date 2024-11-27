@@ -1,0 +1,7 @@
+ENTITY 2PCKKBND name_2PCK conference
+ENTITY 8NTA3UVF name_8NTA institution
+ENTITY GVV4D5K0 name_GVV4 author
+PRINT {;PRG&=]
+DELETE {;PRG&=]
+PATH Z&$*&?#R GVV4D5K0
+EXIT

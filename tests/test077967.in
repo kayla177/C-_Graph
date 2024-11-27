@@ -1,0 +1,7 @@
+ENTITY R3V6MG9L name_R3V6 institution
+ENTITY LMUTGXPZ name_LMUT conference
+ENTITY 5GFDQ4OL name_5GFD paper
+PRINT ;+*09{;@
+DELETE ;+*09{;@
+PATH ;+*09{;@ LMUTGXPZ
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 68WDUVA5 name_68WD journal
+ENTITY GO4VQ9CE name_GO4V conference
+ENTITY JY38OPA2 name_JY38 institution
+PRINT IJ,&:[K3
+DELETE N^.C),A!
+PATH N^.C),A! JY38OPA2
+EXIT

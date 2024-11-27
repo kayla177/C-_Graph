@@ -1,0 +1,7 @@
+ENTITY 8F9DR5WH name_8F9D paper
+ENTITY XM2PAYME name_XM2P author
+ENTITY JFNWJ6XX name_JFNW conference
+PRINT 0@H$}-|:
+DELETE 0@H$}-|:
+PATH (?!^@LI( XM2PAYME
+EXIT

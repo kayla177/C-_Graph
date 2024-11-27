@@ -1,0 +1,7 @@
+ENTITY AOUHZAFX name_AOUH paper
+ENTITY L80DH723 name_L80D conference
+ENTITY 04EHYFPQ name_04EH institution
+PRINT J*|U:E]!
+DELETE J*|U:E]!
+PATH J*|U:E]! L80DH723
+EXIT

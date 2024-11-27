@@ -1,0 +1,7 @@
+ENTITY HLTUVZ70 name_HLTU conference
+ENTITY 9E2OPJ4R name_9E2O institution
+ENTITY VAH5YJ42 name_VAH5 journal
+PRINT ]|U(C(:N
+DELETE ]|U(C(:N
+PATH ]|U(C(:N VAH5YJ42
+EXIT

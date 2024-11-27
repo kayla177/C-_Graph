@@ -1,0 +1,7 @@
+ENTITY 9S78OXIA name_9S78 conference
+ENTITY 0RS64S8H name_0RS6 conference
+ENTITY RER3GNV9 name_RER3 journal
+PRINT C[62{>[,
+DELETE C[62{>[,
+PATH C[62{>[, 0RS64S8H
+EXIT

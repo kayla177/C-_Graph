@@ -1,0 +1,7 @@
+ENTITY OQXNU69Q name_OQXN conference
+ENTITY A895VYGC name_A895 institution
+ENTITY 2BO4PC8L name_2BO4 conference
+PRINT K+_FY(_,
+DELETE K+_FY(_,
+PATH G(A8X*3M 2BO4PC8L
+EXIT

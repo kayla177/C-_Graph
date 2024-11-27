@@ -1,0 +1,7 @@
+ENTITY TLUMOR6J name_TLUM institution
+ENTITY FRMTUDTN name_FRMT conference
+ENTITY NVIQ7668 name_NVIQ institution
+PRINT ;-{KF,$;
+DELETE =P)*51J#
+PATH ;-{KF,$; FRMTUDTN
+EXIT

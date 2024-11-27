@@ -1,0 +1,7 @@
+ENTITY P1M559GS name_P1M5 conference
+ENTITY 68DPAZBG name_68DP conference
+ENTITY HONLONN6 name_HONL institution
+PRINT CK!,}6=*
+DELETE CK!,}6=*
+PATH {>@><KW^ P1M559GS
+EXIT

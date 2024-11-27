@@ -1,0 +1,7 @@
+ENTITY WIO351MU name_WIO3 paper
+ENTITY DZ1K370I name_DZ1K institution
+ENTITY YN0R81E0 name_YN0R paper
+PRINT ({|}-*[F
+DELETE ({|}-*[F
+PATH W;;XGKD, YN0R81E0
+EXIT

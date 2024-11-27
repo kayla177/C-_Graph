@@ -1,0 +1,7 @@
+ENTITY ZWHWMWSK name_ZWHW journal
+ENTITY 7IX9MY3W name_7IX9 conference
+ENTITY XNG6MCK7 name_XNG6 institution
+PRINT -{:H,[DA
+DELETE +>[Z+{EQ
+PATH -{:H,[DA XNG6MCK7
+EXIT

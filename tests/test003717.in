@@ -1,0 +1,7 @@
+ENTITY FGWSQHIV name_FGWS paper
+ENTITY AS8JK1BR name_AS8J conference
+ENTITY L95P7GLX name_L95P author
+PRINT H&{V:&B;
+DELETE H&{V:&B;
+PATH ^!R(!-{; L95P7GLX
+EXIT

@@ -1,0 +1,7 @@
+ENTITY PZBC16KW name_PZBC institution
+ENTITY V1SK101C name_V1SK journal
+ENTITY C4FBQ2BX name_C4FB paper
+PRINT $@-5G!+<
+DELETE $@-5G!+<
+PATH P%%8*=2G V1SK101C
+EXIT

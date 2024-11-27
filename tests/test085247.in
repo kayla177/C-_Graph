@@ -1,0 +1,7 @@
+ENTITY FLU03PVV name_FLU0 institution
+ENTITY DW1KVFJS name_DW1K conference
+ENTITY YKAW54TG name_YKAW author
+PRINT ^!^]$]%,
+DELETE .,FW:Q9}
+PATH .,FW:Q9} FLU03PVV
+EXIT

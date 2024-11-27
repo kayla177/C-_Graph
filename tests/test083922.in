@@ -1,0 +1,7 @@
+ENTITY UDOPUG1D name_UDOP author
+ENTITY XNFH8HTP name_XNFH institution
+ENTITY TYRZG4WP name_TYRZ institution
+PRINT .+_J$|0R
+DELETE .+_J$|0R
+PATH .+_J$|0R TYRZG4WP
+EXIT

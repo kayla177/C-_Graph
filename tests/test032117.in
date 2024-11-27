@@ -1,0 +1,7 @@
+ENTITY D8NWU8NX name_D8NW institution
+ENTITY JNCB4ENN name_JNCB institution
+ENTITY ZKQBB8FT name_ZKQB conference
+PRINT -ES6-#{6
+DELETE -ES6-#{6
+PATH -ES6-#{6 ZKQBB8FT
+EXIT

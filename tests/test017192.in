@@ -1,0 +1,7 @@
+ENTITY 5NO4DBH7 name_5NO4 conference
+ENTITY T5P12FS8 name_T5P1 journal
+ENTITY N7P3CS6E name_N7P3 conference
+PRINT ,|;ZT$]I
+DELETE ,|;ZT$]I
+PATH ,|;ZT$]I T5P12FS8
+EXIT

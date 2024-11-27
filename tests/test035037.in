@@ -1,0 +1,7 @@
+ENTITY SWKI6M32 name_SWKI journal
+ENTITY AFZ1R96W name_AFZ1 institution
+ENTITY KDMH7ZES name_KDMH paper
+PRINT R|4B+D#(
+DELETE =<Z[-E&$
+PATH =<Z[-E&$ AFZ1R96W
+EXIT

@@ -1,0 +1,7 @@
+ENTITY T496ZYGN name_T496 institution
+ENTITY LHC6GHWR name_LHC6 journal
+ENTITY Q04NFM9W name_Q04N conference
+PRINT #B]5E+%?
+DELETE #B]5E+%?
+PATH -#TY1]A& LHC6GHWR
+EXIT

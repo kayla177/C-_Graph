@@ -1,0 +1,7 @@
+ENTITY 4Y9WAID4 name_4Y9W journal
+ENTITY GASWW022 name_GASW conference
+ENTITY 21SEV20R name_21SE paper
+PRINT %%;M;.*,
+DELETE ?ZH,)FA%
+PATH %%;M;.*, 21SEV20R
+EXIT

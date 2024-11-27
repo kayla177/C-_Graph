@@ -1,0 +1,7 @@
+ENTITY UIP0HWZ7 name_UIP0 institution
+ENTITY 9FCC3ZEO name_9FCC journal
+ENTITY 1UEYBBMN name_1UEY conference
+PRINT Y+_W.M{(
+DELETE Y+_W.M{(
+PATH Y+_W.M{( UIP0HWZ7
+EXIT

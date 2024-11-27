@@ -1,0 +1,7 @@
+ENTITY YVQSA6XW name_YVQS conference
+ENTITY YWB3PXB7 name_YWB3 institution
+ENTITY 8AB8IFR3 name_8AB8 journal
+PRINT {X>R%A||
+DELETE {X>R%A||
+PATH -KZ53=<= YVQSA6XW
+EXIT

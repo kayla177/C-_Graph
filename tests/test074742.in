@@ -1,0 +1,7 @@
+ENTITY UGMZH5FB name_UGMZ conference
+ENTITY 6SU0A9J8 name_6SU0 conference
+ENTITY AIQXMUWT name_AIQX institution
+PRINT $+E[3<4[
+DELETE PO0V$*OA
+PATH $+E[3<4[ AIQXMUWT
+EXIT

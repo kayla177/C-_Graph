@@ -1,0 +1,7 @@
+ENTITY S3LY78L3 name_S3LY author
+ENTITY ZD7ILWQW name_ZD7I journal
+ENTITY QHN4JYK3 name_QHN4 institution
+PRINT %1^:;*,@
+DELETE %1^:;*,@
+PATH &*=K{:), S3LY78L3
+EXIT

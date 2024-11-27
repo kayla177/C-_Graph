@@ -1,0 +1,7 @@
+ENTITY FLSKR9I0 name_FLSK journal
+ENTITY FHTB9SYJ name_FHTB conference
+ENTITY VMA997J1 name_VMA9 paper
+PRINT |,{=*(=,
+DELETE |,{=*(=,
+PATH |,{=*(=, VMA997J1
+EXIT

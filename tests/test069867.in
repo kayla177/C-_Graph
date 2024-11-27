@@ -1,0 +1,7 @@
+ENTITY QT84MBZL name_QT84 journal
+ENTITY XWWZSF87 name_XWWZ institution
+ENTITY 1J2YMF9M name_1J2Y author
+PRINT F+[GP(}A
+DELETE .*NO;>._
+PATH .*NO;>._ XWWZSF87
+EXIT

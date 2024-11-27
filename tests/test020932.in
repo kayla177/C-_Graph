@@ -1,0 +1,7 @@
+ENTITY A7TADS2Z name_A7TA author
+ENTITY EWMSUAD8 name_EWMS institution
+ENTITY 0XWQBC9D name_0XWQ institution
+PRINT ,{%:CR(@
+DELETE =YU(BP3[
+PATH ,{%:CR(@ A7TADS2Z
+EXIT

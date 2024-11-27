@@ -1,0 +1,7 @@
+ENTITY 5QAL0F88 name_5QAL conference
+ENTITY Z0RMDBRN name_Z0RM paper
+ENTITY NDXU4L0N name_NDXU conference
+PRINT 7;*}TV*(
+DELETE 7;*}TV*(
+PATH ?0=0.W$> 5QAL0F88
+EXIT

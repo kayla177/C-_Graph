@@ -1,0 +1,7 @@
+ENTITY WB3ZURM5 name_WB3Z journal
+ENTITY SOG1GND6 name_SOG1 author
+ENTITY HBT3OB44 name_HBT3 author
+PRINT )*J,=F$|
+DELETE >)=$F.!Y
+PATH >)=$F.!Y WB3ZURM5
+EXIT

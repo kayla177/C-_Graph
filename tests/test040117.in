@@ -1,0 +1,7 @@
+ENTITY 27C7SUT4 name_27C7 institution
+ENTITY 0RZFTOJ1 name_0RZF institution
+ENTITY 0VQ3EZLU name_0VQ3 author
+PRINT SL^X>&$;
+DELETE SL^X>&$;
+PATH =L_98],; 0RZFTOJ1
+EXIT

@@ -1,0 +1,7 @@
+ENTITY F7ZB2N08 name_F7ZB conference
+ENTITY VZLQ69DR name_VZLQ conference
+ENTITY Q3E6X1IW name_Q3E6 journal
+PRINT +*_K|WEJ
+DELETE +*_K|WEJ
+PATH SE{%<?(; VZLQ69DR
+EXIT

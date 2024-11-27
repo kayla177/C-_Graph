@@ -1,0 +1,7 @@
+ENTITY VQFSEL9H name_VQFS journal
+ENTITY UABBPJ35 name_UABB institution
+ENTITY HG1BG4L4 name_HG1B conference
+PRINT =$HGVR8P
+DELETE *-^[U:$?
+PATH *-^[U:$? UABBPJ35
+EXIT

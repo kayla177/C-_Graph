@@ -1,0 +1,7 @@
+ENTITY 4QEK7O38 name_4QEK conference
+ENTITY 7TG70WVB name_7TG7 institution
+ENTITY 97XW5VZR name_97XW institution
+PRINT ,*2|%}-R
+DELETE ,*2|%}-R
+PATH ,*2|%}-R 4QEK7O38
+EXIT

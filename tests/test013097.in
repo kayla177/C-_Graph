@@ -1,0 +1,7 @@
+ENTITY GZ61JDY5 name_GZ61 conference
+ENTITY 5Y7DF027 name_5Y7D paper
+ENTITY SNEE3YLK name_SNEE conference
+PRINT [^-E!+!@
+DELETE [^-E!+!@
+PATH *1F72F;Q SNEE3YLK
+EXIT

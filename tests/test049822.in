@@ -1,0 +1,7 @@
+ENTITY EYRB6KMX name_EYRB institution
+ENTITY OGZUCYC7 name_OGZU journal
+ENTITY D1XDERMZ name_D1XD journal
+PRINT ;8,6#L{_
+DELETE ;8,6#L{_
+PATH ;8,6#L{_ D1XDERMZ
+EXIT

@@ -1,0 +1,7 @@
+ENTITY FKO35ZG3 name_FKO3 conference
+ENTITY 7TCF72JZ name_7TCF conference
+ENTITY 3THLEP5Z name_3THL institution
+PRINT 9@5={5L+
+DELETE 9@5={5L+
+PATH U{*Q-4%) 7TCF72JZ
+EXIT

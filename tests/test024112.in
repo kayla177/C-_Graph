@@ -1,0 +1,7 @@
+ENTITY V32MHKMV name_V32M institution
+ENTITY YIQ37YKC name_YIQ3 conference
+ENTITY HI085ZPZ name_HI08 paper
+PRINT VJ;<%{>H
+DELETE VJ;<%{>H
+PATH #++!B;9> V32MHKMV
+EXIT

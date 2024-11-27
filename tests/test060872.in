@@ -1,0 +1,7 @@
+ENTITY FLHRBBSW name_FLHR paper
+ENTITY XYMT56LC name_XYMT institution
+ENTITY VZVSRQJM name_VZVS author
+PRINT <|-B|Q%0
+DELETE <|-B|Q%0
+PATH )+;_{*K) XYMT56LC
+EXIT

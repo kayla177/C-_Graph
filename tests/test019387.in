@@ -1,0 +1,7 @@
+ENTITY SC74PC7A name_SC74 conference
+ENTITY CWNQMP8P name_CWNQ paper
+ENTITY KH6GEHNW name_KH6G institution
+PRINT !I,S#@,)
+DELETE !I,S#@,)
+PATH ;V_N8&X> SC74PC7A
+EXIT

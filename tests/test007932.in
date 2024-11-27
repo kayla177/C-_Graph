@@ -1,0 +1,7 @@
+ENTITY NLYZZXJX name_NLYZ institution
+ENTITY TXSPOHJY name_TXSP author
+ENTITY 1ZJSJ0TL name_1ZJS institution
+PRINT ?J$(N)]K
+DELETE ?J$(N)]K
+PATH ?J$(N)]K NLYZZXJX
+EXIT

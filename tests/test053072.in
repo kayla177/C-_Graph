@@ -1,0 +1,7 @@
+ENTITY IXM3V6BY name_IXM3 institution
+ENTITY 2AP2DWUD name_2AP2 paper
+ENTITY 62R5KBTW name_62R5 institution
+PRINT ,4^=T+P7
+DELETE }M,P=P#*
+PATH }M,P=P#* 2AP2DWUD
+EXIT

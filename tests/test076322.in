@@ -1,0 +1,7 @@
+ENTITY LLANHSJR name_LLAN institution
+ENTITY ABP6278X name_ABP6 conference
+ENTITY DJWVN71F name_DJWV conference
+PRINT 9{,+V$2^
+DELETE ]IF.[=|M
+PATH ]IF.[=|M LLANHSJR
+EXIT

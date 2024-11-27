@@ -1,0 +1,7 @@
+ENTITY K7M4LRK6 name_K7M4 conference
+ENTITY QSC4T1ZR name_QSC4 institution
+ENTITY VY0YXV8Z name_VY0Y author
+PRINT $::{)I6M
+DELETE $::{)I6M
+PATH $::{)I6M VY0YXV8Z
+EXIT

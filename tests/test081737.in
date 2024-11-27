@@ -1,0 +1,7 @@
+ENTITY PNRTT6DD name_PNRT journal
+ENTITY YDWNTVN6 name_YDWN paper
+ENTITY QZ0FGW6Y name_QZ0F institution
+PRINT $*<A{].+
+DELETE $*<A{].+
+PATH }33^T]LT PNRTT6DD
+EXIT

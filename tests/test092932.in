@@ -1,0 +1,7 @@
+ENTITY 78BDGUMU name_78BD paper
+ENTITY VTIORQDO name_VTIO institution
+ENTITY TXUM3V20 name_TXUM author
+PRINT ?,+]PE2$
+DELETE ,@|B>=<=
+PATH ?,+]PE2$ TXUM3V20
+EXIT

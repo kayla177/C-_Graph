@@ -1,0 +1,7 @@
+ENTITY GHK50CP6 name_GHK5 institution
+ENTITY 8NRKJQT3 name_8NRK paper
+ENTITY IL81L549 name_IL81 conference
+PRINT %.Y=^Y8%
+DELETE %.Y=^Y8%
+PATH %.Y=^Y8% IL81L549
+EXIT

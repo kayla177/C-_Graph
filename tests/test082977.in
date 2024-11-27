@@ -1,0 +1,7 @@
+ENTITY 5KVUPQNF name_5KVU journal
+ENTITY RFROUD7N name_RFRO conference
+ENTITY PESR0QMF name_PESR institution
+PRINT |S|I}8:;
+DELETE |S|I}8:;
+PATH |S|I}8:; RFROUD7N
+EXIT

@@ -1,0 +1,7 @@
+ENTITY KQCKPD95 name_KQCK paper
+ENTITY BBKYR7GE name_BBKY institution
+ENTITY 0RFCWU47 name_0RFC journal
+PRINT ^WK;*$+=
+DELETE ?C#(1;;P
+PATH ^WK;*$+= KQCKPD95
+EXIT

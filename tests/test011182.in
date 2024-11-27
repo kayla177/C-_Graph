@@ -1,0 +1,7 @@
+ENTITY 3MQD4DVA name_3MQD institution
+ENTITY Y52XORDY name_Y52X conference
+ENTITY WA9QNZE1 name_WA9Q institution
+PRINT RJ_^1;)U
+DELETE RJ_^1;)U
+PATH RJ_^1;)U 3MQD4DVA
+EXIT

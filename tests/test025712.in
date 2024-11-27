@@ -1,0 +1,7 @@
+ENTITY FQTSB8KG name_FQTS journal
+ENTITY DO9ZKSJ1 name_DO9Z institution
+ENTITY EGTH8FBZ name_EGTH journal
+PRINT <C$}&-3T
+DELETE <C$}&-3T
+PATH <C$}&-3T DO9ZKSJ1
+EXIT

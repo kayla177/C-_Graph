@@ -1,0 +1,7 @@
+ENTITY OPWTELOX name_OPWT author
+ENTITY RPY2E3K3 name_RPY2 conference
+ENTITY G6B9GG7I name_G6B9 paper
+PRINT [#6]:,H0
+DELETE [#6]:,H0
+PATH @8:=(!{[ OPWTELOX
+EXIT

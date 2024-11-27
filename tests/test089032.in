@@ -1,0 +1,7 @@
+ENTITY 29M6TZ8F name_29M6 institution
+ENTITY GERLMBIZ name_GERL journal
+ENTITY BO80J8JZ name_BO80 author
+PRINT <-_5$[.E
+DELETE <-_5$[.E
+PATH <-_5$[.E 29M6TZ8F
+EXIT

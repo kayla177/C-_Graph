@@ -1,0 +1,7 @@
+ENTITY 4QH08QY6 name_4QH0 institution
+ENTITY WO3B4MLS name_WO3B institution
+ENTITY BMGDL2BI name_BMGD institution
+PRINT %*,+^S3D
+DELETE -Z{*SQSP
+PATH {=)X>OS2 WO3B4MLS
+EXIT

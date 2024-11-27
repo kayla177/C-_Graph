@@ -1,0 +1,7 @@
+ENTITY FPWQZIWT name_FPWQ institution
+ENTITY CMN07O6X name_CMN0 paper
+ENTITY UX2I11LK name_UX2I institution
+PRINT 9P,^._]}
+DELETE D#*%=P9U
+PATH D#*%=P9U UX2I11LK
+EXIT

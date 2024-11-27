@@ -1,0 +1,7 @@
+ENTITY UL0EUG6L name_UL0E author
+ENTITY 72OMJ3O6 name_72OM paper
+ENTITY PN9WM1WZ name_PN9W conference
+PRINT >%%<$PI_
+DELETE >%%<$PI_
+PATH >@2$M<(; 72OMJ3O6
+EXIT

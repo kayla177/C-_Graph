@@ -1,0 +1,7 @@
+ENTITY 69EQK3I9 name_69EQ conference
+ENTITY T8I5S0RW name_T8I5 institution
+ENTITY MIRVAMMH name_MIRV paper
+PRINT $|NLX:+(
+DELETE $|NLX:+(
+PATH $|NLX:+( T8I5S0RW
+EXIT

@@ -1,0 +1,7 @@
+ENTITY HOMZNQSE name_HOMZ conference
+ENTITY Q1OHQXGM name_Q1OH institution
+ENTITY 882DNVNS name_882D conference
+PRINT ?(>2(PE@
+DELETE 8G@78K+M
+PATH ?(>2(PE@ 882DNVNS
+EXIT

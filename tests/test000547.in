@@ -1,0 +1,7 @@
+ENTITY 3PADORV5 name_3PAD paper
+ENTITY G12FNKVE name_G12F journal
+ENTITY VGS03ARA name_VGS0 institution
+PRINT P_V>E_$&
+DELETE :M<|<<0}
+PATH :M<|<<0} G12FNKVE
+EXIT

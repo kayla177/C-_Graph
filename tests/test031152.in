@@ -1,0 +1,7 @@
+ENTITY 005U8DI7 name_005U institution
+ENTITY 9PRE5KT6 name_9PRE author
+ENTITY MNXVXA0N name_MNXV institution
+PRINT ={V!:(]?
+DELETE ={V!:(]?
+PATH .+|^SJV^ 9PRE5KT6
+EXIT

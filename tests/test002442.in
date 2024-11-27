@@ -1,0 +1,7 @@
+ENTITY LT2CY36R name_LT2C paper
+ENTITY 011EEO03 name_011E author
+ENTITY 67KJ2386 name_67KJ institution
+PRINT .*?1W&>!
+DELETE }S;@J&7|
+PATH .*?1W&>! 011EEO03
+EXIT

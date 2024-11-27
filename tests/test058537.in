@@ -1,0 +1,7 @@
+ENTITY LWMWZXHE name_LWMW institution
+ENTITY NNFSKUJ1 name_NNFS conference
+ENTITY 4RF0OBNK name_4RF0 author
+PRINT {+CK}?*X
+DELETE *-|AT,@Z
+PATH {+CK}?*X 4RF0OBNK
+EXIT

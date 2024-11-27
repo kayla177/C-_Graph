@@ -1,0 +1,7 @@
+ENTITY LASC49IH name_LASC conference
+ENTITY WIEMLCUX name_WIEM institution
+ENTITY CCDW9K1O name_CCDW conference
+PRINT {^]THK0$
+DELETE ,F)#PL%}
+PATH {^]THK0$ CCDW9K1O
+EXIT

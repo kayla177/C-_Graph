@@ -1,0 +1,7 @@
+ENTITY VYTPW6BZ name_VYTP institution
+ENTITY PKJ1HYLS name_PKJ1 institution
+ENTITY EKK30PIW name_EKK3 journal
+PRINT F^;WR;-L
+DELETE X{0^TJ#{
+PATH ]&=.$AI8 EKK30PIW
+EXIT

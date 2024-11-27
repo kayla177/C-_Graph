@@ -1,0 +1,7 @@
+ENTITY RMUDVAQF name_RMUD journal
+ENTITY MZV4NNKI name_MZV4 institution
+ENTITY E520OTQK name_E520 conference
+PRINT (94<||5|
+DELETE (94<||5|
+PATH (94<||5| E520OTQK
+EXIT

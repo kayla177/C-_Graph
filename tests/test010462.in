@@ -1,0 +1,7 @@
+ENTITY OP566BYQ name_OP56 conference
+ENTITY 1NEDRN3P name_1NED institution
+ENTITY CYUSSE4U name_CYUS author
+PRINT ,O;!W]*E
+DELETE ,O;!W]*E
+PATH O[|MA_$7 1NEDRN3P
+EXIT

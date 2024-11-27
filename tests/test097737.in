@@ -1,0 +1,7 @@
+ENTITY GRC42EUM name_GRC4 institution
+ENTITY IW02FIAB name_IW02 conference
+ENTITY Y1CL25WU name_Y1CL journal
+PRINT E75C|!<N
+DELETE $C[@}@%R
+PATH $C[@}@%R IW02FIAB
+EXIT

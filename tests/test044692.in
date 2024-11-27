@@ -1,0 +1,7 @@
+ENTITY WJ5LT2R7 name_WJ5L author
+ENTITY W388CIUS name_W388 institution
+ENTITY ZCI5RI50 name_ZCI5 conference
+PRINT %#?N:F{)
+DELETE W0P{<*)R
+PATH %#?N:F{) ZCI5RI50
+EXIT

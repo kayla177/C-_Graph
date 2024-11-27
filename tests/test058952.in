@@ -1,0 +1,7 @@
+ENTITY NIDU3OLE name_NIDU institution
+ENTITY 2I5RGT40 name_2I5R journal
+ENTITY 3K77YIX1 name_3K77 institution
+PRINT <KYXEB@,
+DELETE .CL+,_6>
+PATH .CL+,_6> NIDU3OLE
+EXIT

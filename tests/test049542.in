@@ -1,0 +1,7 @@
+ENTITY 9TZUIAYJ name_9TZU institution
+ENTITY MG6RSC5A name_MG6R author
+ENTITY 6PGVAG2M name_6PGV conference
+PRINT 0%?-OB.&
+DELETE 0%?-OB.&
+PATH 0%?-OB.& MG6RSC5A
+EXIT

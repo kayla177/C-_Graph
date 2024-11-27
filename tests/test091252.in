@@ -1,0 +1,7 @@
+ENTITY HUZ6TZ4G name_HUZ6 journal
+ENTITY LO40KW54 name_LO40 conference
+ENTITY F2RANL8K name_F2RA institution
+PRINT _-*B8&#X
+DELETE _-*B8&#X
+PATH K=$M*C[X F2RANL8K
+EXIT

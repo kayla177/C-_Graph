@@ -1,0 +1,7 @@
+ENTITY R6T4B0LI name_R6T4 conference
+ENTITY XHOLOKMZ name_XHOL author
+ENTITY 27J9ENL4 name_27J9 conference
+PRINT +{#M,VIA
+DELETE H0*}M=:[
+PATH ,=*R,|T^ 27J9ENL4
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 60MJ237X name_60MJ institution
+ENTITY WG1SMSWQ name_WG1S institution
+ENTITY RTBZPO0E name_RTBZ author
+PRINT K=CV>_{&
+DELETE ${?1P}(I
+PATH K=CV>_{& WG1SMSWQ
+EXIT

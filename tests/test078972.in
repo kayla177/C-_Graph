@@ -1,0 +1,7 @@
+ENTITY 4HSG9YOC name_4HSG conference
+ENTITY HKVZQRBO name_HKVZ institution
+ENTITY WTAO965X name_WTAO conference
+PRINT BP|[2|S{
+DELETE U>,F;63?
+PATH =J@S*!.1 HKVZQRBO
+EXIT

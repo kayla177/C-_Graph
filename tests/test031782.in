@@ -1,0 +1,7 @@
+ENTITY M9Z93KYA name_M9Z9 institution
+ENTITY KDCLU2H6 name_KDCL institution
+ENTITY AQFGQGBG name_AQFG institution
+PRINT >R:X:0*]
+DELETE >R:X:0*]
+PATH S#8+;8G- M9Z93KYA
+EXIT

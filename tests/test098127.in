@@ -1,0 +1,7 @@
+ENTITY 0ANL43WB name_0ANL institution
+ENTITY 9N486CEB name_9N48 conference
+ENTITY Y411077A name_Y411 conference
+PRINT C-OZ#;$C
+DELETE C-OZ#;$C
+PATH EC^%Z##S Y411077A
+EXIT

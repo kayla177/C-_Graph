@@ -1,0 +1,7 @@
+ENTITY 4J15LHWD name_4J15 institution
+ENTITY 7ZYLQE4T name_7ZYL author
+ENTITY 5IE401PW name_5IE4 journal
+PRINT {9I.+*,-
+DELETE {9I.+*,-
+PATH B-_,7K$6 4J15LHWD
+EXIT

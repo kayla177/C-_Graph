@@ -1,0 +1,7 @@
+ENTITY DO5O4QJD name_DO5O institution
+ENTITY WJKFN1TP name_WJKF institution
+ENTITY 4VIJ63R9 name_4VIJ institution
+PRINT %M{3?||C
+DELETE %M{3?||C
+PATH %M{3?||C DO5O4QJD
+EXIT

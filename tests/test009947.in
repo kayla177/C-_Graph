@@ -1,0 +1,7 @@
+ENTITY FZOMDANI name_FZOM institution
+ENTITY 4DPV950Q name_4DPV institution
+ENTITY 24DGLB1F name_24DG paper
+PRINT |?2$<5Z[
+DELETE +X6;=$64
+PATH |?2$<5Z[ 4DPV950Q
+EXIT

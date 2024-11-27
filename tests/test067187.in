@@ -1,0 +1,7 @@
+ENTITY 1M0IJEIX name_1M0I conference
+ENTITY 4MOZPYWD name_4MOZ journal
+ENTITY HV0JLU97 name_HV0J conference
+PRINT :#.I8KU$
+DELETE =$5|N0%+
+PATH =$5|N0%+ 4MOZPYWD
+EXIT

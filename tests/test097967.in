@@ -1,0 +1,7 @@
+ENTITY I39Z2FIA name_I39Z conference
+ENTITY JQ1Y2MH6 name_JQ1Y journal
+ENTITY CRXDOS0C name_CRXD journal
+PRINT +)]]:{!+
+DELETE +)]]:{!+
+PATH =&AR2{%. JQ1Y2MH6
+EXIT

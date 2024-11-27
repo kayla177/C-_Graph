@@ -1,0 +1,7 @@
+ENTITY S7KXDRQK name_S7KX journal
+ENTITY PTIQ2265 name_PTIQ institution
+ENTITY L8IN80TG name_L8IN conference
+PRINT {#!)+A$@
+DELETE {#!)+A$@
+PATH ;SUCK@:T PTIQ2265
+EXIT

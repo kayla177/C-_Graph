@@ -1,0 +1,7 @@
+ENTITY R6KZ7F6Z name_R6KZ conference
+ENTITY 45BW9BSI name_45BW journal
+ENTITY 6DM9KDGZ name_6DM9 institution
+PRINT (!.{?${1
+DELETE F^]<[>??
+PATH (!.{?${1 R6KZ7F6Z
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 5A4ORWSZ name_5A4O conference
+ENTITY T2IXNSXG name_T2IX institution
+ENTITY DFMY0PTM name_DFMY paper
+PRINT %<{1L4*(
+DELETE %%(%B-8#
+PATH %%(%B-8# 5A4ORWSZ
+EXIT

@@ -1,0 +1,7 @@
+ENTITY Z6XPLT52 name_Z6XP paper
+ENTITY XH0GS9K8 name_XH0G institution
+ENTITY 9VTILY08 name_9VTI conference
+PRINT (!$$K{=M
+DELETE (!$$K{=M
+PATH 0.[:K&B5 Z6XPLT52
+EXIT

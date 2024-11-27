@@ -1,0 +1,7 @@
+ENTITY NUL7FEVA name_NUL7 conference
+ENTITY 2W4B5B10 name_2W4B institution
+ENTITY WGOSM7EN name_WGOS journal
+PRINT +2*W[%:H
+DELETE )Y.*|^4%
+PATH K%+OCE,U WGOSM7EN
+EXIT

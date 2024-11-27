@@ -1,0 +1,7 @@
+ENTITY UUPC6RCB name_UUPC conference
+ENTITY SK1NAONC name_SK1N institution
+ENTITY 4FEMN3Z7 name_4FEM author
+PRINT CT^.((<?
+DELETE |-MU(15[
+PATH CT^.((<? SK1NAONC
+EXIT

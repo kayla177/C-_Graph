@@ -1,0 +1,7 @@
+ENTITY 6V6PYBTE name_6V6P conference
+ENTITY NJCC0VYO name_NJCC journal
+ENTITY TLBEE6JJ name_TLBE conference
+PRINT @:9.({{F
+DELETE @:9.({{F
+PATH ?+=3$*D- NJCC0VYO
+EXIT

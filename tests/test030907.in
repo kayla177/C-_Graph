@@ -1,0 +1,7 @@
+ENTITY CL2CXW19 name_CL2C conference
+ENTITY 7KTAMOXT name_7KTA conference
+ENTITY TOW60ZPJ name_TOW6 conference
+PRINT [^|[$)L{
+DELETE [^|[$)L{
+PATH [^|[$)L{ CL2CXW19
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 4TNUYVPL name_4TNU journal
+ENTITY KJIXAB8O name_KJIX institution
+ENTITY S4LOGW2G name_S4LO institution
+PRINT ;G]L,,*W
+DELETE ;G]L,,*W
+PATH ;G]L,,*W 4TNUYVPL
+EXIT

@@ -1,0 +1,7 @@
+ENTITY VNJQ2EX1 name_VNJQ institution
+ENTITY WI6CP1AR name_WI6C conference
+ENTITY JK5APPYI name_JK5A conference
+PRINT )N!**2+S
+DELETE )N!**2+S
+PATH ^7{Z@[*E VNJQ2EX1
+EXIT

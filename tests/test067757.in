@@ -1,0 +1,7 @@
+ENTITY B4Q5DSWE name_B4Q5 author
+ENTITY PE4AG7EW name_PE4A institution
+ENTITY 4CXVBPZI name_4CXV institution
+PRINT +_3*8O,*
+DELETE @2&_!-T,
+PATH +_3*8O,* 4CXVBPZI
+EXIT

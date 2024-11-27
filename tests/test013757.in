@@ -1,0 +1,7 @@
+ENTITY LOBWC8WM name_LOBW journal
+ENTITY GMCMUP7Z name_GMCM institution
+ENTITY M8J1N2EC name_M8J1 paper
+PRINT #;1*%U6Y
+DELETE >#,_|:,^
+PATH >#,_|:,^ M8J1N2EC
+EXIT

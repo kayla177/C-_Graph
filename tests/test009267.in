@@ -1,0 +1,7 @@
+ENTITY 9Z60P7K3 name_9Z60 institution
+ENTITY 1NF7WJVZ name_1NF7 institution
+ENTITY K6V2RGY2 name_K6V2 institution
+PRINT (T<A3H][
+DELETE (T<A3H][
+PATH (T<A3H][ 1NF7WJVZ
+EXIT

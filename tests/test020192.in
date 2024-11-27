@@ -1,0 +1,7 @@
+ENTITY J1I5VRZW name_J1I5 journal
+ENTITY IYHA6XC1 name_IYHA journal
+ENTITY 2EMRTR7K name_2EMR paper
+PRINT A^+-3:<+
+DELETE A^+-3:<+
+PATH A^+-3:<+ IYHA6XC1
+EXIT

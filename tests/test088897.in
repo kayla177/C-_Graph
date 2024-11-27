@@ -1,0 +1,7 @@
+ENTITY O6RLRBTS name_O6RL conference
+ENTITY LPI7XG84 name_LPI7 author
+ENTITY WFJALJDD name_WFJA conference
+PRINT $&|_![=#
+DELETE $&|_![=#
+PATH DCEH1SH< WFJALJDD
+EXIT

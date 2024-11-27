@@ -1,0 +1,7 @@
+ENTITY 5JZ520VG name_5JZ5 conference
+ENTITY J9KJXNB3 name_J9KJ institution
+ENTITY TRDQJJR3 name_TRDQ conference
+PRINT @J7%;=II
+DELETE H,;{L+82
+PATH H,;{L+82 5JZ520VG
+EXIT

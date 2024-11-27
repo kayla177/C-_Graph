@@ -1,0 +1,7 @@
+ENTITY T1YNHTKQ name_T1YN conference
+ENTITY 7ZZS83T5 name_7ZZS journal
+ENTITY 0EF0V5PQ name_0EF0 author
+PRINT V%-.%!,[
+DELETE <Y1.$2|U
+PATH V%-.%!,[ T1YNHTKQ
+EXIT

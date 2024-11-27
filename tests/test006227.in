@@ -1,0 +1,7 @@
+ENTITY 49QTF36U name_49QT paper
+ENTITY 1FQUKKHK name_1FQU institution
+ENTITY S2DZQ387 name_S2DZ institution
+PRINT ,{8_^!<Y
+DELETE ,{8_^!<Y
+PATH ,{8_^!<Y 1FQUKKHK
+EXIT

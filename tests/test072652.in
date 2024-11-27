@@ -1,0 +1,7 @@
+ENTITY 4QAUWSYR name_4QAU journal
+ENTITY DPP4ICYM name_DPP4 journal
+ENTITY YB2DFLXO name_YB2D institution
+PRINT R#(G[).B
+DELETE R#(G[).B
+PATH !.W}NM|{ DPP4ICYM
+EXIT

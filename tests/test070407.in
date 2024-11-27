@@ -1,0 +1,7 @@
+ENTITY B21R5QB9 name_B21R journal
+ENTITY X62CDEFW name_X62C journal
+ENTITY L2VDDM1P name_L2VD journal
+PRINT _L<@5@*@
+DELETE _L<@5@*@
+PATH _L<@5@*@ L2VDDM1P
+EXIT

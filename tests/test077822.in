@@ -1,0 +1,7 @@
+ENTITY D3J03OTR name_D3J0 journal
+ENTITY BJH2MP0D name_BJH2 author
+ENTITY OJQ1VLMY name_OJQ1 institution
+PRINT =@W?-?@A
+DELETE !;=4D&:G
+PATH =@W?-?@A D3J03OTR
+EXIT

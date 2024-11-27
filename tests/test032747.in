@@ -1,0 +1,7 @@
+ENTITY 874MYDBP name_874M institution
+ENTITY O105B37A name_O105 author
+ENTITY MGP2B05T name_MGP2 conference
+PRINT }^!+$IN^
+DELETE }^!+$IN^
+PATH }^!+$IN^ MGP2B05T
+EXIT

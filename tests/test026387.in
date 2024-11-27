@@ -1,0 +1,7 @@
+ENTITY ZC62B694 name_ZC62 conference
+ENTITY KGHMGU6Z name_KGHM conference
+ENTITY YOD5666O name_YOD5 conference
+PRINT :(R0(>N?
+DELETE :(R0(>N?
+PATH :(R0(>N? KGHMGU6Z
+EXIT

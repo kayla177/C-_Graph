@@ -1,0 +1,7 @@
+ENTITY 3D05MP5G name_3D05 author
+ENTITY V25FS30A name_V25F institution
+ENTITY NTYZ26KX name_NTYZ institution
+PRINT +2{_$2<(
+DELETE ?HU&]TT#
+PATH +2{_$2<( V25FS30A
+EXIT

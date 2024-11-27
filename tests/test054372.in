@@ -1,0 +1,7 @@
+ENTITY CWYCJSKM name_CWYC conference
+ENTITY EBITEFOW name_EBIT institution
+ENTITY AXPNA5OB name_AXPN author
+PRINT <>7[P2L=
+DELETE <>7[P2L=
+PATH =MD$@{>} AXPNA5OB
+EXIT

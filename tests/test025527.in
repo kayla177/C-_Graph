@@ -1,0 +1,7 @@
+ENTITY E55BSCUL name_E55B conference
+ENTITY GQE1V8EM name_GQE1 conference
+ENTITY LQNYD9EI name_LQNY conference
+PRINT =><^P02{
+DELETE =><^P02{
+PATH _9[:#G@{ E55BSCUL
+EXIT

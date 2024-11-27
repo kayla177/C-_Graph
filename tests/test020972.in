@@ -1,0 +1,7 @@
+ENTITY NCOSUVL6 name_NCOS conference
+ENTITY JD80KVYT name_JD80 paper
+ENTITY CS95WWNQ name_CS95 conference
+PRINT ([@AOF*N
+DELETE V.,0^!](
+PATH V.,0^!]( JD80KVYT
+EXIT

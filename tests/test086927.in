@@ -1,0 +1,7 @@
+ENTITY SL8JGR5U name_SL8J conference
+ENTITY Q3B6R3E0 name_Q3B6 institution
+ENTITY CDCXAXLG name_CDCX author
+PRINT &9+<5#=0
+DELETE &9+<5#=0
+PATH 9Q]G:;2? SL8JGR5U
+EXIT

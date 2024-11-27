@@ -1,0 +1,7 @@
+ENTITY KX5QSX86 name_KX5Q conference
+ENTITY RIXTRRI5 name_RIXT conference
+ENTITY FZOYT93K name_FZOY author
+PRINT %@*;@P,,
+DELETE %@*;@P,,
+PATH +S|0G3({ FZOYT93K
+EXIT

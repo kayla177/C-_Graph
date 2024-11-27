@@ -1,0 +1,7 @@
+ENTITY XHLZJ0J9 name_XHLZ conference
+ENTITY 5F28RT07 name_5F28 conference
+ENTITY PGG7RXDD name_PGG7 journal
+PRINT *{{!ACY!
+DELETE C$I4|@2?
+PATH *{{!ACY! 5F28RT07
+EXIT

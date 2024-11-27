@@ -1,0 +1,7 @@
+ENTITY DZHL0A6E name_DZHL conference
+ENTITY NH5EJDUI name_NH5E journal
+ENTITY BVDPWFPI name_BVDP institution
+PRINT $=,S=-JN
+DELETE $=,S=-JN
+PATH $=,S=-JN DZHL0A6E
+EXIT

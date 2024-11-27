@@ -1,0 +1,7 @@
+ENTITY 2CJ8655Z name_2CJ8 journal
+ENTITY 6NJ1CZ66 name_6NJ1 conference
+ENTITY EA3T4UKC name_EA3T institution
+PRINT ^J}+=O<B
+DELETE Y@,$G_[*
+PATH Y@,$G_[* 2CJ8655Z
+EXIT

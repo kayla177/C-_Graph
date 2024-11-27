@@ -1,0 +1,7 @@
+ENTITY E3AGFNM7 name_E3AG journal
+ENTITY HNX7K2J1 name_HNX7 conference
+ENTITY QYTZIY41 name_QYTZ conference
+PRINT +(@R{>F<
+DELETE N51ND}=A
+PATH +(@R{>F< HNX7K2J1
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 64WMIPJT name_64WM journal
+ENTITY VDR49B6N name_VDR4 institution
+ENTITY G83FFDKM name_G83F institution
+PRINT $M+M@{};
+DELETE $M+M@{};
+PATH *ETM;A.] G83FFDKM
+EXIT

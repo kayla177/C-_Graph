@@ -1,0 +1,7 @@
+ENTITY C8Y21OO2 name_C8Y2 institution
+ENTITY TL092IEB name_TL09 paper
+ENTITY UT04SDTT name_UT04 author
+PRINT +|$;W}O[
+DELETE +|$;W}O[
+PATH Y.]:U=%L C8Y21OO2
+EXIT

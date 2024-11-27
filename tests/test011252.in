@@ -1,0 +1,7 @@
+ENTITY MVVJ8GSX name_MVVJ institution
+ENTITY MFXCPO3J name_MFXC institution
+ENTITY 36J7OSO5 name_36J7 conference
+PRINT JV|C<C^:
+DELETE {|,XD6=4
+PATH {|,XD6=4 MFXCPO3J
+EXIT

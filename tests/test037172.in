@@ -1,0 +1,7 @@
+ENTITY M5CX19NX name_M5CX institution
+ENTITY CNCWVXA7 name_CNCW author
+ENTITY 1INIDC31 name_1INI conference
+PRINT -M--@F)>
+DELETE -M--@F)>
+PATH BL-5<$V> M5CX19NX
+EXIT

@@ -1,0 +1,7 @@
+ENTITY M9JF7TCA name_M9JF journal
+ENTITY BOMJCCPX name_BOMJ paper
+ENTITY JT8OYECI name_JT8O journal
+PRINT =L[].^P{
+DELETE =L[].^P{
+PATH =L[].^P{ JT8OYECI
+EXIT

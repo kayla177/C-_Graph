@@ -1,0 +1,7 @@
+ENTITY K1R2F8H4 name_K1R2 journal
+ENTITY MQ1QBWGR name_MQ1Q conference
+ENTITY MQD1DCQ5 name_MQD1 institution
+PRINT Q@{;?Z[:
+DELETE Q@{;?Z[:
+PATH KCOV-W!G MQ1QBWGR
+EXIT

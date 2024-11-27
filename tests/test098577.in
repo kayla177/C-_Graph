@@ -1,0 +1,7 @@
+ENTITY OOGB8Y1T name_OOGB institution
+ENTITY 346UX4TH name_346U conference
+ENTITY PL27OJNS name_PL27 institution
+PRINT ${,;|<,2
+DELETE ${,;|<,2
+PATH UO<$M#*{ PL27OJNS
+EXIT

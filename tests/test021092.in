@@ -1,0 +1,7 @@
+ENTITY LBNRLWJK name_LBNR institution
+ENTITY RBS0L6GV name_RBS0 conference
+ENTITY I6VS8V7S name_I6VS conference
+PRINT -3FWY_(%
+DELETE ^KA&+.I*
+PATH ^KA&+.I* I6VS8V7S
+EXIT

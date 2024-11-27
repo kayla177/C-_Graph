@@ -1,0 +1,7 @@
+ENTITY DEJ7LGY9 name_DEJ7 institution
+ENTITY 24CBSKS5 name_24CB institution
+ENTITY KUC4H4SF name_KUC4 institution
+PRINT <LA=<?2B
+DELETE <LA=<?2B
+PATH <1MQ;E=* 24CBSKS5
+EXIT

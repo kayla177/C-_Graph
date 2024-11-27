@@ -1,0 +1,7 @@
+ENTITY LELOUOS6 name_LELO paper
+ENTITY 6VG74BII name_6VG7 institution
+ENTITY 24F74GEL name_24F7 journal
+PRINT &*{.0)?;
+DELETE &*{.0)?;
+PATH &*{.0)?; 6VG74BII
+EXIT

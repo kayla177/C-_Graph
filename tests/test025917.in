@@ -1,0 +1,7 @@
+ENTITY X21KXA9Q name_X21K author
+ENTITY 7FPM365P name_7FPM conference
+ENTITY 1AYIIU6C name_1AYI institution
+PRINT ^;2}>PG&
+DELETE ^;2}>PG&
+PATH ^;2}>PG& 7FPM365P
+EXIT

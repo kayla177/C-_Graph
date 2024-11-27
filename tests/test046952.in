@@ -1,0 +1,7 @@
+ENTITY BIJ3PDFU name_BIJ3 institution
+ENTITY 5NP69P8X name_5NP6 author
+ENTITY DKSYMV5F name_DKSY conference
+PRINT ]=.Z6.@L
+DELETE ]=.Z6.@L
+PATH ]=.Z6.@L BIJ3PDFU
+EXIT

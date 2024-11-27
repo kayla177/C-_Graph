@@ -1,0 +1,7 @@
+ENTITY 2YI4A7EP name_2YI4 institution
+ENTITY CN5WE082 name_CN5W institution
+ENTITY 5ZUGKSEZ name_5ZUG paper
+PRINT )PGI-(%!
+DELETE )PGI-(%!
+PATH )PGI-(%! 5ZUGKSEZ
+EXIT

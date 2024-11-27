@@ -1,0 +1,7 @@
+ENTITY NGDCD78M name_NGDC author
+ENTITY JHRHKBUU name_JHRH conference
+ENTITY B3BFS6LX name_B3BF conference
+PRINT >9T%,A?,
+DELETE J=0::X<.
+PATH >9T%,A?, NGDCD78M
+EXIT

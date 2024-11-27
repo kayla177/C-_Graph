@@ -1,0 +1,7 @@
+ENTITY KFXE16JS name_KFXE journal
+ENTITY WLJR1XQL name_WLJR conference
+ENTITY 3W92PF3Q name_3W92 institution
+PRINT $|_7ND.{
+DELETE ?+%,+Q.3
+PATH ?+%,+Q.3 KFXE16JS
+EXIT

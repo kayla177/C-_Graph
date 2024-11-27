@@ -1,0 +1,7 @@
+ENTITY XV4DP2SC name_XV4D author
+ENTITY 35QYZKY1 name_35QY institution
+ENTITY 5D46YN37 name_5D46 author
+PRINT ,W<+.@,S
+DELETE ,W<+.@,S
+PATH Z>+Q.M^I 5D46YN37
+EXIT

@@ -1,0 +1,7 @@
+ENTITY LTG06CX4 name_LTG0 institution
+ENTITY IHX6V62X name_IHX6 institution
+ENTITY 1K9ASNFM name_1K9A conference
+PRINT J,@9#HA:
+DELETE J,@9#HA:
+PATH (L}^B5@R 1K9ASNFM
+EXIT

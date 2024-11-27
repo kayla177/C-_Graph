@@ -1,0 +1,7 @@
+ENTITY BS35OJKA name_BS35 conference
+ENTITY 1O70JUCG name_1O70 institution
+ENTITY F7S9METR name_F7S9 institution
+PRINT N#@XO%{4
+DELETE _#!#GI,N
+PATH N#@XO%{4 1O70JUCG
+EXIT

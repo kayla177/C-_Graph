@@ -1,0 +1,7 @@
+ENTITY CB4EGM47 name_CB4E conference
+ENTITY LY7Y00AV name_LY7Y author
+ENTITY LOE2TL7V name_LOE2 paper
+PRINT 8:%!=>*:
+DELETE 8:%!=>*:
+PATH %2}Q.=3& LY7Y00AV
+EXIT

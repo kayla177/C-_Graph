@@ -1,0 +1,7 @@
+ENTITY 8Q13PPM9 name_8Q13 conference
+ENTITY 8SSO44UR name_8SSO journal
+ENTITY TPNHUUW4 name_TPNH conference
+PRINT Z{-+@??.
+DELETE Z{-+@??.
+PATH Z{-+@??. TPNHUUW4
+EXIT

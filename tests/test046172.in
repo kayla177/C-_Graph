@@ -1,0 +1,7 @@
+ENTITY 5F93U6BE name_5F93 conference
+ENTITY 747Z1IX9 name_747Z author
+ENTITY 1GK1V178 name_1GK1 institution
+PRINT $N=L@I%2
+DELETE ?W,]#-O?
+PATH =?,A11?) 1GK1V178
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 3YRSTFPB name_3YRS conference
+ENTITY IQM4DF8N name_IQM4 conference
+ENTITY PU0RTTFB name_PU0R author
+PRINT CX()+_U{
+DELETE F(.V-?1;
+PATH F(.V-?1; IQM4DF8N
+EXIT

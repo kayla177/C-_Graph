@@ -1,0 +1,7 @@
+ENTITY OOZRMB6T name_OOZR institution
+ENTITY 1BVTF1HC name_1BVT institution
+ENTITY HVUE0XUH name_HVUE journal
+PRINT >}-%N}C{
+DELETE %W!_09.;
+PATH >}-%N}C{ 1BVTF1HC
+EXIT

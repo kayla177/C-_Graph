@@ -1,0 +1,7 @@
+ENTITY YO16XQC9 name_YO16 journal
+ENTITY GHSNTJP7 name_GHSN conference
+ENTITY I346VGR4 name_I346 paper
+PRINT ?:@{YP|[
+DELETE ?:@{YP|[
+PATH ?:@{YP|[ I346VGR4
+EXIT

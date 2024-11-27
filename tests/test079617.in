@@ -1,0 +1,7 @@
+ENTITY MGC4T2DR name_MGC4 institution
+ENTITY ZY6UCJ6S name_ZY6U institution
+ENTITY TPOE88SA name_TPOE conference
+PRINT ,]F.(9Y+
+DELETE ,]F.(9Y+
+PATH ,]F.(9Y+ TPOE88SA
+EXIT

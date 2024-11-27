@@ -1,0 +1,7 @@
+ENTITY KTS4TT1H name_KTS4 author
+ENTITY ZABV3P5H name_ZABV institution
+ENTITY LOMMSQ2U name_LOMM journal
+PRINT ?H^%|^*%
+DELETE ?H^%|^*%
+PATH ?H^%|^*% KTS4TT1H
+EXIT

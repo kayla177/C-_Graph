@@ -1,0 +1,7 @@
+ENTITY SV7E785E name_SV7E conference
+ENTITY GUB1IU4U name_GUB1 journal
+ENTITY ZL2ZTHYE name_ZL2Z institution
+PRINT 9[.BQ#4-
+DELETE 9[.BQ#4-
+PATH X,*.5?(= GUB1IU4U
+EXIT

@@ -1,0 +1,7 @@
+ENTITY T1EUOLO3 name_T1EU conference
+ENTITY F0XIDRD0 name_F0XI conference
+ENTITY M07E6D53 name_M07E conference
+PRINT L6-?.2Y,
+DELETE L6-?.2Y,
+PATH 9Y$#;M:? F0XIDRD0
+EXIT

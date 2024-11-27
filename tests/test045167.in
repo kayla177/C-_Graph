@@ -1,0 +1,7 @@
+ENTITY R2VDBNI8 name_R2VD conference
+ENTITY S1KAYUOP name_S1KA conference
+ENTITY 562PJLSO name_562P journal
+PRINT ;Q9N+0)=
+DELETE ;Q9N+0)=
+PATH =.+@S|[> S1KAYUOP
+EXIT

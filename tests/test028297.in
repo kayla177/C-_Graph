@@ -1,0 +1,7 @@
+ENTITY NCP5K2YI name_NCP5 institution
+ENTITY 4M0XYW9P name_4M0X institution
+ENTITY ATAKHVE9 name_ATAK paper
+PRINT R<|4}|T(
+DELETE R<|4}|T(
+PATH R<|4}|T( NCP5K2YI
+EXIT

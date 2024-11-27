@@ -1,0 +1,7 @@
+ENTITY U7Y6EU7D name_U7Y6 conference
+ENTITY G0H550H7 name_G0H5 institution
+ENTITY CF9U7SBP name_CF9U institution
+PRINT ^+#+.>-{
+DELETE ^MQ0,Y__
+PATH ^+#+.>-{ U7Y6EU7D
+EXIT

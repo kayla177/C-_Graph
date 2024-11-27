@@ -1,0 +1,7 @@
+ENTITY IKHP8V2C name_IKHP conference
+ENTITY APRQEUDH name_APRQ institution
+ENTITY LSWOH88V name_LSWO institution
+PRINT |={J$]E}
+DELETE |={J$]E}
+PATH |={J$]E} IKHP8V2C
+EXIT

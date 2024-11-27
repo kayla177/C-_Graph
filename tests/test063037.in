@@ -1,0 +1,7 @@
+ENTITY TLU56V92 name_TLU5 institution
+ENTITY PR0WQGRJ name_PR0W journal
+ENTITY KUH3KVTX name_KUH3 paper
+PRINT J[%_>N-[
+DELETE J[%_>N-[
+PATH J[%_>N-[ KUH3KVTX
+EXIT

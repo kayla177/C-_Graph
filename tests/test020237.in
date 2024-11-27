@@ -1,0 +1,7 @@
+ENTITY 3M4ZIIDE name_3M4Z author
+ENTITY BJPRRFK9 name_BJPR journal
+ENTITY 64E06MKY name_64E0 institution
+PRINT S.|.{O::
+DELETE S.|.{O::
+PATH S.|.{O:: BJPRRFK9
+EXIT

@@ -1,0 +1,7 @@
+ENTITY JO8ZQHIM name_JO8Z institution
+ENTITY VD5KSB5J name_VD5K author
+ENTITY IEIVN9KW name_IEIV paper
+PRINT [&&Q._;I
+DELETE A[?,]:}@
+PATH A[?,]:}@ IEIVN9KW
+EXIT

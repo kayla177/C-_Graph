@@ -1,0 +1,7 @@
+ENTITY VQBQ0120 name_VQBQ institution
+ENTITY DAC0593K name_DAC0 paper
+ENTITY NZSS8V66 name_NZSS journal
+PRINT IMR%?[U*
+DELETE =T:4=&>:
+PATH =T:4=&>: NZSS8V66
+EXIT

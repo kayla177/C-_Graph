@@ -1,0 +1,7 @@
+ENTITY MNWSG6ZM name_MNWS author
+ENTITY QDWBCIGF name_QDWB conference
+ENTITY KEW4NS51 name_KEW4 journal
+PRINT {28*:W^$
+DELETE R^[]U|>=
+PATH {28*:W^$ MNWSG6ZM
+EXIT

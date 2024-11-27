@@ -1,0 +1,7 @@
+ENTITY EIMD66LV name_EIMD journal
+ENTITY Q9F5ZNYS name_Q9F5 paper
+ENTITY QU2H790F name_QU2H conference
+PRINT O]:%#>&#
+DELETE O]:%#>&#
+PATH O]:%#>&# QU2H790F
+EXIT

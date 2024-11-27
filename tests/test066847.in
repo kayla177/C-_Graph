@@ -1,0 +1,7 @@
+ENTITY H9X54SB3 name_H9X5 institution
+ENTITY RYGHMB0B name_RYGH journal
+ENTITY LB2RI4CT name_LB2R institution
+PRINT }>.3-*-0
+DELETE }>.3-*-0
+PATH %7U_=@7< H9X54SB3
+EXIT

@@ -1,0 +1,7 @@
+ENTITY UPU9O1G9 name_UPU9 journal
+ENTITY PUM7P5JS name_PUM7 conference
+ENTITY CDTMPOET name_CDTM conference
+PRINT ]=#:RP(6
+DELETE ]=#:RP(6
+PATH ]=#:RP(6 CDTMPOET
+EXIT

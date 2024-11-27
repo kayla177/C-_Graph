@@ -1,0 +1,7 @@
+ENTITY KLDGUZXP name_KLDG conference
+ENTITY ZVMDZW0L name_ZVMD institution
+ENTITY Q3M3VAGG name_Q3M3 institution
+PRINT ?ED|6}_@
+DELETE QD?S=E+D
+PATH ?ED|6}_@ Q3M3VAGG
+EXIT

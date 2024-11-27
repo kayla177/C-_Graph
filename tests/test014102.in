@@ -1,0 +1,7 @@
+ENTITY 0ASSTCFL name_0ASS journal
+ENTITY TWYKS1BX name_TWYK institution
+ENTITY 0M3820L2 name_0M38 conference
+PRINT ..B[_|60
+DELETE {#|X.#KC
+PATH NLY$&[-^ 0ASSTCFL
+EXIT

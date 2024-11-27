@@ -1,0 +1,7 @@
+ENTITY 8DQMWPI8 name_8DQM conference
+ENTITY 3G1O2BSK name_3G1O journal
+ENTITY AHM6PDDA name_AHM6 journal
+PRINT <#_R:G.&
+DELETE <#_R:G.&
+PATH _.?.,W!M AHM6PDDA
+EXIT

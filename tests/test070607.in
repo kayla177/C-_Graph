@@ -1,0 +1,7 @@
+ENTITY BS9UN3IF name_BS9U journal
+ENTITY 8M12JSBA name_8M12 author
+ENTITY ESV52OIE name_ESV5 institution
+PRINT *[@Z.+!C
+DELETE *[@Z.+!C
+PATH *[@Z.+!C ESV52OIE
+EXIT

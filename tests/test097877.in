@@ -1,0 +1,7 @@
+ENTITY 02D1C5W9 name_02D1 journal
+ENTITY Y11HXNYK name_Y11H conference
+ENTITY BJSPF25F name_BJSP author
+PRINT HB%};-%^
+DELETE HB%};-%^
+PATH HB%};-%^ 02D1C5W9
+EXIT

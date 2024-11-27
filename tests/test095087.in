@@ -1,0 +1,7 @@
+ENTITY UTW9N5G4 name_UTW9 institution
+ENTITY H7NCVICK name_H7NC institution
+ENTITY 2FT21BED name_2FT2 conference
+PRINT .U4K{:NJ
+DELETE .U4K{:NJ
+PATH &#3:!M-+ 2FT21BED
+EXIT

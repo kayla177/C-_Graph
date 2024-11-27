@@ -1,0 +1,7 @@
+ENTITY DM37EMM3 name_DM37 institution
+ENTITY OILYUIRP name_OILY institution
+ENTITY 6PCS0W38 name_6PCS paper
+PRINT !M7(&-[X
+DELETE <#;Q>4?*
+PATH <#;Q>4?* DM37EMM3
+EXIT

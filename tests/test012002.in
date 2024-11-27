@@ -1,0 +1,7 @@
+ENTITY Z20QWBX0 name_Z20Q conference
+ENTITY PWM0BC7L name_PWM0 paper
+ENTITY X2IRL36A name_X2IR conference
+PRINT {81+}V&(
+DELETE WA[%G+_:
+PATH WA[%G+_: Z20QWBX0
+EXIT

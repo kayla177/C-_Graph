@@ -1,0 +1,7 @@
+ENTITY HEOLZLHL name_HEOL institution
+ENTITY KLL32ILL name_KLL3 institution
+ENTITY BEMPWZJE name_BEMP conference
+PRINT H[4,_9?]
+DELETE H[4,_9?]
+PATH H[4,_9?] KLL32ILL
+EXIT

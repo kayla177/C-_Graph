@@ -1,0 +1,7 @@
+ENTITY U4YXNI11 name_U4YX institution
+ENTITY LK1UDEAJ name_LK1U journal
+ENTITY IDSSLTZP name_IDSS journal
+PRINT B#=;7(=$
+DELETE B#=;7(=$
+PATH T[}S[${S IDSSLTZP
+EXIT

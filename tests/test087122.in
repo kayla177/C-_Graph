@@ -1,0 +1,7 @@
+ENTITY OWA359J5 name_OWA3 conference
+ENTITY 7ADZYB3Z name_7ADZ institution
+ENTITY K78DSXNQ name_K78D conference
+PRINT R([NN#|[
+DELETE V0_{G&2,
+PATH V0_{G&2, OWA359J5
+EXIT

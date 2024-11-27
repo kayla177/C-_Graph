@@ -1,0 +1,7 @@
+ENTITY ZODL1II2 name_ZODL conference
+ENTITY IXYWOO5V name_IXYW institution
+ENTITY 3Y0WMA4K name_3Y0W paper
+PRINT R?:S-L#=
+DELETE }+7:[R};
+PATH R?:S-L#= IXYWOO5V
+EXIT

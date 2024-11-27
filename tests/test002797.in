@@ -1,0 +1,7 @@
+ENTITY AV1J59RG name_AV1J institution
+ENTITY 8B2MFTRU name_8B2M paper
+ENTITY 7OUR24MW name_7OUR conference
+PRINT I*$O);%@
+DELETE I*$O);%@
+PATH }=%>(7UM 8B2MFTRU
+EXIT

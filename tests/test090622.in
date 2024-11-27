@@ -1,0 +1,7 @@
+ENTITY LNE5P3NH name_LNE5 paper
+ENTITY 4OHA6VFT name_4OHA institution
+ENTITY R5SL2U91 name_R5SL author
+PRINT &G8,^:}@
+DELETE &G8,^:}@
+PATH &G8,^:}@ R5SL2U91
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 3COBL9T8 name_3COB conference
+ENTITY MRIXMOQV name_MRIX institution
+ENTITY X8XXAVI5 name_X8XX author
+PRINT %4J{&QF[
+DELETE {]=<.ITD
+PATH {]=<.ITD MRIXMOQV
+EXIT

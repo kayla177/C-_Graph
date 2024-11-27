@@ -1,0 +1,7 @@
+ENTITY 6YBON2X0 name_6YBO institution
+ENTITY WH05LA9Q name_WH05 journal
+ENTITY PGFT409V name_PGFT institution
+PRINT ;YY-;(7<
+DELETE :|*YY$OH
+PATH ;YY-;(7< WH05LA9Q
+EXIT

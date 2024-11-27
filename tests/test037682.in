@@ -1,0 +1,7 @@
+ENTITY K62LTDWA name_K62L institution
+ENTITY PSJHKYO7 name_PSJH journal
+ENTITY ZMM430Q4 name_ZMM4 conference
+PRINT S#[)F#$[
+DELETE S#[)F#$[
+PATH 3=(?#M}B ZMM430Q4
+EXIT

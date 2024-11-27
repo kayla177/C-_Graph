@@ -1,0 +1,7 @@
+ENTITY S5TYLDLG name_S5TY journal
+ENTITY 4GTGX7HO name_4GTG institution
+ENTITY ZY50O0VU name_ZY50 conference
+PRINT %(%IH|-,
+DELETE 6{=!&,#5
+PATH %(%IH|-, 4GTGX7HO
+EXIT

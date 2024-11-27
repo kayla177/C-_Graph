@@ -1,0 +1,7 @@
+ENTITY J38G4JLB name_J38G institution
+ENTITY U8FOT746 name_U8FO paper
+ENTITY S6NVI7IH name_S6NV journal
+PRINT {;C((=M^
+DELETE ]|AR>1}-
+PATH {;C((=M^ J38G4JLB
+EXIT

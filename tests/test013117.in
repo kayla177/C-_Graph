@@ -1,0 +1,7 @@
+ENTITY XIQHA30C name_XIQH institution
+ENTITY LG0DRY02 name_LG0D author
+ENTITY A781LBIB name_A781 conference
+PRINT J1!U%=&-
+DELETE J1!U%=&-
+PATH #@}_U_U_ LG0DRY02
+EXIT

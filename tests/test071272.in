@@ -1,0 +1,7 @@
+ENTITY UN9QUTYR name_UN9Q journal
+ENTITY GNF2RLCM name_GNF2 institution
+ENTITY OSKLOAZY name_OSKL author
+PRINT ]2%*C}$?
+DELETE ]2%*C}$?
+PATH ]2%*C}$? GNF2RLCM
+EXIT

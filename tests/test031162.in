@@ -1,0 +1,7 @@
+ENTITY 9JTBWRC1 name_9JTB journal
+ENTITY 39QUUI95 name_39QU institution
+ENTITY DR1SFQXD name_DR1S journal
+PRINT R|>,!=&}
+DELETE R|>,!=&}
+PATH R|>,!=&} DR1SFQXD
+EXIT

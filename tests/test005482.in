@@ -1,0 +1,7 @@
+ENTITY UAXCQTEP name_UAXC institution
+ENTITY OYRL6UPA name_OYRL journal
+ENTITY J5IFEHR3 name_J5IF conference
+PRINT {[}&,..}
+DELETE {[}&,..}
+PATH Z$GY4_:- UAXCQTEP
+EXIT

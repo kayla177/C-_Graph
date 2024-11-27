@@ -1,0 +1,7 @@
+ENTITY LMX9W7G9 name_LMX9 journal
+ENTITY E1Q16SGA name_E1Q1 institution
+ENTITY 6SY4M2OT name_6SY4 paper
+PRINT S_&$^3,,
+DELETE %+3.RYW(
+PATH *Y?|-]_1 E1Q16SGA
+EXIT

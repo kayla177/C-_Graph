@@ -1,0 +1,7 @@
+ENTITY H8M9JT02 name_H8M9 journal
+ENTITY 3P25YI5W name_3P25 institution
+ENTITY ZBFEA2ST name_ZBFE institution
+PRINT T.>{<6,G
+DELETE {*(!#5AY
+PATH T.>{<6,G 3P25YI5W
+EXIT

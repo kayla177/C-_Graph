@@ -1,0 +1,7 @@
+ENTITY DY6JP48L name_DY6J institution
+ENTITY VB5YWI0V name_VB5Y conference
+ENTITY 09PZYS01 name_09PZ conference
+PRINT <.*1[;9G
+DELETE <.*1[;9G
+PATH ;|LX,*R. DY6JP48L
+EXIT

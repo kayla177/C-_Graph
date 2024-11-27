@@ -1,0 +1,7 @@
+ENTITY N7UNZHJL name_N7UN conference
+ENTITY BS3A7AL9 name_BS3A institution
+ENTITY 4RCJW945 name_4RCJ journal
+PRINT &M.;X$G@
+DELETE ;OS(_2V,
+PATH &M.;X$G@ N7UNZHJL
+EXIT

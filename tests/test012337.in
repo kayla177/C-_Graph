@@ -1,0 +1,7 @@
+ENTITY R0WFDT0A name_R0WF institution
+ENTITY ZMDVXT2M name_ZMDV conference
+ENTITY C1KFUPKO name_C1KF journal
+PRINT M;@<7:6+
+DELETE M;@<7:6+
+PATH F{[K&?}@ ZMDVXT2M
+EXIT

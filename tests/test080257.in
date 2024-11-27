@@ -1,0 +1,7 @@
+ENTITY AWXVTOAL name_AWXV paper
+ENTITY YRI5OIOE name_YRI5 institution
+ENTITY 53MYR21B name_53MY institution
+PRINT E!]1X-3@
+DELETE @.|BDY|;
+PATH @.|BDY|; AWXVTOAL
+EXIT

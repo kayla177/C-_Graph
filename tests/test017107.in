@@ -1,0 +1,7 @@
+ENTITY J37HMAJU name_J37H institution
+ENTITY TGM5CTN6 name_TGM5 paper
+ENTITY HZ9N4E0J name_HZ9N paper
+PRINT _$!C;^><
+DELETE _$!C;^><
+PATH _$!C;^>< HZ9N4E0J
+EXIT

@@ -1,0 +1,7 @@
+ENTITY NRJN3CLM name_NRJN institution
+ENTITY 1341D8WD name_1341 conference
+ENTITY W0Z7O689 name_W0Z7 paper
+PRINT P&,7#@!_
+DELETE P&,7#@!_
+PATH P&,7#@!_ W0Z7O689
+EXIT

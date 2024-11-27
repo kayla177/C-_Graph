@@ -1,0 +1,7 @@
+ENTITY MCPOBGMO name_MCPO journal
+ENTITY 2PXPNMY0 name_2PXP institution
+ENTITY 8NAG02B9 name_8NAG institution
+PRINT }=>!GDY#
+DELETE }=>!GDY#
+PATH }=>!GDY# 8NAG02B9
+EXIT

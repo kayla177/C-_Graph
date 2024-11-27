@@ -1,0 +1,7 @@
+ENTITY 4Q2JRG9M name_4Q2J conference
+ENTITY 600K53E4 name_600K institution
+ENTITY Z47VJM56 name_Z47V paper
+PRINT :X@&6G@=
+DELETE :X@&6G@=
+PATH :X@&6G@= Z47VJM56
+EXIT

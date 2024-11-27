@@ -1,0 +1,7 @@
+ENTITY OVBOW2JD name_OVBO journal
+ENTITY MWB7U83J name_MWB7 author
+ENTITY AMPOT9MB name_AMPO institution
+PRINT }+1>PR:*
+DELETE =(K[;!2$
+PATH =(K[;!2$ OVBOW2JD
+EXIT

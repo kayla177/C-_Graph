@@ -1,0 +1,7 @@
+ENTITY RDQTKTJH name_RDQT institution
+ENTITY RSAKLX4N name_RSAK journal
+ENTITY TUT55AYA name_TUT5 conference
+PRINT N#??,@M-
+DELETE N#??,@M-
+PATH #84I54>$ RDQTKTJH
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 8ZDA7EOT name_8ZDA institution
+ENTITY KOGAU5SJ name_KOGA author
+ENTITY A8OUT2OF name_A8OU conference
+PRINT @{:)]9MI
+DELETE @{:)]9MI
+PATH @{:)]9MI 8ZDA7EOT
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 6E3O6IO6 name_6E3O institution
+ENTITY BJ5OUJK6 name_BJ5O institution
+ENTITY 5S7521PB name_5S75 paper
+PRINT !>#!}T0*
+DELETE .S:05|,O
+PATH !>#!}T0* 5S7521PB
+EXIT

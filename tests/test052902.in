@@ -1,0 +1,7 @@
+ENTITY 9F0NUV1X name_9F0N institution
+ENTITY NCAED40C name_NCAE author
+ENTITY 7O72TWJE name_7O72 paper
+PRINT __-.!C:<
+DELETE =++2B@@,
+PATH __-.!C:< NCAED40C
+EXIT

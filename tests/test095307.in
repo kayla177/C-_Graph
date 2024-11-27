@@ -1,0 +1,7 @@
+ENTITY VPGMEIB5 name_VPGM institution
+ENTITY CYIM8B0G name_CYIM conference
+ENTITY RKY0QMEU name_RKY0 conference
+PRINT $@LA-]2Z
+DELETE $@LA-]2Z
+PATH $@LA-]2Z VPGMEIB5
+EXIT

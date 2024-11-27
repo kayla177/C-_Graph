@@ -1,0 +1,7 @@
+ENTITY GTNR630C name_GTNR institution
+ENTITY K422IRJ5 name_K422 institution
+ENTITY QZVZT4LS name_QZVZ conference
+PRINT #&)PKR,=
+DELETE #&)PKR,=
+PATH ,EYXZ7{& GTNR630C
+EXIT

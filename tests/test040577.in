@@ -1,0 +1,7 @@
+ENTITY 2RT8BV1Z name_2RT8 conference
+ENTITY 35AYE3EZ name_35AY journal
+ENTITY CEEV0I1H name_CEEV paper
+PRINT A;{.S!!%
+DELETE A;{.S!!%
+PATH A;{.S!!% 35AYE3EZ
+EXIT

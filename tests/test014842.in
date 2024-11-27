@@ -1,0 +1,7 @@
+ENTITY 4FD4X1S7 name_4FD4 conference
+ENTITY NRSBCOGI name_NRSB conference
+ENTITY 18GVA3SQ name_18GV journal
+PRINT J>,@OS@%
+DELETE J>,@OS@%
+PATH $+{IN]:S 4FD4X1S7
+EXIT

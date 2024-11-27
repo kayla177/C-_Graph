@@ -1,0 +1,7 @@
+ENTITY 2H605W35 name_2H60 institution
+ENTITY F1VG9NRP name_F1VG conference
+ENTITY XYHW5J66 name_XYHW author
+PRINT <>>V=57_
+DELETE (&|$R>N-
+PATH (&|$R>N- F1VG9NRP
+EXIT

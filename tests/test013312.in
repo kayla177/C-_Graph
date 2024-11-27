@@ -1,0 +1,7 @@
+ENTITY B5ZELDHL name_B5ZE author
+ENTITY PF1E3HCI name_PF1E conference
+ENTITY KOX4KKBK name_KOX4 journal
+PRINT ^-#;9:E!
+DELETE ^-#;9:E!
+PATH !S:A_+G= PF1E3HCI
+EXIT

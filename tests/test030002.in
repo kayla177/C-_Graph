@@ -1,0 +1,7 @@
+ENTITY P15GCABQ name_P15G institution
+ENTITY F3DEMT8J name_F3DE conference
+ENTITY 5DGL0AQO name_5DGL paper
+PRINT :*1|#_D!
+DELETE :*1|#_D!
+PATH BA;)<?VN P15GCABQ
+EXIT

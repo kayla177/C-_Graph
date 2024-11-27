@@ -1,0 +1,7 @@
+ENTITY YAJWPXRM name_YAJW conference
+ENTITY UI810C9T name_UI81 journal
+ENTITY WIMU21SG name_WIMU institution
+PRINT {]9@6.K*
+DELETE {]9@6.K*
+PATH .5UZ7$#_ UI810C9T
+EXIT

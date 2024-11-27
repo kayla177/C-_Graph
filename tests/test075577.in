@@ -1,0 +1,7 @@
+ENTITY C6HPNPF6 name_C6HP conference
+ENTITY TICW1A4J name_TICW author
+ENTITY Z5XM9QC9 name_Z5XM institution
+PRINT *!|J<Y.|
+DELETE S=&08W.|
+PATH *!|J<Y.| C6HPNPF6
+EXIT

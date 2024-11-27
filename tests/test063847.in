@@ -1,0 +1,7 @@
+ENTITY W2VAR4RJ name_W2VA conference
+ENTITY HU7IGVYR name_HU7I conference
+ENTITY P1EXYKDG name_P1EX institution
+PRINT =BF]N%{1
+DELETE {8+|!?>>
+PATH {8+|!?>> HU7IGVYR
+EXIT

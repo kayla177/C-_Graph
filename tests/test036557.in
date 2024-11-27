@@ -1,0 +1,7 @@
+ENTITY KN6S2QSZ name_KN6S conference
+ENTITY Q3TNW4BH name_Q3TN institution
+ENTITY ROAE3SKE name_ROAE conference
+PRINT R-+-O;,E
+DELETE R-+-O;,E
+PATH WI_H}K>. KN6S2QSZ
+EXIT

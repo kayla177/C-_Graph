@@ -1,0 +1,7 @@
+ENTITY GMIDZV7K name_GMID institution
+ENTITY HD3Q8LF3 name_HD3Q journal
+ENTITY PBHW1C1B name_PBHW journal
+PRINT ,^MWO|.>
+DELETE ,^MWO|.>
+PATH #<]}NL5$ PBHW1C1B
+EXIT

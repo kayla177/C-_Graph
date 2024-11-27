@@ -1,0 +1,7 @@
+ENTITY LHRIXUD1 name_LHRI institution
+ENTITY 8HOTRTYK name_8HOT conference
+ENTITY OSYVTFR4 name_OSYV institution
+PRINT 3T,>T4Y3
+DELETE !H_|!{7_
+PATH !H_|!{7_ OSYVTFR4
+EXIT

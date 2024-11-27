@@ -1,0 +1,7 @@
+ENTITY 4JRTIS54 name_4JRT conference
+ENTITY YIS7J0FS name_YIS7 institution
+ENTITY T5JIP4QX name_T5JI conference
+PRINT NRS>(Y-.
+DELETE NRS>(Y-.
+PATH NRS>(Y-. YIS7J0FS
+EXIT

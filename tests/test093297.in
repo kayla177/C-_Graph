@@ -1,0 +1,7 @@
+ENTITY FAQCWSB2 name_FAQC institution
+ENTITY KJQPTT10 name_KJQP institution
+ENTITY 53490WGL name_5349 journal
+PRINT *@F8;#*$
+DELETE *@F8;#*$
+PATH <3(2V;]X KJQPTT10
+EXIT

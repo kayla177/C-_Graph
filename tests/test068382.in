@@ -1,0 +1,7 @@
+ENTITY 47U31A8V name_47U3 institution
+ENTITY EJCGFRH1 name_EJCG journal
+ENTITY AKTHQ9XL name_AKTH institution
+PRINT P+@;$Z.*
+DELETE S9;#[H:E
+PATH WE:V*E-< 47U31A8V
+EXIT

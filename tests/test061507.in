@@ -1,0 +1,7 @@
+ENTITY B786BKNZ name_B786 journal
+ENTITY 6CAW3OGB name_6CAW conference
+ENTITY 69W66PUM name_69W6 institution
+PRINT ^O},Z.@N
+DELETE ^O},Z.@N
+PATH +TFT-G*. 6CAW3OGB
+EXIT

@@ -1,0 +1,7 @@
+ENTITY EQ2KDX4W name_EQ2K conference
+ENTITY RL0OWDNJ name_RL0O institution
+ENTITY DCFO9KUS name_DCFO conference
+PRINT C,AP#^<;
+DELETE E{YJ*,E7
+PATH C,AP#^<; DCFO9KUS
+EXIT

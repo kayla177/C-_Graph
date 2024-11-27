@@ -1,0 +1,7 @@
+ENTITY FDQBLO8U name_FDQB paper
+ENTITY 0NASYOXX name_0NAS institution
+ENTITY A4KCYLZF name_A4KC journal
+PRINT 2(@[D)[[
+DELETE 2(@[D)[[
+PATH 2(@[D)[[ FDQBLO8U
+EXIT

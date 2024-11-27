@@ -1,0 +1,7 @@
+ENTITY 35O820GW name_35O8 paper
+ENTITY SSNN2UIO name_SSNN institution
+ENTITY IO55XHUL name_IO55 institution
+PRINT ^N[[88}$
+DELETE %PW?8_X&
+PATH ^N[[88}$ SSNN2UIO
+EXIT

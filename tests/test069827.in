@@ -1,0 +1,7 @@
+ENTITY DY9CO1TL name_DY9C conference
+ENTITY TMIKF2OF name_TMIK institution
+ENTITY HHYUUEMX name_HHYU journal
+PRINT <SF++-.V
+DELETE <SF++-.V
+PATH <SF++-.V DY9CO1TL
+EXIT

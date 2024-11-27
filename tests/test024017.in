@@ -1,0 +1,7 @@
+ENTITY 2NBIBOKQ name_2NBI conference
+ENTITY WTWREV1M name_WTWR journal
+ENTITY BZNN5TLB name_BZNN institution
+PRINT ?>^:&[XA
+DELETE <R{!Y:WY
+PATH <R{!Y:WY BZNN5TLB
+EXIT

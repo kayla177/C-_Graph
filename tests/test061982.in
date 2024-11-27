@@ -1,0 +1,7 @@
+ENTITY 31M1WFXJ name_31M1 institution
+ENTITY RCE1IB4U name_RCE1 author
+ENTITY CH459LCE name_CH45 author
+PRINT @{_4B:+A
+DELETE @{_4B:+A
+PATH E[H-[-{$ CH459LCE
+EXIT

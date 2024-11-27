@@ -1,0 +1,7 @@
+ENTITY 1IXJ931D name_1IXJ institution
+ENTITY K0JHAOV7 name_K0JH conference
+ENTITY 5UCWY4UL name_5UCW conference
+PRINT =$8:=-X,
+DELETE =$8:=-X,
+PATH 5PN4F)W< K0JHAOV7
+EXIT

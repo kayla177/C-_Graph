@@ -1,0 +1,7 @@
+ENTITY ILP63NH4 name_ILP6 institution
+ENTITY HFRW3J5D name_HFRW institution
+ENTITY UZXTLRFK name_UZXT institution
+PRINT O[{W|$*8
+DELETE O[{W|$*8
+PATH 7&A39*W2 HFRW3J5D
+EXIT

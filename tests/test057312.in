@@ -1,0 +1,7 @@
+ENTITY Q3J4I6UR name_Q3J4 institution
+ENTITY XMHXZR31 name_XMHX author
+ENTITY 8RO7RKJ5 name_8RO7 conference
+PRINT 4D8@{[]+
+DELETE 4D8@{[]+
+PATH {>@(?-G! Q3J4I6UR
+EXIT

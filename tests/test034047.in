@@ -1,0 +1,7 @@
+ENTITY 6WEH0RZ0 name_6WEH institution
+ENTITY U32R55WY name_U32R conference
+ENTITY P2GRZJW1 name_P2GR institution
+PRINT :=!%$([W
+DELETE 3|+20|T_
+PATH 3|+20|T_ P2GRZJW1
+EXIT

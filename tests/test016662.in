@@ -1,0 +1,7 @@
+ENTITY FY4AMR94 name_FY4A author
+ENTITY 11PT1DLJ name_11PT institution
+ENTITY A034SH57 name_A034 institution
+PRINT N=!^T{<5
+DELETE W,$I@]$X
+PATH N=!^T{<5 A034SH57
+EXIT

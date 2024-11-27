@@ -1,0 +1,7 @@
+ENTITY JCN6M38F name_JCN6 paper
+ENTITY J751SP67 name_J751 journal
+ENTITY SLG444A0 name_SLG4 conference
+PRINT (6^,?<@<
+DELETE S**1|.,Q
+PATH S**1|.,Q J751SP67
+EXIT

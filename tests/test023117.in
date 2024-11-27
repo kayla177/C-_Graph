@@ -1,0 +1,7 @@
+ENTITY G6TQ58Y2 name_G6TQ paper
+ENTITY PVXFP4ZF name_PVXF institution
+ENTITY 3NPN9ZIF name_3NPN conference
+PRINT +&X1[E3*
+DELETE @^==H<=0
+PATH @^==H<=0 G6TQ58Y2
+EXIT

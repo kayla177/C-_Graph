@@ -1,0 +1,7 @@
+ENTITY 7M0EW7BC name_7M0E institution
+ENTITY GTD6U6CN name_GTD6 conference
+ENTITY ZTTCW3UA name_ZTTC institution
+PRINT >{R-?@(,
+DELETE >{R-?@(,
+PATH Q%7Y@AC@ ZTTCW3UA
+EXIT

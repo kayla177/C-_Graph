@@ -1,0 +1,7 @@
+ENTITY CFZISFH4 name_CFZI journal
+ENTITY ZSC040FY name_ZSC0 conference
+ENTITY ZVQO8O6O name_ZVQO author
+PRINT :!*!4|@S
+DELETE :!*!4|@S
+PATH ^]VQ,!9; ZSC040FY
+EXIT

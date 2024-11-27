@@ -1,0 +1,7 @@
+ENTITY GFNB3NTD name_GFNB institution
+ENTITY TFEELXST name_TFEE author
+ENTITY UDZIK7IH name_UDZI conference
+PRINT *?+.$-,B
+DELETE *?+.$-,B
+PATH S72-&%B% UDZIK7IH
+EXIT

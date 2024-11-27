@@ -1,0 +1,7 @@
+ENTITY 4HAIMJUF name_4HAI conference
+ENTITY QUUFB27C name_QUUF institution
+ENTITY WTU5K98U name_WTU5 conference
+PRINT 5#=?FT(O
+DELETE 5#=?FT(O
+PATH 5#=?FT(O 4HAIMJUF
+EXIT

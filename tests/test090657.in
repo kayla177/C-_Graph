@@ -1,0 +1,7 @@
+ENTITY 5802SFDD name_5802 conference
+ENTITY 404V4EHU name_404V paper
+ENTITY SUI294A3 name_SUI2 institution
+PRINT [<-;8,-P
+DELETE [<-;8,-P
+PATH [<-;8,-P 404V4EHU
+EXIT

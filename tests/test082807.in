@@ -1,0 +1,7 @@
+ENTITY QUXGQRWH name_QUXG institution
+ENTITY P0OW75ZS name_P0OW paper
+ENTITY 1FCAWDQ8 name_1FCA conference
+PRINT S<|@$G]?
+DELETE S<|@$G]?
+PATH .?|:T(E9 P0OW75ZS
+EXIT

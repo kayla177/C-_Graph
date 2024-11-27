@@ -1,0 +1,7 @@
+ENTITY SAQ04HYG name_SAQ0 institution
+ENTITY 5KIWQFJT name_5KIW journal
+ENTITY 3S0FX0OW name_3S0F paper
+PRINT -O<([E$<
+DELETE -O<([E$<
+PATH -O<([E$< 3S0FX0OW
+EXIT

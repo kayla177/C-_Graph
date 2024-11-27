@@ -1,0 +1,7 @@
+ENTITY 8D51B2NZ name_8D51 institution
+ENTITY LABIW1GH name_LABI institution
+ENTITY 590TVJ6U name_590T journal
+PRINT F?,],5-1
+DELETE [FQ)--KY
+PATH [FQ)--KY 8D51B2NZ
+EXIT

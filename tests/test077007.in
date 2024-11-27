@@ -1,0 +1,7 @@
+ENTITY 6JYCOO80 name_6JYC conference
+ENTITY KTM4816Y name_KTM4 conference
+ENTITY 0JO83FVY name_0JO8 journal
+PRINT ,>!N.]T6
+DELETE ,>!N.]T6
+PATH ,>!N.]T6 KTM4816Y
+EXIT

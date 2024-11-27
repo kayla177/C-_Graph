@@ -1,0 +1,7 @@
+ENTITY LUKMPXBS name_LUKM institution
+ENTITY GUQUM69C name_GUQU journal
+ENTITY UPEUN1YG name_UPEU institution
+PRINT P|&P%9%+
+DELETE P|&P%9%+
+PATH D(HTM(=] UPEUN1YG
+EXIT

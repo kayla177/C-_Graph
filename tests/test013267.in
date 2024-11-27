@@ -1,0 +1,7 @@
+ENTITY ME12HBHL name_ME12 conference
+ENTITY CP8FUTJ7 name_CP8F conference
+ENTITY 7YRKYQM6 name_7YRK institution
+PRINT >#MS@:I6
+DELETE >#MS@:I6
+PATH >#MS@:I6 7YRKYQM6
+EXIT

@@ -1,0 +1,7 @@
+ENTITY PIH9X6WX name_PIH9 institution
+ENTITY 49YWBJ4N name_49YW paper
+ENTITY I5RBND9A name_I5RB journal
+PRINT *,X)*H:-
+DELETE *,X)*H:-
+PATH -+O;:G%^ 49YWBJ4N
+EXIT

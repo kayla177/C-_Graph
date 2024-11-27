@@ -1,0 +1,7 @@
+ENTITY NMG62X0E name_NMG6 author
+ENTITY 2GDIN9RY name_2GDI conference
+ENTITY G6A9XBWM name_G6A9 paper
+PRINT >#U>P&{;
+DELETE >#U>P&{;
+PATH >#U>P&{; NMG62X0E
+EXIT

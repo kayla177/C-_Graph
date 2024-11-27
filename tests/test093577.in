@@ -1,0 +1,7 @@
+ENTITY 21CT5E47 name_21CT institution
+ENTITY 56DJ658C name_56DJ author
+ENTITY 7EX36X9E name_7EX3 journal
+PRINT ^|I:#,O!
+DELETE ^|I:#,O!
+PATH {E^R?$%0 21CT5E47
+EXIT

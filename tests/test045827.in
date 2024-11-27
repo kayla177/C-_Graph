@@ -1,0 +1,7 @@
+ENTITY JYOX4AWO name_JYOX paper
+ENTITY DHVKLZ7W name_DHVK author
+ENTITY H5TAFSSP name_H5TA journal
+PRINT [:*$C<.%
+DELETE [:*$C<.%
+PATH [:*$C<.% DHVKLZ7W
+EXIT

@@ -1,0 +1,7 @@
+ENTITY B2U44E6V name_B2U4 conference
+ENTITY 2WO9O3QL name_2WO9 conference
+ENTITY DTSTAD6L name_DTST conference
+PRINT |<8,:SQF
+DELETE |<8,:SQF
+PATH ({L:%]T9 B2U44E6V
+EXIT

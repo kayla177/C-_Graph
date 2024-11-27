@@ -1,0 +1,7 @@
+ENTITY 3Z9AY8TW name_3Z9A institution
+ENTITY YAQ16T2V name_YAQ1 author
+ENTITY TXDK3W1U name_TXDK paper
+PRINT .)[*3;?%
+DELETE .)[*3;?%
+PATH .)[*3;?% YAQ16T2V
+EXIT

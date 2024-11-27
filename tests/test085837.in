@@ -1,0 +1,7 @@
+ENTITY DPZ4NZAF name_DPZ4 paper
+ENTITY B8W1K2UR name_B8W1 journal
+ENTITY KUPRS7TB name_KUPR institution
+PRINT @.&MU<?.
+DELETE @.&MU<?.
+PATH @.&MU<?. KUPRS7TB
+EXIT

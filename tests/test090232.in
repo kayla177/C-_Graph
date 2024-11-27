@@ -1,0 +1,7 @@
+ENTITY F4Y6KL72 name_F4Y6 author
+ENTITY N1C1QXIO name_N1C1 institution
+ENTITY I89Y1CST name_I89Y conference
+PRINT &.SN;E,)
+DELETE &.SN;E,)
+PATH &.SN;E,) F4Y6KL72
+EXIT

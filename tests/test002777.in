@@ -1,0 +1,7 @@
+ENTITY 8N0712IY name_8N07 institution
+ENTITY Z9WN4H70 name_Z9WN institution
+ENTITY OPKIQC4V name_OPKI conference
+PRINT 9P?H%<-R
+DELETE 9P?H%<-R
+PATH 9P?H%<-R OPKIQC4V
+EXIT

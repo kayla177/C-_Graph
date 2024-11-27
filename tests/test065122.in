@@ -1,0 +1,7 @@
+ENTITY B3S2AKPY name_B3S2 institution
+ENTITY 6A19OO25 name_6A19 conference
+ENTITY D6XB21XX name_D6XB author
+PRINT [&$%1;50
+DELETE [&$%1;50
+PATH )++[,^=$ 6A19OO25
+EXIT

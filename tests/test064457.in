@@ -1,0 +1,7 @@
+ENTITY KFQ9QDNX name_KFQ9 author
+ENTITY 63MFX1NK name_63MF paper
+ENTITY XBZWX9OK name_XBZW journal
+PRINT *L{_F$(;
+DELETE .{$-_B[:
+PATH .{$-_B[: KFQ9QDNX
+EXIT

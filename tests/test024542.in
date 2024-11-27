@@ -1,0 +1,7 @@
+ENTITY MNPTXZM5 name_MNPT journal
+ENTITY 0UR62MOC name_0UR6 institution
+ENTITY LP4SEZMG name_LP4S journal
+PRINT ,&Z)6?C:
+DELETE ,&Z)6?C:
+PATH ,&Z)6?C: 0UR62MOC
+EXIT

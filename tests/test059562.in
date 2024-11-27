@@ -1,0 +1,7 @@
+ENTITY 4S1CVYYM name_4S1C conference
+ENTITY JWDL9AMA name_JWDL journal
+ENTITY CK9IQB24 name_CK9I conference
+PRINT 0[)3->}[
+DELETE 0[)3->}[
+PATH 0[)3->}[ JWDL9AMA
+EXIT

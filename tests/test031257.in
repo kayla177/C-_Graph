@@ -1,0 +1,7 @@
+ENTITY QCIFHOFK name_QCIF journal
+ENTITY J44R0FG8 name_J44R conference
+ENTITY J2RNLV8X name_J2RN journal
+PRINT 6W-(1,H)
+DELETE &)-{^@;>
+PATH &)-{^@;> QCIFHOFK
+EXIT

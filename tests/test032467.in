@@ -1,0 +1,7 @@
+ENTITY SSDDWO92 name_SSDD conference
+ENTITY HESDD17N name_HESD institution
+ENTITY BUCJ3JV1 name_BUCJ conference
+PRINT <3|<@X!>
+DELETE +<_1_6E0
+PATH <3|<@X!> SSDDWO92
+EXIT

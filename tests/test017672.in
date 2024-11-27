@@ -1,0 +1,7 @@
+ENTITY UK26QUCT name_UK26 institution
+ENTITY 3QO9AFGY name_3QO9 paper
+ENTITY G85M4Q5Y name_G85M institution
+PRINT _:X]*Z_+
+DELETE _:X]*Z_+
+PATH _:X]*Z_+ UK26QUCT
+EXIT

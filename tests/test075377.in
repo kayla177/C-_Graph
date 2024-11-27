@@ -1,0 +1,7 @@
+ENTITY 53MN42PL name_53MN journal
+ENTITY KI9J9KKQ name_KI9J conference
+ENTITY 2F9HTNP0 name_2F9H institution
+PRINT RI.=}A<%
+DELETE RI.=}A<%
+PATH 9##H:Q-: 53MN42PL
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 2QL7MPVF name_2QL7 journal
+ENTITY ERDYMZ1K name_ERDY paper
+ENTITY XYF46Q1U name_XYF4 conference
+PRINT &Q;[|}.$
+DELETE &Q;[|}.$
+PATH &Q;[|}.$ ERDYMZ1K
+EXIT

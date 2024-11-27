@@ -1,0 +1,7 @@
+ENTITY FY1FJTWY name_FY1F institution
+ENTITY XYBHVYDX name_XYBH conference
+ENTITY 6TPSWOIG name_6TPS institution
+PRINT 2V,[#4C<
+DELETE 2V,[#4C<
+PATH _H[A;W4_ XYBHVYDX
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 5B5UXA4F name_5B5U author
+ENTITY BLSX1SAY name_BLSX institution
+ENTITY D8XB6A08 name_D8XB institution
+PRINT <9},;|IR
+DELETE <9},;|IR
+PATH <9},;|IR BLSX1SAY
+EXIT

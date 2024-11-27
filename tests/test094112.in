@@ -1,0 +1,7 @@
+ENTITY Q0ZEMJGY name_Q0ZE institution
+ENTITY D1DDDE76 name_D1DD institution
+ENTITY CZGJOVQY name_CZGJ journal
+PRINT 0=%8@]&2
+DELETE 0=%8@]&2
+PATH :^_V.>4J Q0ZEMJGY
+EXIT

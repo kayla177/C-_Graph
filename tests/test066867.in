@@ -1,0 +1,7 @@
+ENTITY VFBDNCFG name_VFBD author
+ENTITY QSO4R7ZT name_QSO4 institution
+ENTITY ZS8XP40F name_ZS8X author
+PRINT &*7=-3.,
+DELETE 1QK.-G!-
+PATH &*7=-3., ZS8XP40F
+EXIT

@@ -1,0 +1,7 @@
+ENTITY XMOOIZUZ name_XMOO author
+ENTITY ZISH2NDE name_ZISH conference
+ENTITY YMGVJ45S name_YMGV conference
+PRINT !2_F(#H-
+DELETE !2_F(#H-
+PATH _+C{0?@& ZISH2NDE
+EXIT

@@ -1,0 +1,7 @@
+ENTITY E92T8JQ1 name_E92T journal
+ENTITY V820VQFX name_V820 institution
+ENTITY ZYURBSQ0 name_ZYUR conference
+PRINT }-*{S1=*
+DELETE )#TC:85$
+PATH )#TC:85$ ZYURBSQ0
+EXIT

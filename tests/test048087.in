@@ -1,0 +1,7 @@
+ENTITY 6YHXTOX9 name_6YHX author
+ENTITY 1MUAQH2Y name_1MUA journal
+ENTITY HT84U5UQ name_HT84 conference
+PRINT W*I+:,+,
+DELETE B4-_-E|!
+PATH B4-_-E|! 1MUAQH2Y
+EXIT

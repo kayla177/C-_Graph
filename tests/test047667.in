@@ -1,0 +1,7 @@
+ENTITY 1FJCIWQE name_1FJC journal
+ENTITY NS3VP0AO name_NS3V author
+ENTITY YRYF5POH name_YRYF journal
+PRINT <=D+%!.C
+DELETE <=D+%!.C
+PATH <=D+%!.C NS3VP0AO
+EXIT

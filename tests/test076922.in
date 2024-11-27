@@ -1,0 +1,7 @@
+ENTITY G41DRHJN name_G41D conference
+ENTITY QBC7LIGR name_QBC7 institution
+ENTITY RD24K9YZ name_RD24 institution
+PRINT +[V,)*(:
+DELETE 0D==DLX^
+PATH M!<;);GY RD24K9YZ
+EXIT

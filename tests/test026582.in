@@ -1,0 +1,7 @@
+ENTITY TS2SHQJ3 name_TS2S institution
+ENTITY HF1ZNUVW name_HF1Z institution
+ENTITY 672T1CVQ name_672T paper
+PRINT |WS&1+)?
+DELETE |WS&1+)?
+PATH VY&*{..@ 672T1CVQ
+EXIT

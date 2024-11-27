@@ -1,0 +1,7 @@
+ENTITY P7KV681B name_P7KV institution
+ENTITY VPU10OMJ name_VPU1 paper
+ENTITY DHP5VX3H name_DHP5 author
+PRINT :3N,B&.<
+DELETE @^>7[B+:
+PATH @^>7[B+: VPU10OMJ
+EXIT

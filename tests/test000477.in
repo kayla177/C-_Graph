@@ -1,0 +1,7 @@
+ENTITY U7M5CA0F name_U7M5 conference
+ENTITY UZW49XAG name_UZW4 conference
+ENTITY 3OC65WE8 name_3OC6 institution
+PRINT HV6_>?@Y
+DELETE HV6_>?@Y
+PATH ?0*BE{$O UZW49XAG
+EXIT

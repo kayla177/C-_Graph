@@ -1,0 +1,7 @@
+ENTITY JW5ROVM9 name_JW5R conference
+ENTITY F1B2OYNO name_F1B2 institution
+ENTITY L0MMGX36 name_L0MM author
+PRINT D(!+>:F%
+DELETE )).=$K).
+PATH D(!+>:F% F1B2OYNO
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 7E4KBVG7 name_7E4K conference
+ENTITY YFT8SPUT name_YFT8 institution
+ENTITY KEK29DDE name_KEK2 conference
+PRINT &PL*#F:K
+DELETE NA[M++;W
+PATH &PL*#F:K 7E4KBVG7
+EXIT

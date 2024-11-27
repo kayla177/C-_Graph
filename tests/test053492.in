@@ -1,0 +1,7 @@
+ENTITY YMDZNWZB name_YMDZ journal
+ENTITY TGNAS1LI name_TGNA conference
+ENTITY FYY7AP2W name_FYY7 author
+PRINT !$)*PQ*%
+DELETE !$)*PQ*%
+PATH 2D=__Q&T YMDZNWZB
+EXIT

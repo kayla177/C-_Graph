@@ -1,0 +1,7 @@
+ENTITY QX9L9ADI name_QX9L institution
+ENTITY JH780FUX name_JH78 journal
+ENTITY G67L5UK5 name_G67L journal
+PRINT :IC]@$&<
+DELETE :IC]@$&<
+PATH :IC]@$&< JH780FUX
+EXIT

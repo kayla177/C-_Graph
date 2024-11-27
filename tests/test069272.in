@@ -1,0 +1,7 @@
+ENTITY XJOK9ZVS name_XJOK author
+ENTITY 9TQXFQLB name_9TQX conference
+ENTITY 1PMB1CFC name_1PMB institution
+PRINT BH^*,0$-
+DELETE #P#A$<D+
+PATH #P#A$<D+ 1PMB1CFC
+EXIT

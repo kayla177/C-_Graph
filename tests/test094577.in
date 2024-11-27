@@ -1,0 +1,7 @@
+ENTITY DTQRU5EM name_DTQR journal
+ENTITY C5NIJ6O0 name_C5NI institution
+ENTITY X50LJCGD name_X50L institution
+PRINT ##[+A<G!
+DELETE ##[+A<G!
+PATH K_<<$7G( DTQRU5EM
+EXIT

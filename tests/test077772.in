@@ -1,0 +1,7 @@
+ENTITY WFAL27J6 name_WFAL institution
+ENTITY JL7S6FUQ name_JL7S institution
+ENTITY QNM9KYI1 name_QNM9 institution
+PRINT [([M61OH
+DELETE {^=FV$<-
+PATH {^=FV$<- JL7S6FUQ
+EXIT

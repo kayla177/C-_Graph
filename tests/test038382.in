@@ -1,0 +1,7 @@
+ENTITY A7NBNMNC name_A7NB author
+ENTITY JYGPYJVW name_JYGP institution
+ENTITY 35MJLEFZ name_35MJ conference
+PRINT 9X=#-,S)
+DELETE 9X=#-,S)
+PATH 9X=#-,S) A7NBNMNC
+EXIT

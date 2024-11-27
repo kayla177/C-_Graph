@@ -1,0 +1,7 @@
+ENTITY 6JWMJFXG name_6JWM journal
+ENTITY GH8IB3GQ name_GH8I author
+ENTITY 2T3XXXKR name_2T3X conference
+PRINT >LOD7[[4
+DELETE W=(R:E:=
+PATH -?&!=^]? GH8IB3GQ
+EXIT

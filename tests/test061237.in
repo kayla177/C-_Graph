@@ -1,0 +1,7 @@
+ENTITY 2MSXL43M name_2MSX conference
+ENTITY IGTICW95 name_IGTI author
+ENTITY 6QJ89CNM name_6QJ8 conference
+PRINT ;>,49*F!
+DELETE ;>,49*F!
+PATH ;>,49*F! 2MSXL43M
+EXIT

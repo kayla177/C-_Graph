@@ -1,0 +1,7 @@
+ENTITY MN1XDPCD name_MN1X institution
+ENTITY PVWQVFDT name_PVWQ institution
+ENTITY YLN912B3 name_YLN9 institution
+PRINT ]PEF_#I:
+DELETE ]PEF_#I:
+PATH $G$G3#[$ MN1XDPCD
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 4BGPIW9O name_4BGP institution
+ENTITY ILX2O58D name_ILX2 conference
+ENTITY XY23J2CG name_XY23 paper
+PRINT ,(:[^EEF
+DELETE ,(:[^EEF
+PATH O2,H**@# 4BGPIW9O
+EXIT

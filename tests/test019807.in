@@ -1,0 +1,7 @@
+ENTITY X1230HR6 name_X123 journal
+ENTITY 47NABLQQ name_47NA paper
+ENTITY 17M32JXQ name_17M3 paper
+PRINT [Z5=@M|@
+DELETE |);{G)},
+PATH |);{G)}, 17M32JXQ
+EXIT

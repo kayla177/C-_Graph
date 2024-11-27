@@ -1,0 +1,7 @@
+ENTITY P07KA094 name_P07K journal
+ENTITY YIS8C41X name_YIS8 institution
+ENTITY PTI0C4UK name_PTI0 author
+PRINT ^%#<{0:P
+DELETE ^%#<{0:P
+PATH M[)_I]XX YIS8C41X
+EXIT

@@ -1,0 +1,7 @@
+ENTITY YBZRE4H3 name_YBZR institution
+ENTITY MFJMF0NE name_MFJM author
+ENTITY JEZYLB7N name_JEZY conference
+PRINT *,L#AL!=
+DELETE *,L#AL!=
+PATH *,L#AL!= JEZYLB7N
+EXIT

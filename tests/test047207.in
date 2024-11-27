@@ -1,0 +1,7 @@
+ENTITY O9HK7FB1 name_O9HK institution
+ENTITY GZI2S24U name_GZI2 institution
+ENTITY ZIYFAQBQ name_ZIYF conference
+PRINT ?CPQD=,.
+DELETE ?CPQD=,.
+PATH DKAQ@}[: O9HK7FB1
+EXIT

@@ -1,0 +1,7 @@
+ENTITY HE70ZHMF name_HE70 institution
+ENTITY 4VTAA2AZ name_4VTA conference
+ENTITY NSEGGV3D name_NSEG conference
+PRINT $1AWA|#:
+DELETE $1AWA|#:
+PATH %)E1V*^4 HE70ZHMF
+EXIT

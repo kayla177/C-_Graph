@@ -1,0 +1,7 @@
+ENTITY QTMJ366A name_QTMJ institution
+ENTITY OATYJW08 name_OATY paper
+ENTITY ZQU3M4SO name_ZQU3 conference
+PRINT 9.(3.)@3
+DELETE 9.(3.)@3
+PATH {&6F(7^} ZQU3M4SO
+EXIT

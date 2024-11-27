@@ -1,0 +1,7 @@
+ENTITY 2BXQDTTH name_2BXQ journal
+ENTITY A1TSDLA5 name_A1TS institution
+ENTITY TBDD7EZE name_TBDD institution
+PRINT CIG,&,&*
+DELETE CIG,&,&*
+PATH T#()2ZSZ 2BXQDTTH
+EXIT

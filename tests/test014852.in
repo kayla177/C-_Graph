@@ -1,0 +1,7 @@
+ENTITY JIJN2UM9 name_JIJN journal
+ENTITY VO4KHKSE name_VO4K institution
+ENTITY 9MNPEU8P name_9MNP journal
+PRINT |=(;PNL)
+DELETE |=(;PNL)
+PATH ?E[!]NP| 9MNPEU8P
+EXIT

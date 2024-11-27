@@ -1,0 +1,7 @@
+ENTITY 2TSEAC3P name_2TSE conference
+ENTITY OU28FO3P name_OU28 conference
+ENTITY RA9SZSVT name_RA9S journal
+PRINT R,D[X{{_
+DELETE R,D[X{{_
+PATH R,D[X{{_ RA9SZSVT
+EXIT

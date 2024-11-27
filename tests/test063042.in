@@ -1,0 +1,7 @@
+ENTITY 5MZBURQV name_5MZB institution
+ENTITY Y1LZDAU7 name_Y1LZ paper
+ENTITY RI6YNIJ8 name_RI6Y author
+PRINT ?+@T+.D!
+DELETE ?+@T+.D!
+PATH [MQ}<=K@ RI6YNIJ8
+EXIT

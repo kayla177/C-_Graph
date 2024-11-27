@@ -1,0 +1,7 @@
+ENTITY VD7Q82IB name_VD7Q journal
+ENTITY YDAR9SHT name_YDAR conference
+ENTITY WQ9Q90DV name_WQ9Q institution
+PRINT >*%&,@,&
+DELETE >*%&,@,&
+PATH >*%&,@,& WQ9Q90DV
+EXIT

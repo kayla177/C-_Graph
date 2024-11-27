@@ -1,0 +1,7 @@
+ENTITY I30KO6R2 name_I30K conference
+ENTITY 8CWB6FP5 name_8CWB institution
+ENTITY LATDPKUA name_LATD conference
+PRINT O_F!M&3[
+DELETE BJ!2;8|#
+PATH BJ!2;8|# I30KO6R2
+EXIT

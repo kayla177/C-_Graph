@@ -1,0 +1,7 @@
+ENTITY TD8ZT1WN name_TD8Z institution
+ENTITY ZOB16U7R name_ZOB1 conference
+ENTITY E6TPRJG5 name_E6TP conference
+PRINT ZB%?S@SD
+DELETE $^W%^-$A
+PATH ZB%?S@SD ZOB16U7R
+EXIT

@@ -1,0 +1,7 @@
+ENTITY GRRLST0C name_GRRL institution
+ENTITY 7LDX69TB name_7LDX institution
+ENTITY OBIU14GR name_OBIU conference
+PRINT +J[A=8[)
+DELETE +J[A=8[)
+PATH (4}&QN,M 7LDX69TB
+EXIT

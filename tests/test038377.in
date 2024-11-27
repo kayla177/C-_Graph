@@ -1,0 +1,7 @@
+ENTITY V2T9QKVP name_V2T9 institution
+ENTITY KSEA7BM7 name_KSEA journal
+ENTITY NIRF1FXI name_NIRF paper
+PRINT 8,QT^%Q{
+DELETE 3+&{+(+U
+PATH 3+&{+(+U KSEA7BM7
+EXIT

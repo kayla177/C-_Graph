@@ -1,0 +1,7 @@
+ENTITY EDPI3UUC name_EDPI institution
+ENTITY MNDT3SYD name_MNDT conference
+ENTITY DZCKG5OY name_DZCK journal
+PRINT *F!^ZZS>
+DELETE ={E^*]]Y
+PATH *F!^ZZS> DZCKG5OY
+EXIT

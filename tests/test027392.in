@@ -1,0 +1,7 @@
+ENTITY 03M9YPTG name_03M9 institution
+ENTITY 05W8U9G3 name_05W8 conference
+ENTITY RHD8PX8Q name_RHD8 institution
+PRINT T{@Z+%}]
+DELETE T{@Z+%}]
+PATH T{@Z+%}] 03M9YPTG
+EXIT

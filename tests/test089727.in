@@ -1,0 +1,7 @@
+ENTITY 6RIMNDQP name_6RIM conference
+ENTITY U488PN5M name_U488 conference
+ENTITY 34EMM68K name_34EM conference
+PRINT ,{3_-?D?
+DELETE ,{3_-?D?
+PATH ,{3_-?D? 6RIMNDQP
+EXIT

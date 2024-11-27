@@ -1,0 +1,7 @@
+ENTITY POG5JQO1 name_POG5 author
+ENTITY QW5HF4NX name_QW5H conference
+ENTITY U4D2V13U name_U4D2 institution
+PRINT %Q=&=VO>
+DELETE %Q=&=VO>
+PATH %Q=&=VO> QW5HF4NX
+EXIT

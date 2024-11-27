@@ -1,0 +1,7 @@
+ENTITY EJJ7WQ6O name_EJJ7 author
+ENTITY 0IA121D5 name_0IA1 conference
+ENTITY WAEARVE0 name_WAEA conference
+PRINT 2@{+4+;,
+DELETE RD7_.|SD
+PATH 2@{+4+;, WAEARVE0
+EXIT

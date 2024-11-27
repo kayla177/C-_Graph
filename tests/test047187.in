@@ -1,0 +1,7 @@
+ENTITY FWZFMFO1 name_FWZF institution
+ENTITY 76FPKF4F name_76FP author
+ENTITY XAT8J1A1 name_XAT8 paper
+PRINT (|M@.)*?
+DELETE (|M@.)*?
+PATH E<F-I.!A 76FPKF4F
+EXIT

@@ -1,0 +1,7 @@
+ENTITY EO5JHH9L name_EO5J conference
+ENTITY BOJPJ9WK name_BOJP journal
+ENTITY 9NYOQA0E name_9NYO conference
+PRINT *H$}!?!4
+DELETE *H$}!?!4
+PATH *H$}!?!4 BOJPJ9WK
+EXIT

@@ -1,0 +1,7 @@
+ENTITY O51TPL7L name_O51T institution
+ENTITY EZQBC6NU name_EZQB institution
+ENTITY 1EHY95MO name_1EHY author
+PRINT ;W*%H&[0
+DELETE (-A1$J&-
+PATH (-A1$J&- O51TPL7L
+EXIT

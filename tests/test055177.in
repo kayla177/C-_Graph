@@ -1,0 +1,7 @@
+ENTITY 9B7JGDJ3 name_9B7J institution
+ENTITY Q9KCU389 name_Q9KC journal
+ENTITY YHJZEX2P name_YHJZ institution
+PRINT PC^+|]^1
+DELETE PC^+|]^1
+PATH PC^+|]^1 9B7JGDJ3
+EXIT

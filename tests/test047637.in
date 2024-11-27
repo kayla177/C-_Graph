@@ -1,0 +1,7 @@
+ENTITY 5JN1LZKO name_5JN1 conference
+ENTITY 0N1PRDNV name_0N1P author
+ENTITY 7LVIPG4R name_7LVI journal
+PRINT &;,CZ:[@
+DELETE _.V.7KP!
+PATH &;,CZ:[@ 0N1PRDNV
+EXIT

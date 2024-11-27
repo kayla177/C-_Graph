@@ -1,0 +1,7 @@
+ENTITY ECAM3GFG name_ECAM conference
+ENTITY FYP0UOSR name_FYP0 institution
+ENTITY DGPDCNA3 name_DGPD conference
+PRINT |QQ$7,_]
+DELETE {4X<14*2
+PATH |QQ$7,_] FYP0UOSR
+EXIT

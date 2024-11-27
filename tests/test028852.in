@@ -1,0 +1,7 @@
+ENTITY 807CSROH name_807C paper
+ENTITY Q6A6A3L8 name_Q6A6 conference
+ENTITY YSG15O4I name_YSG1 institution
+PRINT $K-=-X.7
+DELETE $;{*[,11
+PATH $;{*[,11 807CSROH
+EXIT

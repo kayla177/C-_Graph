@@ -1,0 +1,7 @@
+ENTITY Q4Z3B071 name_Q4Z3 conference
+ENTITY JF40LSF3 name_JF40 institution
+ENTITY RUCCL7F5 name_RUCC institution
+PRINT CBW<N&AO
+DELETE _;GHS*^>
+PATH _;GHS*^> RUCCL7F5
+EXIT

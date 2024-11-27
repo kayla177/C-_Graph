@@ -1,0 +1,7 @@
+ENTITY A3HRAZMD name_A3HR conference
+ENTITY 8WZ3KKWB name_8WZ3 paper
+ENTITY I2B9UDNU name_I2B9 conference
+PRINT ]>;{&%1}
+DELETE |X{^.MD_
+PATH |X{^.MD_ 8WZ3KKWB
+EXIT

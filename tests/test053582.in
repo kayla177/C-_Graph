@@ -1,0 +1,7 @@
+ENTITY 07LAQXLM name_07LA conference
+ENTITY 4LD3KIT1 name_4LD3 conference
+ENTITY BBWPM26C name_BBWP institution
+PRINT N>+])+S1
+DELETE N>+])+S1
+PATH +QF@]24< BBWPM26C
+EXIT

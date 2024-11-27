@@ -1,0 +1,7 @@
+ENTITY U2A8UIYU name_U2A8 journal
+ENTITY 962GCJ90 name_962G institution
+ENTITY S9JMTYMH name_S9JM conference
+PRINT TR:#[&BP
+DELETE EX}_><,O
+PATH EX}_><,O S9JMTYMH
+EXIT

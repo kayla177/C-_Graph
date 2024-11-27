@@ -1,0 +1,7 @@
+ENTITY IYXN1JNU name_IYXN author
+ENTITY Q3P1MPOF name_Q3P1 institution
+ENTITY L2E4QLEG name_L2E4 conference
+PRINT #*L@,[O(
+DELETE #*L@,[O(
+PATH 6LJ(P9[F Q3P1MPOF
+EXIT

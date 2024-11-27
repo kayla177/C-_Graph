@@ -1,0 +1,7 @@
+ENTITY EG5DN24R name_EG5D author
+ENTITY K0NTAFP9 name_K0NT journal
+ENTITY AAEI6221 name_AAEI conference
+PRINT ){<|A.P*
+DELETE ){<|A.P*
+PATH ){<|A.P* AAEI6221
+EXIT

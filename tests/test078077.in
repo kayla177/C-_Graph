@@ -1,0 +1,7 @@
+ENTITY M3PDLKJW name_M3PD institution
+ENTITY 17ZJGBA2 name_17ZJ author
+ENTITY UGKAD3P7 name_UGKA author
+PRINT ;$T$M@)&
+DELETE ;$T$M@)&
+PATH ;$T$M@)& UGKAD3P7
+EXIT

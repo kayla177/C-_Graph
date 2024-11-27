@@ -1,0 +1,7 @@
+ENTITY 81OBO5AL name_81OB author
+ENTITY CWBQIMHU name_CWBQ paper
+ENTITY D0VZEQ90 name_D0VZ institution
+PRINT ]T1:?[);
+DELETE ]T1:?[);
+PATH ]T1:?[); CWBQIMHU
+EXIT

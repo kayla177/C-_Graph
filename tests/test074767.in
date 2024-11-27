@@ -1,0 +1,7 @@
+ENTITY NAKR094W name_NAKR author
+ENTITY G18X3ABM name_G18X institution
+ENTITY DIS3VIFF name_DIS3 institution
+PRINT HAM$J@.5
+DELETE #*;Q0;{%
+PATH #*;Q0;{% G18X3ABM
+EXIT

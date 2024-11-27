@@ -1,0 +1,7 @@
+ENTITY H3ZJ74O7 name_H3ZJ institution
+ENTITY 6Y40GKA6 name_6Y40 institution
+ENTITY WSZVCVSO name_WSZV institution
+PRINT U:.C:X|0
+DELETE U:.C:X|0
+PATH H4G|3Y_| H3ZJ74O7
+EXIT

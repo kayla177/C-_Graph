@@ -1,0 +1,7 @@
+ENTITY ADHCJ1RJ name_ADHC institution
+ENTITY KT9PRHUF name_KT9P journal
+ENTITY WELHN5JR name_WELH institution
+PRINT F^%^(^[:
+DELETE >%<?-3+<
+PATH F^%^(^[: WELHN5JR
+EXIT

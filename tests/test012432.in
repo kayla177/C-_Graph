@@ -1,0 +1,7 @@
+ENTITY YOID1VMB name_YOID institution
+ENTITY KXGBRGH5 name_KXGB journal
+ENTITY LGX2J9MV name_LGX2 conference
+PRINT A!%_)<42
+DELETE $(|74<!,
+PATH A!%_)<42 LGX2J9MV
+EXIT

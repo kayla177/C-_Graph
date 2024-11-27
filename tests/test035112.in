@@ -1,0 +1,7 @@
+ENTITY CGWHRMWE name_CGWH conference
+ENTITY 309EN8RG name_309E institution
+ENTITY MUWF1Y5K name_MUWF conference
+PRINT Z8#|__{A
+DELETE Z8#|__{A
+PATH >QC.(D9; MUWF1Y5K
+EXIT

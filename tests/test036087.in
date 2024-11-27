@@ -1,0 +1,7 @@
+ENTITY 9GL185GX name_9GL1 conference
+ENTITY A32MZBIN name_A32M paper
+ENTITY 1DNCDSA8 name_1DNC paper
+PRINT @?#U>5>}
+DELETE @?#U>5>}
+PATH @?#U>5>} A32MZBIN
+EXIT

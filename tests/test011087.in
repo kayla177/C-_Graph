@@ -1,0 +1,7 @@
+ENTITY SV0V1APA name_SV0V institution
+ENTITY 4RF2KORL name_4RF2 conference
+ENTITY V049CXEA name_V049 author
+PRINT $*DWG[^{
+DELETE $*DWG[^{
+PATH $*DWG[^{ 4RF2KORL
+EXIT

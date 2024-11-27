@@ -1,0 +1,7 @@
+ENTITY 7NKMOT9H name_7NKM institution
+ENTITY DWSDXOJ6 name_DWSD author
+ENTITY 1U70UL9Z name_1U70 conference
+PRINT >$BD;)},
+DELETE >$BD;)},
+PATH >$BD;)}, 1U70UL9Z
+EXIT

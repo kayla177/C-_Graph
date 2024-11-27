@@ -1,0 +1,7 @@
+ENTITY GZGNP8IL name_GZGN author
+ENTITY IQ8NCKJD name_IQ8N institution
+ENTITY YECUHZNR name_YECU conference
+PRINT X|(]@--,
+DELETE X|(]@--,
+PATH BMK?X!(1 YECUHZNR
+EXIT

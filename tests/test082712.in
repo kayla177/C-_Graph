@@ -1,0 +1,7 @@
+ENTITY 02KE13MT name_02KE journal
+ENTITY 6670LDBI name_6670 journal
+ENTITY 6M2CW7Q4 name_6M2C institution
+PRINT 3-C?GY[@
+DELETE 3-C?GY[@
+PATH ==|>5&[# 6670LDBI
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 3EF7T96B name_3EF7 conference
+ENTITY TMQ8GBXR name_TMQ8 conference
+ENTITY 1E5K6NRO name_1E5K journal
+PRINT 2!*>KVN*
+DELETE -=BO,@I+
+PATH -=BO,@I+ TMQ8GBXR
+EXIT

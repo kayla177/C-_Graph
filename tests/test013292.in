@@ -1,0 +1,7 @@
+ENTITY 6OCTDB6J name_6OCT conference
+ENTITY ISER5GMZ name_ISER conference
+ENTITY U6G2C0OE name_U6G2 institution
+PRINT ]+U{7}|[
+DELETE #*|P)>P=
+PATH #*|P)>P= U6G2C0OE
+EXIT

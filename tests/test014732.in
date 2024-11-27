@@ -1,0 +1,7 @@
+ENTITY TQ4JZWYG name_TQ4J author
+ENTITY 4W9QLQOT name_4W9Q conference
+ENTITY BEHCA7ID name_BEHC institution
+PRINT *4,NF^>#
+DELETE $TD#-X&<
+PATH $TD#-X&< 4W9QLQOT
+EXIT

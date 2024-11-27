@@ -1,0 +1,7 @@
+ENTITY MQG5X149 name_MQG5 conference
+ENTITY 8O9PC44D name_8O9P journal
+ENTITY VLJEHMEY name_VLJE institution
+PRINT 24I-R:$?
+DELETE .(|_CS(,
+PATH 24I-R:$? VLJEHMEY
+EXIT

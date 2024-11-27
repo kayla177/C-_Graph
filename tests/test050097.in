@@ -1,0 +1,7 @@
+ENTITY TTMDPPGF name_TTMD institution
+ENTITY JYK7EHS9 name_JYK7 paper
+ENTITY C4QL7RA4 name_C4QL journal
+PRINT $<R#[$#]
+DELETE $<R#[$#]
+PATH $<R#[$#] JYK7EHS9
+EXIT

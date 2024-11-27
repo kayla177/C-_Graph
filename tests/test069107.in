@@ -1,0 +1,7 @@
+ENTITY 5MOGJ9ZV name_5MOG journal
+ENTITY IWYK933P name_IWYK paper
+ENTITY 79OG0Z0M name_79OG institution
+PRINT ?|+>;R<E
+DELETE ?|+>;R<E
+PATH K,N^[64^ 79OG0Z0M
+EXIT

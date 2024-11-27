@@ -1,0 +1,7 @@
+ENTITY ALX961AZ name_ALX9 paper
+ENTITY JN69AS4O name_JN69 institution
+ENTITY Q1V7WA7J name_Q1V7 institution
+PRINT +*,X,RP^
+DELETE +*,X,RP^
+PATH +*,X,RP^ Q1V7WA7J
+EXIT

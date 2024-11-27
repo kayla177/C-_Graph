@@ -1,0 +1,7 @@
+ENTITY 8RTBR6NI name_8RTB institution
+ENTITY D6B97RHR name_D6B9 paper
+ENTITY LFH7X5SW name_LFH7 journal
+PRINT <#LH6S76
+DELETE |&=#:Z=#
+PATH |&=#:Z=# 8RTBR6NI
+EXIT

@@ -1,0 +1,7 @@
+ENTITY L23CNL6I name_L23C institution
+ENTITY 2NBZ6BUI name_2NBZ institution
+ENTITY 5SIXLSQL name_5SIX journal
+PRINT K!]?[!UI
+DELETE K!]?[!UI
+PATH @[^!:S4> 5SIXLSQL
+EXIT

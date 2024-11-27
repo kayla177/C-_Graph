@@ -1,0 +1,7 @@
+ENTITY T2AOWXI8 name_T2AO author
+ENTITY M5DWKES9 name_M5DW journal
+ENTITY 5G0PGXHL name_5G0P conference
+PRINT <-.|F<?<
+DELETE <-.|F<?<
+PATH <-.|F<?< T2AOWXI8
+EXIT

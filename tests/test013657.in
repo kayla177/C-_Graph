@@ -1,0 +1,7 @@
+ENTITY IEE57X6L name_IEE5 conference
+ENTITY HSOYHDKL name_HSOY conference
+ENTITY EIA59Y1Y name_EIA5 institution
+PRINT }R2%L9$;
+DELETE }R2%L9$;
+PATH }R2%L9$; EIA59Y1Y
+EXIT

@@ -1,0 +1,7 @@
+ENTITY W3Q7PP4T name_W3Q7 institution
+ENTITY HKJFYM1X name_HKJF author
+ENTITY 1XWQLCKT name_1XWQ institution
+PRINT O;#^VENZ
+DELETE ?^(GH.$(
+PATH ?^(GH.$( HKJFYM1X
+EXIT

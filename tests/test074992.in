@@ -1,0 +1,7 @@
+ENTITY 63UC9HEB name_63UC conference
+ENTITY K8AW7728 name_K8AW conference
+ENTITY EV66M9GE name_EV66 institution
+PRINT {#{(Y;4=
+DELETE {#{(Y;4=
+PATH {#{(Y;4= K8AW7728
+EXIT

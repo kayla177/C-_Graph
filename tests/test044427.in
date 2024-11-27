@@ -1,0 +1,7 @@
+ENTITY 5WVG5YYU name_5WVG conference
+ENTITY A12UJQPN name_A12U institution
+ENTITY TE86NDRA name_TE86 author
+PRINT 4>Z|*}H+
+DELETE 4>Z|*}H+
+PATH N-{I?S+H 5WVG5YYU
+EXIT

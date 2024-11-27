@@ -1,0 +1,7 @@
+ENTITY UUUQH2P1 name_UUUQ conference
+ENTITY GKAY60SO name_GKAY journal
+ENTITY D3VGT0GY name_D3VG paper
+PRINT &];|[^A{
+DELETE &];|[^A{
+PATH &];|[^A{ D3VGT0GY
+EXIT

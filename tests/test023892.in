@@ -1,0 +1,7 @@
+ENTITY J19JQUQX name_J19J institution
+ENTITY 5T37O3LS name_5T37 conference
+ENTITY MPJJ7883 name_MPJJ journal
+PRINT G*_6;&_Z
+DELETE G*_6;&_Z
+PATH G*_6;&_Z J19JQUQX
+EXIT

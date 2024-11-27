@@ -1,0 +1,7 @@
+ENTITY WXYQ5RGP name_WXYQ journal
+ENTITY KCLOVCU5 name_KCLO institution
+ENTITY 2SO3OZ6P name_2SO3 journal
+PRINT I!4[[>]|
+DELETE =SNF>*^4
+PATH I!4[[>]| WXYQ5RGP
+EXIT

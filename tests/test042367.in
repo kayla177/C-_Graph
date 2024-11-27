@@ -1,0 +1,7 @@
+ENTITY XFBMOTI9 name_XFBM journal
+ENTITY 39LZQ4GT name_39LZ conference
+ENTITY N0ABQ4P5 name_N0AB conference
+PRINT -9:;)V#N
+DELETE -9:;)V#N
+PATH -9:;)V#N N0ABQ4P5
+EXIT

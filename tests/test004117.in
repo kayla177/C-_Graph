@@ -1,0 +1,7 @@
+ENTITY HSBJA6C5 name_HSBJ conference
+ENTITY 7ONB44LM name_7ONB journal
+ENTITY ZIJ0S807 name_ZIJ0 institution
+PRINT )_A=[#Y!
+DELETE )_A=[#Y!
+PATH )_A=[#Y! 7ONB44LM
+EXIT

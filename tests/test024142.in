@@ -1,0 +1,7 @@
+ENTITY MA1JUS96 name_MA1J institution
+ENTITY JAHCYBXV name_JAHC conference
+ENTITY LSP3XX0E name_LSP3 institution
+PRINT ]$76:C=;
+DELETE L,1!6P,9
+PATH ]$76:C=; LSP3XX0E
+EXIT

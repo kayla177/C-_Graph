@@ -1,0 +1,7 @@
+ENTITY MQZX6S90 name_MQZX conference
+ENTITY 0KNR2HYK name_0KNR institution
+ENTITY PLKKVQCP name_PLKK conference
+PRINT P1*=G?-{
+DELETE %K($<NU5
+PATH P1*=G?-{ PLKKVQCP
+EXIT

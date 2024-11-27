@@ -1,0 +1,7 @@
+ENTITY XVQAFMPU name_XVQA conference
+ENTITY XORNVILZ name_XORN institution
+ENTITY XWJ6W29O name_XWJ6 author
+PRINT @2M>&HZ&
+DELETE N=+J,:#|
+PATH @2M>&HZ& XVQAFMPU
+EXIT

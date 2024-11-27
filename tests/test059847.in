@@ -1,0 +1,7 @@
+ENTITY FCIJF4RB name_FCIJ conference
+ENTITY K9R6E9CZ name_K9R6 conference
+ENTITY SQMYW9FX name_SQMY institution
+PRINT W>=={#H6
+DELETE %&]ID>#.
+PATH %&]ID>#. SQMYW9FX
+EXIT

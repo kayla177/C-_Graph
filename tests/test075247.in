@@ -1,0 +1,7 @@
+ENTITY RLTG6QWP name_RLTG conference
+ENTITY ZFV9QAVN name_ZFV9 institution
+ENTITY 1AU4D948 name_1AU4 journal
+PRINT {-){M>YZ
+DELETE {-){M>YZ
+PATH {-){M>YZ ZFV9QAVN
+EXIT

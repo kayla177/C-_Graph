@@ -1,0 +1,7 @@
+ENTITY B844X5HB name_B844 institution
+ENTITY ZHMPAJS8 name_ZHMP author
+ENTITY UL098K6K name_UL09 conference
+PRINT LY{3#$SD
+DELETE &H[}H:{%
+PATH $^:>N_+Z ZHMPAJS8
+EXIT

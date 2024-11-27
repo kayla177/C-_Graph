@@ -1,0 +1,7 @@
+ENTITY ABEYSBRM name_ABEY journal
+ENTITY DJLRS3EA name_DJLR journal
+ENTITY 9ZAZ20L2 name_9ZAZ institution
+PRINT 2:.R.+$F
+DELETE (Q3^+[T[
+PATH (Q3^+[T[ DJLRS3EA
+EXIT

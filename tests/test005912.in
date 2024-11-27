@@ -1,0 +1,7 @@
+ENTITY 4C5Z28WN name_4C5Z institution
+ENTITY 8Z2OK16B name_8Z2O author
+ENTITY B4UC1NNU name_B4UC conference
+PRINT >{(0+<.^
+DELETE >{(0+<.^
+PATH >{(0+<.^ 4C5Z28WN
+EXIT

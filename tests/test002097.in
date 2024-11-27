@@ -1,0 +1,7 @@
+ENTITY R9XMBI7Z name_R9XM conference
+ENTITY 64AESG3B name_64AE author
+ENTITY 7TNN8G1T name_7TNN institution
+PRINT #?R5(?{L
+DELETE #?R5(?{L
+PATH #?R5(?{L 7TNN8G1T
+EXIT

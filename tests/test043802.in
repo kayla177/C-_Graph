@@ -1,0 +1,7 @@
+ENTITY 1ZE0C03V name_1ZE0 conference
+ENTITY IM3VAFQJ name_IM3V conference
+ENTITY AQL97FY1 name_AQL9 conference
+PRINT >.@E+:<0
+DELETE $J7SPO.&
+PATH >.@E+:<0 AQL97FY1
+EXIT

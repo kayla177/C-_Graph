@@ -1,0 +1,7 @@
+ENTITY HS6OQXPS name_HS6O conference
+ENTITY HR9OZP7P name_HR9O journal
+ENTITY 9O53FNR3 name_9O53 institution
+PRINT C>@,[VHT
+DELETE C>@,[VHT
+PATH !:,^X,@P HR9OZP7P
+EXIT

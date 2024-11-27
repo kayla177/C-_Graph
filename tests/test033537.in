@@ -1,0 +1,7 @@
+ENTITY HJ0GW6PV name_HJ0G journal
+ENTITY TN36GDKH name_TN36 author
+ENTITY OFCC3BHI name_OFCC conference
+PRINT [,]?*)2E
+DELETE +A&$:Y&Z
+PATH +A&$:Y&Z OFCC3BHI
+EXIT

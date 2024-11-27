@@ -1,0 +1,7 @@
+ENTITY I0GUXW58 name_I0GU institution
+ENTITY QEM3VKT7 name_QEM3 paper
+ENTITY 7EEZ60XT name_7EEZ conference
+PRINT [{>L2{N.
+DELETE [{>L2{N.
+PATH }!C(<_F9 QEM3VKT7
+EXIT

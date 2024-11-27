@@ -1,0 +1,7 @@
+ENTITY B723RD3Z name_B723 author
+ENTITY 12FQ6DKW name_12FQ journal
+ENTITY MH0N4C1G name_MH0N institution
+PRINT N_;%-*_U
+DELETE N_;%-*_U
+PATH N_;%-*_U MH0N4C1G
+EXIT

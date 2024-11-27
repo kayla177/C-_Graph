@@ -1,0 +1,7 @@
+ENTITY OKACV011 name_OKAC author
+ENTITY RQ61UE0N name_RQ61 conference
+ENTITY P917PDYN name_P917 institution
+PRINT !.][O&:F
+DELETE ^D=#3A?@
+PATH +.C,42.R OKACV011
+EXIT

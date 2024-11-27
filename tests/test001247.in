@@ -1,0 +1,7 @@
+ENTITY M2VW4MBG name_M2VW conference
+ENTITY UH2MXC84 name_UH2M institution
+ENTITY T06DF647 name_T06D conference
+PRINT {,IMTL=)
+DELETE {,IMTL=)
+PATH {,IMTL=) M2VW4MBG
+EXIT

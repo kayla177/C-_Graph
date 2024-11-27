@@ -1,0 +1,7 @@
+ENTITY ZT5ADIOD name_ZT5A conference
+ENTITY 325GRXPS name_325G journal
+ENTITY 5JWI8K6S name_5JWI institution
+PRINT :R])>=,*
+DELETE :R])>=,*
+PATH :R])>=,* 5JWI8K6S
+EXIT

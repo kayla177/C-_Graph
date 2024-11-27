@@ -8,5 +8,13 @@ private:
     std::string type;
 
 public:
-    Node();
+    Node(const std::string &id, const std::string &name, const std::string &type);
+
+    //---------------------------------- getters -------------------------
+    std::string getId();
+    std::string getName();
+    std::string getType();
+
+    //---------------------------------- modifiers -------------------------
+    void update(std::string newName, std::string newType);
 };

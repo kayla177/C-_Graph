@@ -1,0 +1,7 @@
+ENTITY LNI5KRVJ name_LNI5 conference
+ENTITY 1G85IZ99 name_1G85 paper
+ENTITY UMLC8FLK name_UMLC journal
+PRINT !(!8=P((
+DELETE !(!8=P((
+PATH !(!8=P(( 1G85IZ99
+EXIT

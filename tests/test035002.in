@@ -1,0 +1,7 @@
+ENTITY VHHQV21K name_VHHQ conference
+ENTITY GUQ73G7B name_GUQ7 institution
+ENTITY 2O7BR6E1 name_2O7B institution
+PRINT *TM=^6}D
+DELETE *TM=^6}D
+PATH H||#,^IS GUQ73G7B
+EXIT

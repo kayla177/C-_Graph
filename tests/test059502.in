@@ -1,0 +1,7 @@
+ENTITY T234IXPK name_T234 conference
+ENTITY BV6UXRDS name_BV6U institution
+ENTITY M8TPWHII name_M8TP institution
+PRINT 3^[+%Z6<
+DELETE 3^[+%Z6<
+PATH L*&{J>BH M8TPWHII
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 3S92MSR7 name_3S92 institution
+ENTITY L12SOQNF name_L12S institution
+ENTITY PUM7YS0T name_PUM7 paper
+PRINT :|%{,#_S
+DELETE YA-IJA!$
+PATH :|%{,#_S PUM7YS0T
+EXIT

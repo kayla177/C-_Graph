@@ -1,0 +1,7 @@
+ENTITY 4EOAVBXF name_4EOA institution
+ENTITY P78PJVRC name_P78P conference
+ENTITY BKNK6MPR name_BKNK institution
+PRINT 91E1,$+@
+DELETE 91E1,$+@
+PATH <,8^KE), 4EOAVBXF
+EXIT

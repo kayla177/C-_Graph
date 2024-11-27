@@ -1,0 +1,7 @@
+ENTITY JSXC7W4Z name_JSXC journal
+ENTITY ZOTAN7VA name_ZOTA conference
+ENTITY 10SNQMLT name_10SN journal
+PRINT ,I>%{_==
+DELETE ,I>%{_==
+PATH >)7=|P?? ZOTAN7VA
+EXIT

@@ -1,0 +1,7 @@
+ENTITY BI88Q0EL name_BI88 institution
+ENTITY 56OJA3BW name_56OJ conference
+ENTITY NOKGNH5M name_NOKG author
+PRINT #{}=]]%!
+DELETE #{}=]]%!
+PATH #{}=]]%! 56OJA3BW
+EXIT

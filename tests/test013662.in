@@ -1,0 +1,7 @@
+ENTITY XPPPA6R1 name_XPPP conference
+ENTITY N8Q39US7 name_N8Q3 conference
+ENTITY 2TKGOODP name_2TKG conference
+PRINT 0&|*$[{9
+DELETE 0&|*$[{9
+PATH H$:GE13! N8Q39US7
+EXIT

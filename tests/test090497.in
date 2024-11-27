@@ -1,0 +1,7 @@
+ENTITY GJ406B4A name_GJ40 journal
+ENTITY QKF5DQ6R name_QKF5 journal
+ENTITY Y0M3NJPS name_Y0M3 conference
+PRINT ^$&_LP}-
+DELETE ^$&_LP}-
+PATH @W+7A-*- GJ406B4A
+EXIT

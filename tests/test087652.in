@@ -1,0 +1,7 @@
+ENTITY Z3T2TRRX name_Z3T2 journal
+ENTITY EK4UNJQ3 name_EK4U journal
+ENTITY EHORMYVB name_EHOR paper
+PRINT C[(]%^KC
+DELETE C[(]%^KC
+PATH -!^$^}&? EHORMYVB
+EXIT

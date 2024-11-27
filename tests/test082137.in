@@ -1,0 +1,7 @@
+ENTITY 255MDFV5 name_255M institution
+ENTITY HXOJRXBZ name_HXOJ conference
+ENTITY E8JS6CP6 name_E8JS journal
+PRINT :.#$1^>+
+DELETE .W,*)@Z{
+PATH .W,*)@Z{ E8JS6CP6
+EXIT

@@ -1,0 +1,7 @@
+ENTITY IXFP56T3 name_IXFP journal
+ENTITY GM2AJP6H name_GM2A institution
+ENTITY PPRJNN38 name_PPRJ conference
+PRINT 6>@>!IL-
+DELETE :,_.(WS&
+PATH 6>@>!IL- IXFP56T3
+EXIT

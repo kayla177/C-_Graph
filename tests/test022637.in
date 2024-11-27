@@ -1,0 +1,7 @@
+ENTITY O7KTKRSI name_O7KT conference
+ENTITY EZBJZ2UM name_EZBJ conference
+ENTITY 95KSXDV8 name_95KS paper
+PRINT >4,!?MR*
+DELETE 3)*AI,:_
+PATH 3)*AI,:_ 95KSXDV8
+EXIT

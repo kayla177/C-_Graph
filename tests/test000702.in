@@ -1,0 +1,7 @@
+ENTITY 6YXHQJNM name_6YXH institution
+ENTITY G1DYFEKL name_G1DY institution
+ENTITY QWCA9903 name_QWCA conference
+PRINT ?U_@$ID5
+DELETE ?U_@$ID5
+PATH J!9OU*|^ 6YXHQJNM
+EXIT

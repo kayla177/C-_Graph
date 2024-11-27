@@ -1,0 +1,7 @@
+ENTITY 2OAUN6TF name_2OAU institution
+ENTITY CYRV2A8U name_CYRV conference
+ENTITY 21SNDZX6 name_21SN institution
+PRINT _,S.>0.-
+DELETE _,S.>0.-
+PATH _,S.>0.- 2OAUN6TF
+EXIT

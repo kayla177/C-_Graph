@@ -1,0 +1,7 @@
+ENTITY 0KDYLBXJ name_0KDY conference
+ENTITY CZVRXSO4 name_CZVR paper
+ENTITY PHJ4VRM5 name_PHJ4 institution
+PRINT R.<*2&!P
+DELETE R.<*2&!P
+PATH R.<*2&!P PHJ4VRM5
+EXIT

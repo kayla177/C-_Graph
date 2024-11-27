@@ -1,0 +1,7 @@
+ENTITY MCCWBQVQ name_MCCW conference
+ENTITY MC11H06S name_MC11 author
+ENTITY B1KE71WZ name_B1KE institution
+PRINT %!_;}[92
+DELETE %D.<ORG[
+PATH ;A0HA]&@ MCCWBQVQ
+EXIT

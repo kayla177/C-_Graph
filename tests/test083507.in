@@ -1,0 +1,7 @@
+ENTITY XLXJSZTN name_XLXJ institution
+ENTITY 3MUMG5ZK name_3MUM author
+ENTITY WWIT2PX2 name_WWIT author
+PRINT ->X,-2{;
+DELETE ->X,-2{;
+PATH Y[Y4(&() 3MUMG5ZK
+EXIT

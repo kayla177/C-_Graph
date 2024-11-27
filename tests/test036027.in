@@ -1,0 +1,7 @@
+ENTITY ATL8V6H7 name_ATL8 paper
+ENTITY 4Q5RG72V name_4Q5R journal
+ENTITY RT1TPSKO name_RT1T paper
+PRINT .|;${9}[
+DELETE .|;${9}[
+PATH .|;${9}[ ATL8V6H7
+EXIT

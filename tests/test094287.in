@@ -1,0 +1,7 @@
+ENTITY 6SU9J1MI name_6SU9 author
+ENTITY FGJNKXHW name_FGJN institution
+ENTITY ZXVGS6RT name_ZXVG author
+PRINT -R&?<@:_
+DELETE -R&?<@:_
+PATH AX@4#YQ> FGJNKXHW
+EXIT

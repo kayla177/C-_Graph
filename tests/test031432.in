@@ -1,0 +1,7 @@
+ENTITY DS6FM0LS name_DS6F institution
+ENTITY QU4A9IV2 name_QU4A conference
+ENTITY QNDGZJRA name_QNDG conference
+PRINT NHEX;A_4
+DELETE TU@:>#%$
+PATH TU@:>#%$ QU4A9IV2
+EXIT

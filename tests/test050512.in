@@ -1,0 +1,7 @@
+ENTITY MAZCPT7P name_MAZC institution
+ENTITY GHA1VD0R name_GHA1 conference
+ENTITY ARISFXOR name_ARIS institution
+PRINT R!|*(<4U
+DELETE 0*{8.!]Y
+PATH 0*{8.!]Y GHA1VD0R
+EXIT

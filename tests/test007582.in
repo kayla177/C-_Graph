@@ -1,0 +1,7 @@
+ENTITY GC598ZSQ name_GC59 institution
+ENTITY 3BUOLOUT name_3BUO conference
+ENTITY DA4SQTGT name_DA4S author
+PRINT #6|R>!V-
+DELETE #6|R>!V-
+PATH &7C>=S^0 GC598ZSQ
+EXIT

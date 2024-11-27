@@ -1,0 +1,7 @@
+ENTITY 17DGHPGZ name_17DG paper
+ENTITY J7C4UE5Z name_J7C4 institution
+ENTITY H3CY6VZI name_H3CY institution
+PRINT ^I,K-),L
+DELETE ^I,K-),L
+PATH $52A@*-] 17DGHPGZ
+EXIT

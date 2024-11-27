@@ -1,0 +1,7 @@
+ENTITY 2UH5ABUR name_2UH5 conference
+ENTITY K56X1W07 name_K56X journal
+ENTITY KQE6DO3E name_KQE6 conference
+PRINT ^>A*:-9T
+DELETE !9K.R_V#
+PATH ^>A*:-9T KQE6DO3E
+EXIT

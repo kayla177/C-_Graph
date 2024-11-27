@@ -1,0 +1,7 @@
+ENTITY 0ARM8CKJ name_0ARM conference
+ENTITY DY2J7UVF name_DY2J paper
+ENTITY 13NZ70Q9 name_13NZ conference
+PRINT ^@D+)$VF
+DELETE ^@D+)$VF
+PATH ^@D+)$VF 13NZ70Q9
+EXIT

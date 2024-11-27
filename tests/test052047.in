@@ -1,0 +1,7 @@
+ENTITY W93R11PL name_W93R conference
+ENTITY 0ST8FM27 name_0ST8 journal
+ENTITY 6NO8HNZ6 name_6NO8 conference
+PRINT ZZI0!<5=
+DELETE !(*;|HR*
+PATH !(*;|HR* 6NO8HNZ6
+EXIT

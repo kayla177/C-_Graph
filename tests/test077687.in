@@ -1,0 +1,7 @@
+ENTITY FOANP33S name_FOAN institution
+ENTITY 041JW2WU name_041J author
+ENTITY C37AWJJ0 name_C37A conference
+PRINT &[X=Y,@?
+DELETE W:?7<|+L
+PATH &[X=Y,@? 041JW2WU
+EXIT

@@ -1,0 +1,7 @@
+ENTITY ZEWRS8QY name_ZEWR author
+ENTITY 0EFVNSKF name_0EFV institution
+ENTITY JOVV21EN name_JOVV conference
+PRINT &=A{*0_-
+DELETE |A-@M;Q<
+PATH &=A{*0_- JOVV21EN
+EXIT

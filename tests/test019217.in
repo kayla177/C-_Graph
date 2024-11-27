@@ -1,0 +1,7 @@
+ENTITY 5CVPEDX2 name_5CVP conference
+ENTITY 8MMDLN4Q name_8MMD journal
+ENTITY RBJD8GIU name_RBJD institution
+PRINT +{:@(JX:
+DELETE +{:@(JX:
+PATH +{:@(JX: 5CVPEDX2
+EXIT

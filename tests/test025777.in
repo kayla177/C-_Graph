@@ -1,0 +1,7 @@
+ENTITY QOWOQJUW name_QOWO institution
+ENTITY JFZJC4FM name_JFZJ paper
+ENTITY E6UDY5H0 name_E6UD conference
+PRINT %[:#:9JO
+DELETE [BR-[|9{
+PATH [BR-[|9{ JFZJC4FM
+EXIT

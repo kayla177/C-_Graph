@@ -1,0 +1,7 @@
+ENTITY SWYXCW92 name_SWYX paper
+ENTITY LLZYCOQE name_LLZY conference
+ENTITY 62QFCAG1 name_62QF institution
+PRINT VWE=|&*L
+DELETE %_[?->}+
+PATH %_[?->}+ LLZYCOQE
+EXIT

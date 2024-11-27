@@ -1,0 +1,7 @@
+ENTITY S880MGEA name_S880 conference
+ENTITY OEWS2P45 name_OEWS institution
+ENTITY 3M2EWQDL name_3M2E paper
+PRINT IY!_():J
+DELETE %*@:D<U2
+PATH %*@:D<U2 S880MGEA
+EXIT

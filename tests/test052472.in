@@ -1,0 +1,7 @@
+ENTITY WFHYNQMC name_WFHY conference
+ENTITY TON8JEFN name_TON8 conference
+ENTITY AKG5CWV8 name_AKG5 conference
+PRINT =*;1+=IV
+DELETE =*;1+=IV
+PATH &T:LG:S- WFHYNQMC
+EXIT

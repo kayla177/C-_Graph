@@ -1,0 +1,7 @@
+ENTITY EN86IJMM name_EN86 journal
+ENTITY LJAKB3VM name_LJAK conference
+ENTITY EU8AZZKY name_EU8A journal
+PRINT B;_&:BGH
+DELETE !&,J__$|
+PATH !&,J__$| LJAKB3VM
+EXIT

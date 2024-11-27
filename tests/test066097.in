@@ -1,0 +1,7 @@
+ENTITY UO2DSQIB name_UO2D conference
+ENTITY 7QH30RUP name_7QH3 conference
+ENTITY PC84SQXK name_PC84 conference
+PRINT -:L?+GM1
+DELETE =:M[3(^^
+PATH -:L?+GM1 UO2DSQIB
+EXIT

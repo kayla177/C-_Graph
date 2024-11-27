@@ -1,0 +1,7 @@
+ENTITY SYCY5S8P name_SYCY conference
+ENTITY CH42FIBX name_CH42 journal
+ENTITY NR1TZGH8 name_NR1T institution
+PRINT ,|#4+]NH
+DELETE ,|#4+]NH
+PATH ,|#4+]NH CH42FIBX
+EXIT

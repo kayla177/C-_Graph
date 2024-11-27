@@ -1,0 +1,7 @@
+ENTITY XIREZNJD name_XIRE institution
+ENTITY Y28DAXP4 name_Y28D journal
+ENTITY SQPXH45B name_SQPX institution
+PRINT <[!PWB?|
+DELETE 1|9-|,MI
+PATH 1|9-|,MI XIREZNJD
+EXIT

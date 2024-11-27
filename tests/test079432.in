@@ -1,0 +1,7 @@
+ENTITY HI7SD9PW name_HI7S institution
+ENTITY JI77B3B4 name_JI77 conference
+ENTITY DSNZFGS4 name_DSNZ journal
+PRINT +;MK-%>)
+DELETE 1^:%:CP,
+PATH +;MK-%>) JI77B3B4
+EXIT

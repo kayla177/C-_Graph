@@ -1,0 +1,7 @@
+ENTITY RFN6GPSZ name_RFN6 conference
+ENTITY A3VSJX0X name_A3VS institution
+ENTITY 5N1XDX3Z name_5N1X conference
+PRINT 1X=NC?_%
+DELETE 1X=NC?_%
+PATH -G{<H{3H RFN6GPSZ
+EXIT

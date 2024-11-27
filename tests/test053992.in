@@ -1,0 +1,7 @@
+ENTITY AKQ3TKCW name_AKQ3 conference
+ENTITY A2N4Q2OW name_A2N4 conference
+ENTITY CIZNBEAA name_CIZN conference
+PRINT .,YU%,BT
+DELETE .,YU%,BT
+PATH 21|+<}.T AKQ3TKCW
+EXIT

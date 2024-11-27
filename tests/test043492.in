@@ -1,0 +1,7 @@
+ENTITY 2VDHK1WO name_2VDH institution
+ENTITY 81N47AEX name_81N4 institution
+ENTITY UO5PXLHY name_UO5P conference
+PRINT @[Q_YC%:
+DELETE U.->OSTL
+PATH @[Q_YC%: UO5PXLHY
+EXIT

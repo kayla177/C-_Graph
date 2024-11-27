@@ -1,0 +1,7 @@
+ENTITY U5WP7P0X name_U5WP institution
+ENTITY VAZ6DAUX name_VAZ6 conference
+ENTITY 8OEOMHXE name_8OEO paper
+PRINT >F|&L&+>
+DELETE >F|&L&+>
+PATH 9}U+>O#O U5WP7P0X
+EXIT

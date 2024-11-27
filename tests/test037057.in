@@ -1,0 +1,7 @@
+ENTITY XIERPZD3 name_XIER institution
+ENTITY G1VJ2R7U name_G1VJ institution
+ENTITY UMDMHOLK name_UMDM institution
+PRINT *@+X%X9T
+DELETE *@+X%X9T
+PATH Q|CL_1%8 UMDMHOLK
+EXIT

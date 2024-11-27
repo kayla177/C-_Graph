@@ -1,0 +1,7 @@
+ENTITY 6LO9CLFW name_6LO9 author
+ENTITY 6V6NWWZC name_6V6N conference
+ENTITY WVA2RUFR name_WVA2 author
+PRINT W%--@(_D
+DELETE W%--@(_D
+PATH 63F$*;^. 6V6NWWZC
+EXIT

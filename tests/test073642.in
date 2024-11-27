@@ -1,0 +1,7 @@
+ENTITY J05CO0OT name_J05C conference
+ENTITY PO6DS1DJ name_PO6D institution
+ENTITY BP4E721H name_BP4E institution
+PRINT @J[^IS:G
+DELETE &5:#:{>N
+PATH &5:#:{>N BP4E721H
+EXIT

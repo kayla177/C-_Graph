@@ -1,0 +1,7 @@
+ENTITY I19I7EKD name_I19I conference
+ENTITY HNNIC4WM name_HNNI paper
+ENTITY QDNWTTZA name_QDNW institution
+PRINT 3_%S:+=A
+DELETE {S#E}&G|
+PATH 3_%S:+=A I19I7EKD
+EXIT

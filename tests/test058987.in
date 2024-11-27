@@ -1,0 +1,7 @@
+ENTITY 020I9VH5 name_020I paper
+ENTITY H3067H2K name_H306 journal
+ENTITY YYH7UARE name_YYH7 conference
+PRINT *0[&+-9B
+DELETE (?})*B^@
+PATH (?})*B^@ 020I9VH5
+EXIT

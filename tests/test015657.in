@@ -1,0 +1,7 @@
+ENTITY VE8I34A3 name_VE8I institution
+ENTITY 2AX11AUL name_2AX1 conference
+ENTITY M499E92B name_M499 author
+PRINT ^P;ZT$+8
+DELETE ?<-C$!^]
+PATH ^P;ZT$+8 VE8I34A3
+EXIT

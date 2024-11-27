@@ -1,0 +1,7 @@
+ENTITY 5VN9ZAMB name_5VN9 conference
+ENTITY 8FOP2WNT name_8FOP conference
+ENTITY QOYT1MPG name_QOYT paper
+PRINT I==$?6,$
+DELETE #?]QW!L>
+PATH #?]QW!L> 5VN9ZAMB
+EXIT

@@ -1,0 +1,7 @@
+ENTITY FWQH844A name_FWQH institution
+ENTITY PMO1GORF name_PMO1 author
+ENTITY 6XGC12PA name_6XGC paper
+PRINT W,Q<<#+E
+DELETE %P)>=#+:
+PATH W,Q<<#+E PMO1GORF
+EXIT

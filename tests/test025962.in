@@ -1,0 +1,7 @@
+ENTITY BFHM6Z81 name_BFHM conference
+ENTITY HIY6GLF6 name_HIY6 institution
+ENTITY CZIBRLRP name_CZIB conference
+PRINT ?SF9::#-
+DELETE S@[D8#A=
+PATH S@[D8#A= BFHM6Z81
+EXIT

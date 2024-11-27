@@ -1,0 +1,7 @@
+ENTITY NSNPFFHW name_NSNP journal
+ENTITY 3RAL33F8 name_3RAL institution
+ENTITY YYXN73Y7 name_YYXN journal
+PRINT =I_DV+&[
+DELETE =I_DV+&[
+PATH =I_DV+&[ YYXN73Y7
+EXIT

@@ -1,0 +1,7 @@
+ENTITY TGN98VOH name_TGN9 journal
+ENTITY YKQLEQQD name_YKQL paper
+ENTITY XVUXKHQO name_XVUX institution
+PRINT W{|?}M<+
+DELETE W{|?}M<+
+PATH W{|?}M<+ XVUXKHQO
+EXIT

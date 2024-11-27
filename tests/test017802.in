@@ -1,0 +1,7 @@
+ENTITY AIJOJRBC name_AIJO journal
+ENTITY 5XMZDTEN name_5XMZ conference
+ENTITY GV3TUAC0 name_GV3T institution
+PRINT _$@^#7]Z
+DELETE _$@^#7]Z
+PATH -A2:@HKV GV3TUAC0
+EXIT

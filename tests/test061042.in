@@ -1,0 +1,7 @@
+ENTITY CWTA1ESI name_CWTA journal
+ENTITY EJUZVQJC name_EJUZ conference
+ENTITY RUNQ4J37 name_RUNQ conference
+PRINT %S[_PV#[
+DELETE S>-P;W}%
+PATH S>-P;W}% RUNQ4J37
+EXIT

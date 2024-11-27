@@ -1,0 +1,7 @@
+ENTITY 54ESLMPD name_54ES institution
+ENTITY EW2EIB2T name_EW2E conference
+ENTITY 0Q9YCZTC name_0Q9Y conference
+PRINT -6,_1(><
+DELETE -6,_1(><
+PATH <@[CK%&G EW2EIB2T
+EXIT

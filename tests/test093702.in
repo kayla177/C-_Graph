@@ -1,0 +1,7 @@
+ENTITY UH02PRPS name_UH02 paper
+ENTITY CIKXMO13 name_CIKX paper
+ENTITY BZVBUWJD name_BZVB conference
+PRINT <O|+%|,T
+DELETE <O|+%|,T
+PATH <O|+%|,T CIKXMO13
+EXIT

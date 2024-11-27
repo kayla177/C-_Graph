@@ -1,0 +1,7 @@
+ENTITY ZHXTBFXU name_ZHXT author
+ENTITY SDM1XRFQ name_SDM1 author
+ENTITY 14N3M6E4 name_14N3 institution
+PRINT +^4,-,.(
+DELETE !-J{2;|%
+PATH +^4,-,.( 14N3M6E4
+EXIT

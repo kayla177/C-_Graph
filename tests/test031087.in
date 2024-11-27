@@ -1,0 +1,7 @@
+ENTITY 35WM1EB1 name_35WM paper
+ENTITY 7JF6KEGA name_7JF6 institution
+ENTITY 9X2X1OC7 name_9X2X institution
+PRINT |.[%;#;8
+DELETE |.[%;#;8
+PATH 0,>8R>+] 9X2X1OC7
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 65U5BDS5 name_65U5 institution
+ENTITY PYZ51QBQ name_PYZ5 institution
+ENTITY E9ZQMTAP name_E9ZQ institution
+PRINT P?&-%J3I
+DELETE P?&-%J3I
+PATH P?&-%J3I PYZ51QBQ
+EXIT

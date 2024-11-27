@@ -1,0 +1,7 @@
+ENTITY R2MI3SLN name_R2MI journal
+ENTITY 08CAWGBL name_08CA paper
+ENTITY KZ6WZ6OO name_KZ6W institution
+PRINT E=|-]<_L
+DELETE <6>;#%BX
+PATH <6>;#%BX R2MI3SLN
+EXIT

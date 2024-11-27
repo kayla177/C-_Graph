@@ -1,0 +1,7 @@
+ENTITY AFF8BRA9 name_AFF8 conference
+ENTITY 1CN9SOPB name_1CN9 journal
+ENTITY EXABSW85 name_EXAB paper
+PRINT [8=O:=<(
+DELETE $%${AJ)[
+PATH $%${AJ)[ EXABSW85
+EXIT

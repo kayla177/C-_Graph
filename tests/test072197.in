@@ -1,0 +1,7 @@
+ENTITY T93I0PJC name_T93I author
+ENTITY LD10JVD8 name_LD10 institution
+ENTITY XQZLJT4G name_XQZL conference
+PRINT $Z]4[^W;
+DELETE $Z]4[^W;
+PATH $Z]4[^W; LD10JVD8
+EXIT

@@ -1,0 +1,7 @@
+ENTITY HIUHCT3F name_HIUH conference
+ENTITY 00QKTRR5 name_00QK author
+ENTITY WD7IDXMR name_WD7I conference
+PRINT ^D(,5=@(
+DELETE ^D(,5=@(
+PATH ^D(,5=@( WD7IDXMR
+EXIT

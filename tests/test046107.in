@@ -1,0 +1,7 @@
+ENTITY 5OCBWDBK name_5OCB institution
+ENTITY I947QHO8 name_I947 journal
+ENTITY DT5TUUWA name_DT5T journal
+PRINT @$=|B]|U
+DELETE @$=|B]|U
+PATH S][;I!YD I947QHO8
+EXIT

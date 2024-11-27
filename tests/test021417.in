@@ -1,0 +1,7 @@
+ENTITY ZBNKTJ7M name_ZBNK conference
+ENTITY RPF3AJX3 name_RPF3 author
+ENTITY JFVSMISG name_JFVS institution
+PRINT +{&&X@:.
+DELETE +{&&X@:.
+PATH +&$GX29P RPF3AJX3
+EXIT

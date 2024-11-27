@@ -1,0 +1,7 @@
+ENTITY 9BKAH5S3 name_9BKA conference
+ENTITY E1503JMN name_E150 author
+ENTITY A5LU8SMF name_A5LU conference
+PRINT [!@TK|#<
+DELETE T4=><^]*
+PATH T4=><^]* E1503JMN
+EXIT

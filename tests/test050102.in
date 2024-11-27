@@ -1,0 +1,7 @@
+ENTITY 7JBTZIP2 name_7JBT institution
+ENTITY NZXOH017 name_NZXO paper
+ENTITY G6K3IRSH name_G6K3 conference
+PRINT *X(0.!)R
+DELETE 2}>Y?{S;
+PATH *X(0.!)R 7JBTZIP2
+EXIT

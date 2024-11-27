@@ -1,0 +1,7 @@
+ENTITY 09RJXKF3 name_09RJ author
+ENTITY XIW4TRT1 name_XIW4 journal
+ENTITY O13ZVEIO name_O13Z institution
+PRINT ^P&;&.#E
+DELETE $SQ{<1^W
+PATH ^P&;&.#E XIW4TRT1
+EXIT

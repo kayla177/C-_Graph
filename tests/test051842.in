@@ -1,0 +1,7 @@
+ENTITY 0B1H2P3N name_0B1H conference
+ENTITY ZKN6V5SI name_ZKN6 journal
+ENTITY J098EWSK name_J098 institution
+PRINT E&G(%&G@
+DELETE E&G(%&G@
+PATH E&G(%&G@ 0B1H2P3N
+EXIT

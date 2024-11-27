@@ -1,0 +1,7 @@
+ENTITY DRN04Z7X name_DRN0 institution
+ENTITY FID2Z6RT name_FID2 paper
+ENTITY KBY8XV0O name_KBY8 institution
+PRINT !V)V1,=}
+DELETE !V)V1,=}
+PATH 2,%{>V7S KBY8XV0O
+EXIT

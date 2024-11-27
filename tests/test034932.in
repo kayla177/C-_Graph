@@ -1,0 +1,7 @@
+ENTITY 73MH53N9 name_73MH journal
+ENTITY BYJ5X5O7 name_BYJ5 institution
+ENTITY H5TLC03V name_H5TL paper
+PRINT .:<[G|)8
+DELETE .:<[G|)8
+PATH NL(*Q$D; 73MH53N9
+EXIT

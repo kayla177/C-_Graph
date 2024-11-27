@@ -1,0 +1,7 @@
+ENTITY EAXA2GMW name_EAXA institution
+ENTITY M2EQXTWK name_M2EQ journal
+ENTITY OXEVH1Y7 name_OXEV institution
+PRINT ;$G]:R.#
+DELETE })OM[N+A
+PATH ;$G]:R.# EAXA2GMW
+EXIT

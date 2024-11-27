@@ -1,0 +1,7 @@
+ENTITY 1BOCDQUA name_1BOC institution
+ENTITY V6TY7V74 name_V6TY institution
+ENTITY TRAAW03N name_TRAA journal
+PRINT &:(5V@C@
+DELETE &:(5V@C@
+PATH &:(5V@C@ 1BOCDQUA
+EXIT

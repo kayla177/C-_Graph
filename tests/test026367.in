@@ -1,0 +1,7 @@
+ENTITY GCABBFJW name_GCAB institution
+ENTITY 7YCIFSL9 name_7YCI journal
+ENTITY 86UVVV29 name_86UV journal
+PRINT 5|0(*R]_
+DELETE 5|0(*R]_
+PATH 5|0(*R]_ GCABBFJW
+EXIT

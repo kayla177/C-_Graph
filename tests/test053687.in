@@ -1,0 +1,7 @@
+ENTITY 3T4IJ1MJ name_3T4I journal
+ENTITY 8WS7XBNN name_8WS7 paper
+ENTITY MBSNVM46 name_MBSN institution
+PRINT >(%&VS};
+DELETE V$$:L)[4
+PATH V$$:L)[4 3T4IJ1MJ
+EXIT

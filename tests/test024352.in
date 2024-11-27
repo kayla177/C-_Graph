@@ -1,0 +1,7 @@
+ENTITY 62D79P4O name_62D7 journal
+ENTITY 9DDGPZST name_9DDG conference
+ENTITY 6VLBOR2P name_6VLB institution
+PRINT <{X@%}H;
+DELETE <{X@%}H;
+PATH <{X@%}H; 9DDGPZST
+EXIT

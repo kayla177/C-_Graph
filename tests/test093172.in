@@ -1,0 +1,7 @@
+ENTITY G9WVI8LZ name_G9WV conference
+ENTITY 2MEULKI4 name_2MEU conference
+ENTITY JG0OW4PV name_JG0O institution
+PRINT (%8=L3L)
+DELETE G4%@,]^?
+PATH (%8=L3L) 2MEULKI4
+EXIT

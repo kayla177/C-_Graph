@@ -1,0 +1,7 @@
+ENTITY O4M00BEI name_O4M0 author
+ENTITY D6BLO0ZK name_D6BL conference
+ENTITY 10KGCSEZ name_10KG journal
+PRINT @N>$(P,*
+DELETE @N>$(P,*
+PATH @N>$(P,* D6BLO0ZK
+EXIT

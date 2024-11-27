@@ -1,0 +1,7 @@
+ENTITY VVH9J0QK name_VVH9 institution
+ENTITY KEHKA47W name_KEHK journal
+ENTITY 49MNTZ48 name_49MN journal
+PRINT _B>O=#8,
+DELETE _B>O=#8,
+PATH #DP!:]-A KEHKA47W
+EXIT

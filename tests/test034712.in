@@ -1,0 +1,7 @@
+ENTITY KYNBRZAH name_KYNB institution
+ENTITY 3JPX9ZU8 name_3JPX conference
+ENTITY PVTBQFLL name_PVTB institution
+PRINT _M#5=C.M
+DELETE _M#5=C.M
+PATH _M#5=C.M 3JPX9ZU8
+EXIT

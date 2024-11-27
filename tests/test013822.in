@@ -1,0 +1,7 @@
+ENTITY AKCHITWF name_AKCH institution
+ENTITY 2II2NIMN name_2II2 conference
+ENTITY 1YVNPZ9R name_1YVN institution
+PRINT J1?9%,]$
+DELETE J1?9%,]$
+PATH J1?9%,]$ 1YVNPZ9R
+EXIT

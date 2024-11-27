@@ -1,0 +1,7 @@
+ENTITY WLMH1C4H name_WLMH conference
+ENTITY FW9LS41B name_FW9L institution
+ENTITY LTSKOPIC name_LTSK journal
+PRINT _2->=$J#
+DELETE |CD%:,X&
+PATH E2:_S#V) FW9LS41B
+EXIT

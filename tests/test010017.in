@@ -1,0 +1,7 @@
+ENTITY 638Z5IT6 name_638Z conference
+ENTITY 0PLH9Z7W name_0PLH paper
+ENTITY MVPNT7DL name_MVPN author
+PRINT )Q$;(->)
+DELETE )Q$;(->)
+PATH )Q$;(->) 0PLH9Z7W
+EXIT

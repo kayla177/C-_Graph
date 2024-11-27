@@ -1,0 +1,7 @@
+ENTITY BLR4RBCP name_BLR4 institution
+ENTITY O6WS0FPW name_O6WS conference
+ENTITY YZRM62HC name_YZRM institution
+PRINT BS^H?}O*
+DELETE BS^H?}O*
+PATH @(]$,)^| BLR4RBCP
+EXIT

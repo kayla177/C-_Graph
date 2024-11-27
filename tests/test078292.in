@@ -1,0 +1,7 @@
+ENTITY Q9FRPTEF name_Q9FR institution
+ENTITY DWYFWQFO name_DWYF institution
+ENTITY 9YSIZBHR name_9YSI paper
+PRINT 7G!$;^.|
+DELETE 7G!$;^.|
+PATH -$Y,^J@X Q9FRPTEF
+EXIT

@@ -1,0 +1,7 @@
+ENTITY OQ4OHGMG name_OQ4O conference
+ENTITY IC4F4Y34 name_IC4F institution
+ENTITY 4BHM3NM0 name_4BHM conference
+PRINT :WD&N,]4
+DELETE {[N!O[O^
+PATH {[N!O[O^ IC4F4Y34
+EXIT

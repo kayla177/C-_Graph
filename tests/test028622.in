@@ -1,0 +1,7 @@
+ENTITY J3IPWSAH name_J3IP institution
+ENTITY 1S3CWLCT name_1S3C author
+ENTITY RZTB7DK7 name_RZTB conference
+PRINT :&$!R;RZ
+DELETE :&$!R;RZ
+PATH :&$!R;RZ RZTB7DK7
+EXIT

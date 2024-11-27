@@ -1,0 +1,7 @@
+ENTITY PEJPV22Q name_PEJP institution
+ENTITY 5U5NA3UO name_5U5N conference
+ENTITY MN8LGE90 name_MN8L author
+PRINT :.#:A?<!
+DELETE :.#:A?<!
+PATH .S;A^<0{ PEJPV22Q
+EXIT

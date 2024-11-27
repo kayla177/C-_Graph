@@ -1,0 +1,7 @@
+ENTITY PZ374BWC name_PZ37 journal
+ENTITY E9Z95WUG name_E9Z9 paper
+ENTITY SCEMV1CI name_SCEM institution
+PRINT 6^#@({M:
+DELETE 6^#@({M:
+PATH ?||M{8U0 SCEMV1CI
+EXIT

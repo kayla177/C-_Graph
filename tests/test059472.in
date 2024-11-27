@@ -1,0 +1,7 @@
+ENTITY TF48LI8W name_TF48 conference
+ENTITY S4JA1WU4 name_S4JA conference
+ENTITY LLA5JRSY name_LLA5 institution
+PRINT KZ()|.{$
+DELETE KZ()|.{$
+PATH KZ()|.{$ LLA5JRSY
+EXIT

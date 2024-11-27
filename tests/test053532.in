@@ -1,0 +1,7 @@
+ENTITY 6MZE0TFB name_6MZE journal
+ENTITY ECBI27LT name_ECBI institution
+ENTITY CS0G1FU0 name_CS0G journal
+PRINT *@[|8,58
+DELETE }}!!N+UC
+PATH *@[|8,58 6MZE0TFB
+EXIT

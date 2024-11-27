@@ -1,0 +1,7 @@
+ENTITY UC6OZODQ name_UC6O institution
+ENTITY XH5EPRB5 name_XH5E conference
+ENTITY LBSB08AY name_LBSB author
+PRINT ;<{OY:BX
+DELETE ;<{OY:BX
+PATH #_>]@18> XH5EPRB5
+EXIT

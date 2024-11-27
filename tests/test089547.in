@@ -1,0 +1,7 @@
+ENTITY 1VPVEHBJ name_1VPV conference
+ENTITY Q8E8XS4E name_Q8E8 author
+ENTITY 0Y7TTY4M name_0Y7T paper
+PRINT (!|2-0M;
+DELETE =X,#&(4|
+PATH =X,#&(4| 0Y7TTY4M
+EXIT

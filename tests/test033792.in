@@ -1,0 +1,7 @@
+ENTITY J4SDP3CV name_J4SD journal
+ENTITY 9Z0OD3V9 name_9Z0O institution
+ENTITY LARPE09M name_LARP conference
+PRINT 5?VN=<#2
+DELETE 5?VN=<#2
+PATH _*&;<I{C LARPE09M
+EXIT

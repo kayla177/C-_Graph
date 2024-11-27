@@ -1,0 +1,7 @@
+ENTITY 14AVGSU2 name_14AV conference
+ENTITY TO9TIHC3 name_TO9T journal
+ENTITY 5C2JDJSB name_5C2J conference
+PRINT &;^]7:|8
+DELETE &;^]7:|8
+PATH &;^]7:|8 14AVGSU2
+EXIT

@@ -1,0 +1,7 @@
+ENTITY KJ7MWRPC name_KJ7M journal
+ENTITY T3YPQD7G name_T3YP conference
+ENTITY EMBXLT6H name_EMBX institution
+PRINT |]C,!=86
+DELETE #%I.CV;R
+PATH |]C,!=86 KJ7MWRPC
+EXIT

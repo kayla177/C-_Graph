@@ -1,0 +1,7 @@
+ENTITY VP3FGT4U name_VP3F institution
+ENTITY VPDHP41K name_VPDH author
+ENTITY 4WNSL5FJ name_4WNS conference
+PRINT 3:^?}|IE
+DELETE |#(G={|}
+PATH 3:^?}|IE VPDHP41K
+EXIT

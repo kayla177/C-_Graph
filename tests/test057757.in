@@ -1,0 +1,7 @@
+ENTITY HLX2U4YN name_HLX2 institution
+ENTITY M3UXU6N9 name_M3UX conference
+ENTITY S1Q754ID name_S1Q7 author
+PRINT ]C@!H_=U
+DELETE ]C@!H_=U
+PATH ]C@!H_=U S1Q754ID
+EXIT

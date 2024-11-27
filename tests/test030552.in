@@ -1,0 +1,7 @@
+ENTITY Q2RXSE19 name_Q2RX institution
+ENTITY GFCTBYCB name_GFCT journal
+ENTITY RYILZXQK name_RYIL paper
+PRINT .*&5{M+I
+DELETE :0.D|}@[
+PATH .*&5{M+I Q2RXSE19
+EXIT

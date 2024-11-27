@@ -1,0 +1,7 @@
+ENTITY T25NJ0ZV name_T25N conference
+ENTITY GR6UDGSH name_GR6U conference
+ENTITY 0HXYPVYG name_0HXY journal
+PRINT .*V<[|*$
+DELETE .*V<[|*$
+PATH .*V<[|*$ GR6UDGSH
+EXIT

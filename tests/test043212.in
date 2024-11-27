@@ -1,0 +1,7 @@
+ENTITY V76L6LO5 name_V76L journal
+ENTITY 8381UEZX name_8381 institution
+ENTITY 9N1A6EJF name_9N1A journal
+PRINT %C<0-?+P
+DELETE P|>,ZB$%
+PATH P|>,ZB$% 8381UEZX
+EXIT

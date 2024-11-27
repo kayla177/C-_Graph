@@ -1,0 +1,7 @@
+ENTITY Y0NWQVU1 name_Y0NW conference
+ENTITY U9R9IDF2 name_U9R9 institution
+ENTITY TVICBGCN name_TVIC conference
+PRINT {*-F|3{7
+DELETE {*-F|3{7
+PATH {*-F|3{7 TVICBGCN
+EXIT

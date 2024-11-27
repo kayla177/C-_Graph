@@ -1,0 +1,7 @@
+ENTITY AUGCP5H0 name_AUGC paper
+ENTITY 0B8DKRAJ name_0B8D conference
+ENTITY H8J75MRA name_H8J7 institution
+PRINT 6.:|3R,[
+DELETE !:D!;R|>
+PATH !:D!;R|> H8J75MRA
+EXIT

@@ -1,0 +1,7 @@
+ENTITY M8LR8014 name_M8LR institution
+ENTITY ERVSP3FQ name_ERVS conference
+ENTITY 3WE6WTI8 name_3WE6 institution
+PRINT U:-D[[0E
+DELETE ^@OW6;R+
+PATH ^@OW6;R+ M8LR8014
+EXIT

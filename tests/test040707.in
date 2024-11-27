@@ -1,0 +1,7 @@
+ENTITY UWILHWMB name_UWIL journal
+ENTITY EFCB6A90 name_EFCB journal
+ENTITY 4BG29PVJ name_4BG2 conference
+PRINT *:*2?^)A
+DELETE *:*2?^)A
+PATH *:*2?^)A EFCB6A90
+EXIT

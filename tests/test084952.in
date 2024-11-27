@@ -1,0 +1,7 @@
+ENTITY UGYT9P7L name_UGYT author
+ENTITY ONRCCM1A name_ONRC institution
+ENTITY VVONHSW1 name_VVON institution
+PRINT -^:0(&>{
+DELETE Y<06{?)-
+PATH -^:0(&>{ UGYT9P7L
+EXIT

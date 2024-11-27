@@ -1,0 +1,7 @@
+ENTITY 8HN3ZFKX name_8HN3 paper
+ENTITY 1L68VFO4 name_1L68 conference
+ENTITY 1YNG22ON name_1YNG journal
+PRINT ]:[S+*:L
+DELETE ]:[S+*:L
+PATH ]:[S+*:L 1L68VFO4
+EXIT

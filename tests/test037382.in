@@ -1,0 +1,7 @@
+ENTITY 1A426TYK name_1A42 conference
+ENTITY KERKAROA name_KERK institution
+ENTITY F9J47N00 name_F9J4 institution
+PRINT }!R=@(.)
+DELETE }!R=@(.)
+PATH }!R=@(.) F9J47N00
+EXIT

@@ -1,0 +1,7 @@
+ENTITY CUSXIDV7 name_CUSX institution
+ENTITY ZRI89J2Y name_ZRI8 institution
+ENTITY XAR4PRO3 name_XAR4 conference
+PRINT V;#]Q)50
+DELETE V;#]Q)50
+PATH V;#]Q)50 CUSXIDV7
+EXIT

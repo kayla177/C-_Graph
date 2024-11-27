@@ -1,0 +1,7 @@
+ENTITY MY77K7CH name_MY77 institution
+ENTITY 5A4FUATH name_5A4F institution
+ENTITY SWJLBWMV name_SWJL institution
+PRINT &&!04UQW
+DELETE &&!04UQW
+PATH +O.,M[%- SWJLBWMV
+EXIT

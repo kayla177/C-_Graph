@@ -1,0 +1,7 @@
+ENTITY 90Y1VFKC name_90Y1 institution
+ENTITY ZNBSLXYB name_ZNBS conference
+ENTITY 4PQ36QAQ name_4PQ3 conference
+PRINT <%*$O}-!
+DELETE <%*$O}-!
+PATH 26;&S&8[ 4PQ36QAQ
+EXIT

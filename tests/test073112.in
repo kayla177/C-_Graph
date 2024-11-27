@@ -1,0 +1,7 @@
+ENTITY J6LLEW2J name_J6LL institution
+ENTITY XSC28HSG name_XSC2 author
+ENTITY QEKR696M name_QEKR author
+PRINT ,F#*0-&[
+DELETE 57+!=<;{
+PATH ,F#*0-&[ QEKR696M
+EXIT

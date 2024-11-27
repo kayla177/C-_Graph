@@ -1,0 +1,7 @@
+ENTITY XRHAFOXV name_XRHA institution
+ENTITY XL0Z8UAW name_XL0Z institution
+ENTITY HD99SK90 name_HD99 institution
+PRINT |>&:KJMP
+DELETE |>&:KJMP
+PATH |>&:KJMP XRHAFOXV
+EXIT

@@ -1,0 +1,7 @@
+ENTITY BSK0SWHK name_BSK0 conference
+ENTITY 2D4IN2F2 name_2D4I institution
+ENTITY 6J3V8AZ4 name_6J3V institution
+PRINT UT,>I_!@
+DELETE UT,>I_!@
+PATH ${%P-]ZC 6J3V8AZ4
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 4828ZFBM name_4828 institution
+ENTITY 8BQKGWTW name_8BQK conference
+ENTITY MKGX2MBO name_MKGX institution
+PRINT &?07:+X6
+DELETE |P<V*(#G
+PATH &?07:+X6 8BQKGWTW
+EXIT

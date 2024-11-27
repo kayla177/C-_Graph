@@ -1,0 +1,7 @@
+ENTITY VEDVGCTK name_VEDV journal
+ENTITY K84S1FUV name_K84S institution
+ENTITY 0FOOHR1Z name_0FOO institution
+PRINT }|RR-&-#
+DELETE }|RR-&-#
+PATH }|RR-&-# VEDVGCTK
+EXIT

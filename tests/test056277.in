@@ -1,0 +1,7 @@
+ENTITY EWJJCBM7 name_EWJJ institution
+ENTITY X9X11QM1 name_X9X1 author
+ENTITY ZNBF0QCQ name_ZNBF institution
+PRINT $+7=C%!P
+DELETE $+7=C%!P
+PATH $+7=C%!P EWJJCBM7
+EXIT

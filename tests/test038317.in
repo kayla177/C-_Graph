@@ -1,0 +1,7 @@
+ENTITY P8IZS4UA name_P8IZ journal
+ENTITY DGC1ZMMU name_DGC1 conference
+ENTITY 6CXED0US name_6CXE institution
+PRINT ?<TH8{[;
+DELETE ?<TH8{[;
+PATH #.*Z_>]2 DGC1ZMMU
+EXIT

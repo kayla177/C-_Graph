@@ -1,0 +1,7 @@
+ENTITY AFC7QVPY name_AFC7 conference
+ENTITY OXK1NZ0Y name_OXK1 author
+ENTITY MCRI4F50 name_MCRI institution
+PRINT =((00?;J
+DELETE =((00?;J
+PATH |:WAJ+?] MCRI4F50
+EXIT

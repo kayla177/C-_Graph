@@ -1,0 +1,7 @@
+ENTITY QH90XMSD name_QH90 institution
+ENTITY Z4292SLM name_Z429 journal
+ENTITY 47JSDSGP name_47JS institution
+PRINT B#$-{!FT
+DELETE B#$-{!FT
+PATH L]:([|XE Z4292SLM
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 8OBN21T5 name_8OBN paper
+ENTITY VIER6VTA name_VIER institution
+ENTITY C8L3HNLB name_C8L3 conference
+PRINT ^J.[3]C@
+DELETE ^J.[3]C@
+PATH N$}Y=!&. C8L3HNLB
+EXIT

@@ -1,0 +1,7 @@
+ENTITY BTNJ3NUL name_BTNJ institution
+ENTITY CV1GAUF1 name_CV1G conference
+ENTITY PR23N0RP name_PR23 institution
+PRINT >;|DE#^0
+DELETE {I>O0#}[
+PATH >;|DE#^0 CV1GAUF1
+EXIT

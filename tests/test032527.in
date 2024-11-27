@@ -1,0 +1,7 @@
+ENTITY JHCPJWD2 name_JHCP institution
+ENTITY TSILUABP name_TSIL institution
+ENTITY 29D2FUMX name_29D2 institution
+PRINT ]*UZR4<=
+DELETE #T=O[$RX
+PATH #T=O[$RX TSILUABP
+EXIT

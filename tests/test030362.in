@@ -1,0 +1,7 @@
+ENTITY VSHEEXON name_VSHE conference
+ENTITY E08SBYO2 name_E08S institution
+ENTITY MGPOHYG8 name_MGPO paper
+PRINT ;.OD-)OA
+DELETE M,#7#:.=
+PATH M,#7#:.= VSHEEXON
+EXIT

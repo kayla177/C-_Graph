@@ -1,0 +1,7 @@
+ENTITY 4LW43H9N name_4LW4 conference
+ENTITY B3NN3JXB name_B3NN institution
+ENTITY R6VBF8JC name_R6VB institution
+PRINT &-AY};EP
+DELETE &-AY};EP
+PATH &-AY};EP 4LW43H9N
+EXIT

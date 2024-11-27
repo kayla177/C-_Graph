@@ -1,0 +1,7 @@
+ENTITY HLSFZ5S9 name_HLSF conference
+ENTITY 7MV7U706 name_7MV7 journal
+ENTITY 64A6BNPZ name_64A6 author
+PRINT %LS;;{${
+DELETE %LS;;{${
+PATH %LS;;{${ HLSFZ5S9
+EXIT

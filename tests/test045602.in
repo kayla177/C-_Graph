@@ -1,0 +1,7 @@
+ENTITY XAWEH1BK name_XAWE institution
+ENTITY 06G3FQE9 name_06G3 institution
+ENTITY K8LDETSM name_K8LD paper
+PRINT ;]#H*+&;
+DELETE ;]#H*+&;
+PATH ;]#H*+&; 06G3FQE9
+EXIT

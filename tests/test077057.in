@@ -1,0 +1,7 @@
+ENTITY FJBTO262 name_FJBT institution
+ENTITY UPTC8CLC name_UPTC institution
+ENTITY 8IN9NR0X name_8IN9 institution
+PRINT .FS?_7V{
+DELETE _4^&0S$L
+PATH _4^&0S$L UPTC8CLC
+EXIT

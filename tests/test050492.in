@@ -1,0 +1,7 @@
+ENTITY UGUXSF1R name_UGUX institution
+ENTITY 7W9FPRCE name_7W9F journal
+ENTITY VR6JXBUJ name_VR6J institution
+PRINT }=P=F#_E
+DELETE 0Z,[+8;Q
+PATH 0Z,[+8;Q VR6JXBUJ
+EXIT

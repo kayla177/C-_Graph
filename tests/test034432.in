@@ -1,0 +1,7 @@
+ENTITY LXSHTJDY name_LXSH paper
+ENTITY 3AH664UN name_3AH6 author
+ENTITY 3186ISHE name_3186 institution
+PRINT 59S=}EB?
+DELETE (+$#2]]]
+PATH (+$#2]]] LXSHTJDY
+EXIT

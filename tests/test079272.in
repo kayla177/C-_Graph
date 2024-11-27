@@ -1,0 +1,7 @@
+ENTITY 3GL1SALA name_3GL1 journal
+ENTITY R1NLHBNW name_R1NL journal
+ENTITY 30GV3IV1 name_30GV institution
+PRINT @E;|&4;*
+DELETE #N1|{TK6
+PATH @E;|&4;* 30GV3IV1
+EXIT

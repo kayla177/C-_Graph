@@ -1,0 +1,7 @@
+ENTITY X9SVAH38 name_X9SV conference
+ENTITY 74G7KZDB name_74G7 conference
+ENTITY WFPV6VEE name_WFPV author
+PRINT F%<.9*^4
+DELETE F%<.9*^4
+PATH F%<.9*^4 74G7KZDB
+EXIT

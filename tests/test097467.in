@@ -1,0 +1,7 @@
+ENTITY M2JRMJ4Y name_M2JR conference
+ENTITY GB93614H name_GB93 conference
+ENTITY WNF9JXPW name_WNF9 conference
+PRINT A{%N*3>}
+DELETE YS(1>S*&
+PATH YS(1>S*& GB93614H
+EXIT

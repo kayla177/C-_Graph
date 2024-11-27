@@ -1,0 +1,7 @@
+ENTITY 6X48BNWX name_6X48 journal
+ENTITY G6ZJWLBG name_G6ZJ paper
+ENTITY NK3SANCH name_NK3S institution
+PRINT .S|W_|#,
+DELETE .S|W_|#,
+PATH .S|W_|#, NK3SANCH
+EXIT

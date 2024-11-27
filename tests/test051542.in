@@ -1,0 +1,7 @@
+ENTITY J3WIXIA3 name_J3WI institution
+ENTITY YIFTOUGL name_YIFT journal
+ENTITY SORZER6G name_SORZ conference
+PRINT !=VHF:^@
+DELETE !=VHF:^@
+PATH !=VHF:^@ YIFTOUGL
+EXIT

@@ -1,0 +1,7 @@
+ENTITY VXJSNMD0 name_VXJS conference
+ENTITY JQYZN7WL name_JQYZ author
+ENTITY 6L81MCU8 name_6L81 author
+PRINT :+[{]^YP
+DELETE :+[{]^YP
+PATH :+[{]^YP 6L81MCU8
+EXIT

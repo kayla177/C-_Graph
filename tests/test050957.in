@@ -1,0 +1,7 @@
+ENTITY MD3R434M name_MD3R institution
+ENTITY QW8XZOLS name_QW8X author
+ENTITY KZ1J2MLP name_KZ1J author
+PRINT %Z>I6;I#
+DELETE [.{)=BZ[
+PATH [.{)=BZ[ KZ1J2MLP
+EXIT

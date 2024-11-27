@@ -1,0 +1,7 @@
+ENTITY X5B0VPQ6 name_X5B0 institution
+ENTITY AKR14VKK name_AKR1 institution
+ENTITY 15N1S3WW name_15N1 institution
+PRINT J*+$3=:)
+DELETE J*+$3=:)
+PATH J*+$3=:) AKR14VKK
+EXIT

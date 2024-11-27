@@ -1,0 +1,7 @@
+ENTITY 5ZAP9MNW name_5ZAP conference
+ENTITY LQ4M6AY6 name_LQ4M author
+ENTITY N490IQ3U name_N490 journal
+PRINT .!M4%!;;
+DELETE Y_:S;?U6
+PATH .!M4%!;; N490IQ3U
+EXIT

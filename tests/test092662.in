@@ -1,0 +1,7 @@
+ENTITY W1OCSVF5 name_W1OC institution
+ENTITY RLE3C6QY name_RLE3 journal
+ENTITY MXZ96GYB name_MXZ9 conference
+PRINT _@-H{5@F
+DELETE _@-H{5@F
+PATH {$RBV*Z^ RLE3C6QY
+EXIT

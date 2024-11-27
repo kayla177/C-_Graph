@@ -1,0 +1,7 @@
+ENTITY 7VIPAQDO name_7VIP conference
+ENTITY 6S6EVNA9 name_6S6E author
+ENTITY 9XH2UOLB name_9XH2 conference
+PRINT ->$7.9C[
+DELETE ->$7.9C[
+PATH R$[T-@}R 9XH2UOLB
+EXIT

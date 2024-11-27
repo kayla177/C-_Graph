@@ -1,0 +1,7 @@
+ENTITY JFSW1WRV name_JFSW journal
+ENTITY C1R1XHVX name_C1R1 author
+ENTITY K0PBT3E7 name_K0PB journal
+PRINT 3)||(^!T
+DELETE 3)||(^!T
+PATH 3)||(^!T JFSW1WRV
+EXIT

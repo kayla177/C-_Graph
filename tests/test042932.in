@@ -1,0 +1,7 @@
+ENTITY NJ00IBYT name_NJ00 institution
+ENTITY 3O45OCGO name_3O45 institution
+ENTITY 5OIMS1VL name_5OIM conference
+PRINT 2ZW6S<$.
+DELETE !--=$%5J
+PATH !--=$%5J 3O45OCGO
+EXIT

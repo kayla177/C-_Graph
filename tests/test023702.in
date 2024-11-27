@@ -1,0 +1,7 @@
+ENTITY 08CHC0RC name_08CH conference
+ENTITY 24RU8XAP name_24RU institution
+ENTITY HMZA9BQQ name_HMZA institution
+PRINT %V_4;&(G
+DELETE SX%0$NOV
+PATH %V_4;&(G 24RU8XAP
+EXIT

@@ -1,0 +1,7 @@
+ENTITY 20ZNRK0K name_20ZN institution
+ENTITY FSRHW3QU name_FSRH institution
+ENTITY IW6X2NDI name_IW6X conference
+PRINT ?.$>F:^5
+DELETE ?.$>F:^5
+PATH ?.$>F:^5 FSRHW3QU
+EXIT

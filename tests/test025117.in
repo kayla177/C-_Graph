@@ -1,0 +1,7 @@
+ENTITY NS5BAFPX name_NS5B institution
+ENTITY MI0IL9KW name_MI0I institution
+ENTITY AKFLK2IL name_AKFL journal
+PRINT .%|^0%E@
+DELETE .%|^0%E@
+PATH .%|^0%E@ NS5BAFPX
+EXIT

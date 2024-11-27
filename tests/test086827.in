@@ -1,0 +1,7 @@
+ENTITY XCTQD6BW name_XCTQ institution
+ENTITY FY7KYEJD name_FY7K journal
+ENTITY BYRSUML2 name_BYRS conference
+PRINT Q?[53#?^
+DELETE Q?[53#?^
+PATH :M#L_F.J BYRSUML2
+EXIT

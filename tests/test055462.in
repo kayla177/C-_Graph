@@ -1,0 +1,7 @@
+ENTITY B2DZ87PJ name_B2DZ journal
+ENTITY VP8MRFFP name_VP8M author
+ENTITY 1HF3IOEX name_1HF3 institution
+PRINT |=_7*,<*
+DELETE |=_7*,<*
+PATH ];4+,-OL B2DZ87PJ
+EXIT

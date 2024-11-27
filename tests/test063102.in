@@ -1,0 +1,7 @@
+ENTITY 2DA6JR3Y name_2DA6 conference
+ENTITY BVAS5C1Y name_BVAS institution
+ENTITY JQEU3EU4 name_JQEU journal
+PRINT W#((N6%}
+DELETE W#((N6%}
+PATH W#((N6%} 2DA6JR3Y
+EXIT

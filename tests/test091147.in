@@ -1,0 +1,7 @@
+ENTITY FL55EZGB name_FL55 institution
+ENTITY VL32SSUT name_VL32 journal
+ENTITY 4CTD0OEF name_4CTD conference
+PRINT -.>O;$LB
+DELETE <(##S)OK
+PATH -.>O;$LB 4CTD0OEF
+EXIT

@@ -1,0 +1,7 @@
+ENTITY LQNF46IL name_LQNF institution
+ENTITY YOU8JW00 name_YOU8 institution
+ENTITY TCXFO8NB name_TCXF journal
+PRINT H!;*GI)*
+DELETE H!;*GI)*
+PATH H!;*GI)* TCXFO8NB
+EXIT

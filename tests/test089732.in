@@ -1,0 +1,7 @@
+ENTITY S9Q9DEZI name_S9Q9 conference
+ENTITY OEV2SMTA name_OEV2 institution
+ENTITY FROG3L5P name_FROG journal
+PRINT 2[,]5A,|
+DELETE 2[,]5A,|
+PATH I&1?J]([ FROG3L5P
+EXIT

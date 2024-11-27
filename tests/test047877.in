@@ -1,0 +1,7 @@
+ENTITY QT3CS6BJ name_QT3C conference
+ENTITY 623G0ZPJ name_623G journal
+ENTITY C2YD820F name_C2YD institution
+PRINT #-%N#{?*
+DELETE #-%N#{?*
+PATH B0.*)RW& C2YD820F
+EXIT

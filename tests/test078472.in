@@ -1,0 +1,7 @@
+ENTITY J4D370YS name_J4D3 paper
+ENTITY RM1IM3TM name_RM1I journal
+ENTITY J4D6846A name_J4D6 institution
+PRINT P-[#*)!*
+DELETE P-[#*)!*
+PATH 1TA=%HB> J4D6846A
+EXIT

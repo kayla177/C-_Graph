@@ -1,0 +1,7 @@
+ENTITY SZ3CX4VV name_SZ3C institution
+ENTITY 7UH6CM9B name_7UH6 institution
+ENTITY XPP4ERXR name_XPP4 journal
+PRINT =*J<(_{L
+DELETE =*J<(_{L
+PATH #}HJ+(@D 7UH6CM9B
+EXIT
