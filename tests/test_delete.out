@@ -10,16 +10,15 @@ success
 success
 success
 success
+A2 A4 90
+A2 A3 A4 A5 
 success
+A4 A5  
 success
+A4 A5 A2 
 success
+failure
+A2 
 success
-success
-success
-success
-success
-success
-success
-success
-success
-success
+failure
+

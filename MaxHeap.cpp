@@ -27,7 +27,6 @@ void MaxHeap::heapifyDown(int i)
     }
 }
 
-// Restore heap property by moving the element up
 void MaxHeap::heapifyUp(int i)
 {
     while (i > 0 && std::get<0>(heap[parent(i)]) < std::get<0>(heap[i]))
@@ -37,14 +36,12 @@ void MaxHeap::heapifyUp(int i)
     }
 }
 
-// Insert a new element into the heap
 void MaxHeap::insert(double weight, int currentNode, int parentNode)
 {
     heap.emplace_back(weight, currentNode, parentNode);
     heapifyUp(heap.size() - 1);
 }
 
-// Extract the maximum element from the heap
 std::tuple<double, int, int> MaxHeap::extractMax()
 {
     if (heap.empty())

@@ -24,4 +24,4 @@ public:
     bool empty() const;
 };
 
-#endif // MAX_HEAP_HPP
+#endif

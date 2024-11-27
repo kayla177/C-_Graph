@@ -15,6 +15,8 @@ public:
     std::string getName();
     std::string getType();
 
+    std::vector<std::tuple<int, double>> neighbors;
+
     //---------------------------------- modifiers -------------------------
     void update(std::string newName, std::string newType);
 };

@@ -3,7 +3,7 @@
 #include <sstream>
 #include <string>
 #include "Graph.hpp"
-#include "illegal_exception.hpp" // Include illegal_exception header
+#include "illegal_exception.hpp"
 
 bool isValidId(const std::string &id) {
     for (char c : id) {

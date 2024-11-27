@@ -2,29 +2,32 @@
 // #include "MaxHeap.hpp"
 // #include <algorithm>
 // #include <stdexcept>
+// #include <iostream>
+// #include "illegal_exception.hpp"
 
 // Graph::Graph() {}
 
-// // Helper to get node index by ID
 // int Graph::getNodeIndex(const std::string &id)
 // {
 //     for (int i = 0; i < nodeIds.size(); ++i)
 //     {
-//         // std::cout << "Searching for node ID: " << id << std::endl;
-
 //         if (nodeIds[i] == id)
 //         {
-//             // std::cout << "nodeIds[" << i << "] is " << nodeIds[i] << std::endl;
-//             // std::cout << "given id is: " << id << std::endl;
 //             return i;
 //         }
 //     }
-//     return -1; // Node not found
+//     // node not found
+//     return -1;
 // }
 
 // // Add a new node or update an existing one
 // void Graph::addNode(const std::string &id, const std::string &name, const std::string &type)
 // {
+//     if (id.empty() || name.empty() || type.empty())
+//     {
+//         throw illegal_exception();
+//     }
+
 //     int index = getNodeIndex(id);
 //     if (index != -1)
 //     {
@@ -38,16 +41,20 @@
 
 // std::string Graph::addEdge(const std::string &sourceId, const std::string &destinationId, double weight, const std::string &label)
 // {
+//     if (sourceId == destinationId || weight <= 0)
+//     {
+//         throw illegal_exception();
+//     }
+
 //     int sourceIndex = getNodeIndex(sourceId);
 //     int destIndex = getNodeIndex(destinationId);
-//     // std::cout << "sourceIndex: " << sourceIndex << std::endl;
-//     // std::cout << "destIndex: " << destIndex << std::endl;
 
 //     if (sourceIndex == -1 || destIndex == -1)
 //     {
 //         return "failure";
 //     }
 
+//     // Update or add the edge if it already exists
 //     for (auto &edge : adjList[sourceIndex])
 //     {
 //         if (std::get<0>(edge) == destinationId)
@@ -57,6 +64,7 @@
 //         }
 //     }
 
+//     // Add bidirectional edges
 //     adjList[sourceIndex].emplace_back(destinationId, weight, label);
 //     adjList[destIndex].emplace_back(sourceId, weight, label);
 
@@ -120,80 +128,23 @@
 //     std::cout << std::endl;
 // }
 
-// // std::tuple<std::vector<std::string>, double> Graph::findPath(const std::string &sourceId, const std::string &destinationId)
-// // {
-// //     int sourceIndex = getNodeIndex(sourceId);
-// //     int destIndex = getNodeIndex(destinationId);
-// //     if (sourceIndex == -1 || destIndex == -1)
-// //     {
-// //         return {{}, -1};
-// //     }
-
-// //     MaxHeap queue;
-// //     std::vector<double> bestWeight(nodeIds.size(), -1);
-// //     std::vector<int> parent(nodeIds.size(), -1);
-
-// //     queue.insert(0, sourceIndex, -1);
-
-// //     while (!queue.empty())
-// //     {
-// //         auto top = queue.extractMax(); // Extract max tuple
-// //         double currentWeight = std::get<0>(top);
-// //         int currentNode = std::get<1>(top);
-// //         int parentNode = std::get<2>(top);
-
-// //         if (currentWeight <= bestWeight[currentNode])
-// //         {
-// //             continue;
-// //         }
-
-// //         bestWeight[currentNode] = currentWeight;
-// //         parent[currentNode] = parentNode;
-
-// //         for (auto &edge : adjList[currentNode])
-// //         {
-// //             int neighborIndex = getNodeIndex(std::get<0>(edge));
-// //             double edgeWeight = std::get<1>(edge);
-
-// //             queue.insert(currentWeight + edgeWeight, neighborIndex, currentNode);
-// //         }
-// //     }
-
-// //     if (bestWeight[destIndex] == -1)
-// //     {
-// //         return {{}, -1};
-// //     }
-
-// //     // Reverse the path to get source -> destination
-// //     std::vector<std::string> path;
-// //     for (int at = destIndex; at != -1; at = parent[at])
-// //     {
-// //         path.push_back(nodeIds[at]);
-// //     }
-// //     std::reverse(path.begin(), path.end());
-
-// //     return {path, bestWeight[destIndex]};
-// // }
-
 // std::tuple<std::vector<std::string>, double> Graph::findPath(const std::string &sourceId, const std::string &destinationId)
 // {
 //     int sourceIndex = getNodeIndex(sourceId);
 //     int destIndex = getNodeIndex(destinationId);
 //     if (sourceIndex == -1 || destIndex == -1)
 //     {
-//         // std::cout << "Source or Destination not found. Pathfinding failed." << std::endl;
 //         return {{}, -1};
 //     }
+//     std::cout << "***********source index: " << sourceIndex << " &&  destIndex:  " << destIndex << std::endl;
 
 //     MaxHeap queue;
 //     std::vector<double> bestWeight(nodeIds.size(), -1);
 //     std::vector<int> parent(nodeIds.size(), -1);
-//     std::vector<bool> visited(nodeIds.size(), false);  // Added a visited array
+//     std::vector<bool> visited(nodeIds.size(), false);
 
 //     queue.insert(0, sourceIndex, -1);
-//     bestWeight[sourceIndex] = 0;  // Initial weight to reach the source is zero
-
-//     // std::cout << "Starting pathfinding from " << sourceId << " to " << destinationId << std::endl;
+//     bestWeight[sourceIndex] = 0;
 
 //     while (!queue.empty())
 //     {
@@ -202,24 +153,32 @@
 //         int currentNode = std::get<1>(top);
 //         int parentNode = std::get<2>(top);
 
-//         // std::cout << "Extracted node " << nodeIds[currentNode] << " from queue with weight " << currentWeight << std::endl;
+//         std::cout << "***********Extracted Node: " << nodeIds[currentNode]
+//                   << ", Weight: " << currentWeight
+//                   << ", Parent Node: " << (parentNode != -1 ? nodeIds[parentNode] : "None") << std::endl;
 
-//         // Skip nodes that are already visited
 //         if (visited[currentNode])
 //         {
 //             continue;
 //         }
 
-//         // Mark current node as visited
 //         visited[currentNode] = true;
 //         parent[currentNode] = parentNode;
+
+//         if (currentNode == destIndex)
+//         {
+//             break;
+//         }
 
 //         for (auto &edge : adjList[currentNode])
 //         {
 //             int neighborIndex = getNodeIndex(std::get<0>(edge));
 //             double edgeWeight = std::get<1>(edge);
 
-//             if (neighborIndex != -1 && !visited[neighborIndex])
+//             std::cout << "***********Visiting Neighbor: " << nodeIds[neighborIndex]
+//                       << ", Edge Weight: " << edgeWeight << std::endl;
+
+//             if (!visited[neighborIndex])
 //             {
 //                 double newWeight = currentWeight + edgeWeight;
 
@@ -227,20 +186,26 @@
 //                 {
 //                     bestWeight[neighborIndex] = newWeight;
 //                     queue.insert(newWeight, neighborIndex, currentNode);
-//                     // std::cout << "Inserting into queue: Node = " << neighborIndex 
-//                     //           << ", Weight = " << newWeight << std::endl;
 //                 }
 //             }
 //         }
 //     }
 
+//     if (bestWeight[destIndex] != -1)
+//     {
+//         std::cout << "***********Path found from " << sourceId << " to " << destinationId
+//                   << ", Weight: " << bestWeight[destIndex] << std::endl;
+//     }
+//     else
+//     {
+//         std::cout << "***********No valid path found from " << sourceId << " to " << destinationId << std::endl;
+//     }
+
 //     if (bestWeight[destIndex] == -1)
 //     {
-//         // std::cout << "No valid path found to destination." << std::endl;
 //         return {{}, -1};
 //     }
 
-//     // Reverse the path to get source -> destination
 //     std::vector<std::string> path;
 //     for (int at = destIndex; at != -1; at = parent[at])
 //     {
@@ -248,20 +213,13 @@
 //     }
 //     std::reverse(path.begin(), path.end());
 
-//     // std::cout << "Path found: ";
-//     for (const auto &node : path)
-//     {
-//         std::cout << node << " ";
-//     }
-//     // std::cout << "with total weight: " << bestWeight[destIndex] << std::endl;
-
 //     return {path, bestWeight[destIndex]};
 // }
 
-
-
 // void Graph::findHighestPath()
 // {
+//     std::cout << "***********Starting to find the highest path..." << std::endl;
+
 //     if (isGraphEmpty())
 //     {
 //         std::cout << "failure" << std::endl;
@@ -276,17 +234,31 @@
 //     {
 //         for (int j = i + 1; j < nodeIds.size(); ++j)
 //         {
+//             std::cout << "***********Finding path between: " << nodeIds[i] << " and " << nodeIds[j] << std::endl;
+
 //             auto result = findPath(nodeIds[i], nodeIds[j]);
 //             std::vector<std::string> path = std::get<0>(result);
 //             double weight = std::get<1>(result);
 
 //             if (weight > maxWeight)
 //             {
+//                 std::cout << "***********New highest weight found: " << weight << " for path between "
+//                           << nodeIds[i] << " and " << nodeIds[j] << std::endl;
 //                 maxWeight = weight;
 //                 sourceVertex = nodeIds[i];
 //                 destVertex = nodeIds[j];
 //             }
 //         }
+//     }
+
+//     if (maxWeight == -1)
+//     {
+//         std::cout << "***********No valid highest path found." << std::endl;
+//     }
+//     else
+//     {
+//         std::cout << "***********Highest path found from " << sourceVertex << " to " << destVertex
+//                   << " with weight " << maxWeight << std::endl;
 //     }
 
 //     if (maxWeight == -1)
@@ -345,22 +317,17 @@
 
 // bool Graph::isGraphEmpty()
 // {
-//     // Check if there are no nodes
 //     if (nodeIds.empty())
 //         return true;
 
-//     // Check if there are no edges (all adjacency lists are empty)
 //     for (const auto &neighbors : adjList)
 //     {
 //         if (!neighbors.empty())
-//             return false; // Found an edge
+//             return false;
 //     }
 
-//     return true; // No edges
+//     return true;
 // }
-
-
-
 
 
 #include "Graph.hpp"
@@ -368,11 +335,10 @@
 #include <algorithm>
 #include <stdexcept>
 #include <iostream>
-#include "illegal_exception.hpp" // Including the illegal argument exception
+#include "illegal_exception.hpp"
 
 Graph::Graph() {}
 
-// Helper to get node index by ID
 int Graph::getNodeIndex(const std::string &id)
 {
     for (int i = 0; i < nodeIds.size(); ++i)
@@ -382,7 +348,8 @@ int Graph::getNodeIndex(const std::string &id)
             return i;
         }
     }
-    return -1; // Node not found
+    // node not found
+    return -1;
 }
 
 // Add a new node or update an existing one
@@ -422,16 +389,16 @@ std::string Graph::addEdge(const std::string &sourceId, const std::string &desti
     // Update or add the edge if it already exists
     for (auto &edge : adjList[sourceIndex])
     {
-        if (std::get<0>(edge) == destinationId)
+        if (std::get<0>(edge) == destIndex)
         {
-            edge = {destinationId, weight, label};
+            edge = {destIndex, weight, label};
             return "success";
         }
     }
 
     // Add bidirectional edges
-    adjList[sourceIndex].emplace_back(destinationId, weight, label);
-    adjList[destIndex].emplace_back(sourceId, weight, label);
+    adjList[sourceIndex].emplace_back(destIndex, weight, label);
+    adjList[destIndex].emplace_back(sourceIndex, weight, label);
 
     return "success";
 }
@@ -453,10 +420,10 @@ std::string Graph::removeNode(const std::string &targetID)
 
     for (auto &edges : adjList)
     {
-        std::vector<std::tuple<std::string, double, std::string>> updatedEdges;
+        std::vector<std::tuple<int, double, std::string>> updatedEdges;
         for (auto &edge : edges)
         {
-            if (std::get<0>(edge) != targetID)
+            if (std::get<0>(edge) != targetIndex)
             {
                 updatedEdges.push_back(edge);
             }
@@ -482,13 +449,13 @@ void Graph::printAdjacency(const std::string &targetID)
 
     if (adjList[targetIndex].empty())
     {
-        std::cout << "No connections found." << std::endl;
+        std::cout << std::endl;
         return;
     }
 
     for (auto &edge : adjList[targetIndex])
     {
-        std::cout << std::get<0>(edge) << " ";
+        std::cout << nodeIds[std::get<0>(edge)] << " ";
     }
     std::cout << std::endl;
 }
@@ -501,6 +468,7 @@ std::tuple<std::vector<std::string>, double> Graph::findPath(const std::string &
     {
         return {{}, -1};
     }
+    // std::cout << "source index: " << sourceIndex << " &&  destIndex:  " << destIndex << std::endl;
 
     MaxHeap queue;
     std::vector<double> bestWeight(nodeIds.size(), -1);
@@ -517,6 +485,8 @@ std::tuple<std::vector<std::string>, double> Graph::findPath(const std::string &
         int currentNode = std::get<1>(top);
         int parentNode = std::get<2>(top);
 
+        // std::cout << "currentWeight: " << currentWeight << " &&  currentNode:  " << currentNode << " && parentNode: " << parentNode << std::endl;
+
         if (visited[currentNode])
         {
             continue;
@@ -532,7 +502,7 @@ std::tuple<std::vector<std::string>, double> Graph::findPath(const std::string &
 
         for (auto &edge : adjList[currentNode])
         {
-            int neighborIndex = getNodeIndex(std::get<0>(edge));
+            int neighborIndex = std::get<0>(edge);
             double edgeWeight = std::get<1>(edge);
 
             if (!visited[neighborIndex])
@@ -645,7 +615,6 @@ void Graph::findAll(const std::string &fieldType, const std::string &fieldValue)
         std::cout << std::endl;
     }
 }
-
 
 bool Graph::isGraphEmpty()
 {
