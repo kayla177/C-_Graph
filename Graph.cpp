@@ -403,6 +403,41 @@ std::string Graph::addEdge(const std::string &sourceId, const std::string &desti
     return "success";
 }
 
+// std::string Graph::removeNode(const std::string &targetID)
+// {
+//     if (isGraphEmpty())
+//     {
+//         return "failure";
+//     }
+//     int targetIndex = getNodeIndex(targetID);
+
+//     if (targetIndex == -1)
+//     {
+//         return "failure";
+//     }
+
+//     adjList.erase(adjList.begin() + targetIndex);
+
+//     for (auto &edges : adjList)
+//     {
+//         std::vector<std::tuple<int, double, std::string>> updatedEdges;
+//         for (auto &edge : edges)
+//         {
+//             if (std::get<0>(edge) != targetIndex)
+//             {
+//                 updatedEdges.push_back(edge);
+//             }
+//         }
+//         edges = std::move(updatedEdges);
+//     }
+
+//     nodeIds.erase(nodeIds.begin() + targetIndex);
+//     nodes.erase(nodes.begin() + targetIndex);
+
+//     return "success";
+// }
+
+
 std::string Graph::removeNode(const std::string &targetID)
 {
     if (isGraphEmpty())
@@ -416,26 +451,43 @@ std::string Graph::removeNode(const std::string &targetID)
         return "failure";
     }
 
+    // Erase the adjacency list for the target node
     adjList.erase(adjList.begin() + targetIndex);
 
+    // Remove the node from the nodeIds and nodes list
+    nodeIds.erase(nodeIds.begin() + targetIndex);
+    nodes.erase(nodes.begin() + targetIndex);
+
+    // Update adjacency lists to remove references to the deleted node and adjust indices
     for (auto &edges : adjList)
     {
         std::vector<std::tuple<int, double, std::string>> updatedEdges;
         for (auto &edge : edges)
         {
-            if (std::get<0>(edge) != targetIndex)
+            int neighborIndex = std::get<0>(edge);
+            if (neighborIndex == targetIndex)
             {
+                // Skip edges that connect to the deleted node
+                continue;
+            }
+            else if (neighborIndex > targetIndex)
+            {
+                // Adjust index for nodes that were after the deleted node
+                updatedEdges.push_back({neighborIndex - 1, std::get<1>(edge), std::get<2>(edge)});
+            }
+            else
+            {
+                // Keep the edge as it is
                 updatedEdges.push_back(edge);
             }
         }
         edges = std::move(updatedEdges);
     }
 
-    nodeIds.erase(nodeIds.begin() + targetIndex);
-    nodes.erase(nodes.begin() + targetIndex);
-
     return "success";
 }
+
+
 
 void Graph::printAdjacency(const std::string &targetID)
 {
@@ -452,7 +504,7 @@ void Graph::printAdjacency(const std::string &targetID)
         std::cout << std::endl;
         return;
     }
-
+    
     for (auto &edge : adjList[targetIndex])
     {
         std::cout << nodeIds[std::get<0>(edge)] << " ";

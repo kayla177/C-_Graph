@@ -10,15 +10,8 @@ success
 success
 success
 success
-A2 A4 90
 A2 A3 A4 A5 
-success
-A3 A4 A5 
-success
-A3 A4 A5 
-success
+A1 A3 
 failure
-A4 
-success
+A2 A3 A4 A5 
 failure
-

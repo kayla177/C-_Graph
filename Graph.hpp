@@ -48,7 +48,7 @@ private:
     std::vector<Node> nodes;                                                        // Vector of nodes (aligned with nodeIds)
     std::vector<std::vector<std::tuple<int, double, std::string>>> adjList; // Adjacency list
 
-    int getNodeIndex(const std::string &id); // Helper to get node index by ID
+    int getNodeIndex(const std::string &id); 
 
 public:
     Graph();
