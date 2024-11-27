@@ -1,7 +1,0 @@
-ENTITY FND75310 name_FND7 institution
-ENTITY ZP2N0SSU name_ZP2N institution
-ENTITY TB6V2GPH name_TB6V institution
-PRINT ^V:IC|W(
-DELETE ;V(%3%RT
-PATH ^V:IC|W( ZP2N0SSU
-EXIT

@@ -1,7 +1,0 @@
-ENTITY FJEHTX4H name_FJEH institution
-ENTITY 30RB64Q7 name_30RB paper
-ENTITY YOI5ZNPG name_YOI5 conference
-PRINT *J|-[{$!
-DELETE *J|-[{$!
-PATH *J|-[{$! 30RB64Q7
-EXIT

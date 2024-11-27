@@ -1,7 +1,0 @@
-ENTITY FBQ1LTZ1 name_FBQ1 conference
-ENTITY 9TGIE9ED name_9TGI conference
-ENTITY C5NF8O53 name_C5NF institution
-PRINT &(=GB[91
-DELETE &(=GB[91
-PATH &(=GB[91 9TGIE9ED
-EXIT

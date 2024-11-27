@@ -1,7 +1,0 @@
-ENTITY O6CVMYHY name_O6CV paper
-ENTITY 1EEJ4ALY name_1EEJ institution
-ENTITY OXQ74LCW name_OXQ7 journal
-PRINT $S[{>_8-
-DELETE =D9L@*5[
-PATH $S[{>_8- O6CVMYHY
-EXIT

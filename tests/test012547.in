@@ -1,7 +1,0 @@
-ENTITY D2HS6PPZ name_D2HS institution
-ENTITY DRJ9Z6IV name_DRJ9 journal
-ENTITY QGVYR5EL name_QGVY paper
-PRINT :{O<D=XM
-DELETE }<:$$}81
-PATH }<:$$}81 D2HS6PPZ
-EXIT

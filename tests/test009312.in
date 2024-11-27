@@ -1,7 +1,0 @@
-ENTITY 1ML3221U name_1ML3 paper
-ENTITY JQUSYGHD name_JQUS institution
-ENTITY ZDOVTVCK name_ZDOV paper
-PRINT -:0?CT:R
-DELETE ^!_%#$(A
-PATH ^!_%#$(A 1ML3221U
-EXIT

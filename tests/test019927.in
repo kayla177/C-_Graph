@@ -1,7 +1,0 @@
-ENTITY Z8B0SWTO name_Z8B0 journal
-ENTITY K2K8N14C name_K2K8 conference
-ENTITY 0V1DLL4K name_0V1D author
-PRINT T6:>_$$:
-DELETE T6:>_$$:
-PATH ^%%,!BW& 0V1DLL4K
-EXIT

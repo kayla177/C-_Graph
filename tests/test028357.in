@@ -1,7 +1,0 @@
-ENTITY CN53LVXD name_CN53 institution
-ENTITY I1PJGJFL name_I1PJ author
-ENTITY RG05U0AN name_RG05 journal
-PRINT PNZ(G+&.
-DELETE 6.[[<=}4
-PATH 6.[[<=}4 CN53LVXD
-EXIT

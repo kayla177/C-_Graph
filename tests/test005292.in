@@ -1,7 +1,0 @@
-ENTITY CR0DU6WU name_CR0D institution
-ENTITY Y1C28S5A name_Y1C2 journal
-ENTITY GXZTMFIW name_GXZT institution
-PRINT (7?F{]:!
-DELETE $.PY>H=#
-PATH $.PY>H=# CR0DU6WU
-EXIT

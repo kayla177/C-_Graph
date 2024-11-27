@@ -1,7 +1,0 @@
-ENTITY Z7XD6KKY name_Z7XD journal
-ENTITY 2J1T3DYI name_2J1T institution
-ENTITY O6E5A7XU name_O6E5 conference
-PRINT $?=_U3?|
-DELETE -]}:WKIL
-PATH -]}:WKIL 2J1T3DYI
-EXIT

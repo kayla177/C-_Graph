@@ -1,7 +1,0 @@
-ENTITY FC2IMA2A name_FC2I institution
-ENTITY N3P42DME name_N3P4 institution
-ENTITY C6WOX7OL name_C6WO conference
-PRINT C+4K%3-}
-DELETE C+4K%3-}
-PATH C+4K%3-} C6WOX7OL
-EXIT

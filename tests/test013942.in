@@ -1,7 +1,0 @@
-ENTITY OR27I3BH name_OR27 conference
-ENTITY 5ZSRIRKD name_5ZSR institution
-ENTITY 1A42USZZ name_1A42 paper
-PRINT ?&{$JN%D
-DELETE ##=]$]7O
-PATH ?&{$JN%D 1A42USZZ
-EXIT

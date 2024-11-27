@@ -1,7 +1,0 @@
-ENTITY 5HYEJJ53 name_5HYE journal
-ENTITY T8HXRJ2I name_T8HX author
-ENTITY JLX4PWYK name_JLX4 institution
-PRINT 6!(J{})?
-DELETE _PG||>B!
-PATH 6!(J{})? JLX4PWYK
-EXIT

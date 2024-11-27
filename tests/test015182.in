@@ -1,7 +1,0 @@
-ENTITY FZB8GLHZ name_FZB8 institution
-ENTITY S71MT5TI name_S71M paper
-ENTITY Z6MD4BM7 name_Z6MD paper
-PRINT >5<||QX.
-DELETE |8$$;F:*
-PATH |8$$;F:* S71MT5TI
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 6VODHWHW name_6VOD conference
-ENTITY PVEGFJDY name_PVEG conference
-ENTITY 7UNP5VSA name_7UNP institution
-PRINT MF=G-H@{
-DELETE P,+*12T(
-PATH MF=G-H@{ 6VODHWHW
-EXIT

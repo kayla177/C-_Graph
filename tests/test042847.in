@@ -1,7 +1,0 @@
-ENTITY S83GP2IT name_S83G conference
-ENTITY 05FBJD5I name_05FB paper
-ENTITY 9E0VIY0C name_9E0V author
-PRINT :E-T^|,#
-DELETE :E-T^|,#
-PATH ^}}J9C__ 9E0VIY0C
-EXIT

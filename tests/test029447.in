@@ -1,7 +1,0 @@
-ENTITY BM0ETU7C name_BM0E institution
-ENTITY YZ6VAPGZ name_YZ6V paper
-ENTITY SF4SN1PE name_SF4S author
-PRINT 7*M<*!=[
-DELETE 7*M<*!=[
-PATH 7*M<*!=[ BM0ETU7C
-EXIT

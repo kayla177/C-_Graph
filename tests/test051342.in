@@ -1,7 +1,0 @@
-ENTITY 4O3WALWW name_4O3W conference
-ENTITY 330M2TC1 name_330M institution
-ENTITY WN2NIYMB name_WN2N journal
-PRINT (<I2{KW(
-DELETE (=^YU>O}
-PATH (=^YU>O} 330M2TC1
-EXIT

@@ -1,7 +1,0 @@
-ENTITY ZS4BHAZU name_ZS4B conference
-ENTITY HA83WPPK name_HA83 conference
-ENTITY 71HR1DLO name_71HR conference
-PRINT &R|?=>;5
-DELETE -1$=C0=G
-PATH ^3N%_!1P 71HR1DLO
-EXIT

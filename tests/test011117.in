@@ -1,7 +1,0 @@
-ENTITY MG6BBMUE name_MG6B author
-ENTITY 15CO4DSY name_15CO journal
-ENTITY 5L3G7M9E name_5L3G conference
-PRINT .O|.8::I
-DELETE .O|.8::I
-PATH *):-[RA) MG6BBMUE
-EXIT

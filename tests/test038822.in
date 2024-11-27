@@ -1,7 +1,0 @@
-ENTITY JCSTR8AT name_JCST author
-ENTITY X4V8PZL0 name_X4V8 institution
-ENTITY 492LB6TW name_492L conference
-PRINT ;G;,%._Y
-DELETE ;G;,%._Y
-PATH 8G@=)91N X4V8PZL0
-EXIT

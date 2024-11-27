@@ -1,7 +1,0 @@
-ENTITY 1YH68MRG name_1YH6 journal
-ENTITY DCB9NDNR name_DCB9 paper
-ENTITY QBBDP6MI name_QBBD institution
-PRINT -SD}|%C+
-DELETE -SD}|%C+
-PATH %.#-U,U. DCB9NDNR
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 6E06WR17 name_6E06 institution
-ENTITY OI37CV22 name_OI37 institution
-ENTITY MWLP9EDE name_MWLP journal
-PRINT NN*%^GS$
-DELETE NN*%^GS$
-PATH ;Z=>+$(] OI37CV22
-EXIT

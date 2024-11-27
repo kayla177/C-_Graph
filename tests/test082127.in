@@ -1,7 +1,0 @@
-ENTITY UT0X58UK name_UT0X institution
-ENTITY FZZJD7Q3 name_FZZJ journal
-ENTITY P9LE6HCX name_P9LE conference
-PRINT _&@3F^5$
-DELETE _&@3F^5$
-PATH ]8,J[$]J P9LE6HCX
-EXIT

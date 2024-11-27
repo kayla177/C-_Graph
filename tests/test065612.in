@@ -1,7 +1,0 @@
-ENTITY A06R4UCC name_A06R institution
-ENTITY KDYVGR22 name_KDYV conference
-ENTITY SC8DCO88 name_SC8D institution
-PRINT M9,,J&&}
-DELETE M9,,J&&}
-PATH =;E<>IEI A06R4UCC
-EXIT

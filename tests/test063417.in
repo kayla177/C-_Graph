@@ -1,7 +1,0 @@
-ENTITY DAPIZS32 name_DAPI institution
-ENTITY OSG9NGG8 name_OSG9 conference
-ENTITY 0IFJZJOC name_0IFJ institution
-PRINT #$_E,6TI
-DELETE #$_E,6TI
-PATH I.ZF;@!M OSG9NGG8
-EXIT

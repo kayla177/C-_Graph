@@ -1,7 +1,0 @@
-ENTITY Y1LXSAR7 name_Y1LX institution
-ENTITY AW6QBN6B name_AW6Q conference
-ENTITY JLOVA1WN name_JLOV conference
-PRINT N45{M,:%
-DELETE N45{M,:%
-PATH N45{M,:% Y1LXSAR7
-EXIT

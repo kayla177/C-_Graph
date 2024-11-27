@@ -1,7 +1,0 @@
-ENTITY YQ3R3MGQ name_YQ3R institution
-ENTITY GCA1S2QP name_GCA1 conference
-ENTITY 83VU0TNW name_83VU journal
-PRINT ?0Z0}<!}
-DELETE ?0Z0}<!}
-PATH ?0Z0}<!} YQ3R3MGQ
-EXIT

@@ -1,7 +1,0 @@
-ENTITY BQCYXDMY name_BQCY journal
-ENTITY D04BV9R8 name_D04B institution
-ENTITY 59TLW5CF name_59TL paper
-PRINT :$R^-=NR
-DELETE )R@[,?G}
-PATH )R@[,?G} BQCYXDMY
-EXIT

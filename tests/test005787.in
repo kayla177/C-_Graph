@@ -1,7 +1,0 @@
-ENTITY 1VLIT5R2 name_1VLI institution
-ENTITY L3E8366R name_L3E8 institution
-ENTITY OP66PMRZ name_OP66 journal
-PRINT #:SFD%[Y
-DELETE #:SFD%[Y
-PATH !8P$-${> L3E8366R
-EXIT

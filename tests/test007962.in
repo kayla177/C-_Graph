@@ -1,7 +1,0 @@
-ENTITY ZDOAED09 name_ZDOA institution
-ENTITY Y0NWFWSA name_Y0NW journal
-ENTITY BN0USXL5 name_BN0U institution
-PRINT ;7=@%)>+
-DELETE ;7=@%)>+
-PATH {D+CFG:V Y0NWFWSA
-EXIT

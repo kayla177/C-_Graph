@@ -1,7 +1,0 @@
-ENTITY BXQ0XLOJ name_BXQ0 author
-ENTITY 9YZVT0ZB name_9YZV conference
-ENTITY QDTU76C8 name_QDTU conference
-PRINT >*X=@O:8
-DELETE >*X=@O:8
-PATH >*X=@O:8 9YZVT0ZB
-EXIT

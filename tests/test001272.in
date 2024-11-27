@@ -1,7 +1,0 @@
-ENTITY 8K9XXE62 name_8K9X institution
-ENTITY G8AEX023 name_G8AE institution
-ENTITY RGZPXK32 name_RGZP conference
-PRINT $YS$+(>H
-DELETE %T7-(SP*
-PATH $YS$+(>H G8AEX023
-EXIT

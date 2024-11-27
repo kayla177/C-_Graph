@@ -1,7 +1,0 @@
-ENTITY S0F7MM6C name_S0F7 institution
-ENTITY O4SF3DG6 name_O4SF institution
-ENTITY 4F0G4HDR name_4F0G author
-PRINT 2(^N=![O
-DELETE {)C9^Z5{
-PATH 2(^N=![O S0F7MM6C
-EXIT

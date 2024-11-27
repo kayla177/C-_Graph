@@ -1,7 +1,0 @@
-ENTITY 8498I9OZ name_8498 institution
-ENTITY 80WUPJJC name_80WU conference
-ENTITY 8FSZKZKT name_8FSZ conference
-PRINT U2D=*M.%
-DELETE ;.F==&WO
-PATH ;.F==&WO 80WUPJJC
-EXIT

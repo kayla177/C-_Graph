@@ -1,7 +1,0 @@
-ENTITY 0O3U3Z14 name_0O3U institution
-ENTITY 7NQT35FD name_7NQT institution
-ENTITY ZMMXX4M4 name_ZMMX paper
-PRINT *9{^{%6I
-DELETE 9_[->E:=
-PATH 9_[->E:= 0O3U3Z14
-EXIT

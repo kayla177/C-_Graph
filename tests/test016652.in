@@ -1,7 +1,0 @@
-ENTITY CMUTJHIR name_CMUT author
-ENTITY 39RS283V name_39RS institution
-ENTITY NYG3WUWU name_NYG3 conference
-PRINT @R&{5W[,
-DELETE M{*%.9H-
-PATH @R&{5W[, 39RS283V
-EXIT

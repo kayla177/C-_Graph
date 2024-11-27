@@ -1,7 +1,0 @@
-ENTITY 4QB5KMVM name_4QB5 institution
-ENTITY 7M6432J6 name_7M64 conference
-ENTITY UIJM44SR name_UIJM author
-PRINT -L?,$=%N
-DELETE 5GR(-U&5
-PATH -L?,$=%N 4QB5KMVM
-EXIT

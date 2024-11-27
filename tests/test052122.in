@@ -1,7 +1,0 @@
-ENTITY VM2RBESW name_VM2R conference
-ENTITY Y8JH7YQN name_Y8JH paper
-ENTITY NLP44JF4 name_NLP4 conference
-PRINT -U*F*T,*
-DELETE ;&$_T-P&
-PATH -U*F*T,* Y8JH7YQN
-EXIT

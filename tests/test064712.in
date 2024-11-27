@@ -1,7 +1,0 @@
-ENTITY MDK48LBI name_MDK4 author
-ENTITY 3J0P3O12 name_3J0P journal
-ENTITY BSGJWVSK name_BSGJ author
-PRINT A+P&>%]%
-DELETE A+P&>%]%
-PATH A+P&>%]% MDK48LBI
-EXIT

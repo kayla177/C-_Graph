@@ -1,7 +1,0 @@
-ENTITY YSJPGO3U name_YSJP conference
-ENTITY A0I28853 name_A0I2 paper
-ENTITY HN844R5Q name_HN84 paper
-PRINT .X(=>1+.
-DELETE _9!^)|G|
-PATH .X(=>1+. HN844R5Q
-EXIT

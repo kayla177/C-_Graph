@@ -1,7 +1,0 @@
-ENTITY HE14TVNP name_HE14 institution
-ENTITY RCOGGTNV name_RCOG institution
-ENTITY BS6CSDUB name_BS6C conference
-PRINT 5%(J,=6{
-DELETE UQV%{97>
-PATH ;{?1%!DN BS6CSDUB
-EXIT

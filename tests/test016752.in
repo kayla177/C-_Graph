@@ -1,7 +1,0 @@
-ENTITY 2ORIJTOH name_2ORI paper
-ENTITY LZH8P82S name_LZH8 institution
-ENTITY L4X18X0H name_L4X1 institution
-PRINT V0}.O*@=
-DELETE V0}.O*@=
-PATH V0}.O*@= LZH8P82S
-EXIT

@@ -1,7 +1,0 @@
-ENTITY WA8OQJJ9 name_WA8O conference
-ENTITY QSFL5Q27 name_QSFL author
-ENTITY DBGU426U name_DBGU institution
-PRINT {-N@7E<_
-DELETE {-N@7E<_
-PATH {-N@7E<_ DBGU426U
-EXIT

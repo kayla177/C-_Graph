@@ -1,7 +1,0 @@
-ENTITY JPIZYOSM name_JPIZ institution
-ENTITY I2WP57MT name_I2WP conference
-ENTITY T5EHUV4T name_T5EH journal
-PRINT A.95$],?
-DELETE A.95$],?
-PATH A.95$],? I2WP57MT
-EXIT

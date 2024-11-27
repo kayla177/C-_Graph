@@ -1,7 +1,0 @@
-ENTITY FXKU0OY6 name_FXKU author
-ENTITY XBAQR80F name_XBAQ institution
-ENTITY GZDAOM49 name_GZDA paper
-PRINT +*O%.+3N
-DELETE @&!+(7!#
-PATH @&!+(7!# FXKU0OY6
-EXIT

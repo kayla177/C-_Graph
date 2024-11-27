@@ -1,7 +1,0 @@
-ENTITY 7UPOPHU7 name_7UPO conference
-ENTITY CP3L4K9P name_CP3L paper
-ENTITY W44I5AAD name_W44I institution
-PRINT .;KEP($=
-DELETE !2<]>*Q_
-PATH .;KEP($= CP3L4K9P
-EXIT

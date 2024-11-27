@@ -1,7 +1,0 @@
-ENTITY RCXXA9IC name_RCXX institution
-ENTITY L60T3OTA name_L60T institution
-ENTITY CS35ALZY name_CS35 paper
-PRINT C(!T@5=%
-DELETE )=(^A-FQ
-PATH ?Q.)[JZ! L60T3OTA
-EXIT

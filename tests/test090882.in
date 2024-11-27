@@ -1,7 +1,0 @@
-ENTITY ZUSNM1PA name_ZUSN journal
-ENTITY 7FOXC15Z name_7FOX institution
-ENTITY H6YUZEZT name_H6YU author
-PRINT N(Q)|83*
-DELETE ?F>@C;*;
-PATH ?F>@C;*; H6YUZEZT
-EXIT

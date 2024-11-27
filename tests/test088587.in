@@ -1,7 +1,0 @@
-ENTITY GKTEL0IM name_GKTE author
-ENTITY VG073NYI name_VG07 conference
-ENTITY JTKSHKKG name_JTKS institution
-PRINT ^A[+%}H;
-DELETE ^A[+%}H;
-PATH ^A[+%}H; JTKSHKKG
-EXIT

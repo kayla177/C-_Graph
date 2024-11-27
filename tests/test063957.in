@@ -1,7 +1,0 @@
-ENTITY 202ZZL80 name_202Z paper
-ENTITY LSPHZHKU name_LSPH conference
-ENTITY L1G9PNV3 name_L1G9 institution
-PRINT %]4[Q;.X
-DELETE %]4[Q;.X
-PATH ,,$?3:<* LSPHZHKU
-EXIT

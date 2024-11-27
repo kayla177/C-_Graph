@@ -1,7 +1,0 @@
-ENTITY FIAHNHRP name_FIAH author
-ENTITY BLXNS4GE name_BLXN paper
-ENTITY HI68N0H0 name_HI68 institution
-PRINT ^!P?:;-;
-DELETE S*38[5|W
-PATH ^!P?:;-; HI68N0H0
-EXIT

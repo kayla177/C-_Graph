@@ -1,7 +1,0 @@
-ENTITY ARAC0S85 name_ARAC author
-ENTITY 5YDJSM5N name_5YDJ paper
-ENTITY OCS2I2TY name_OCS2 institution
-PRINT {_}Y-(>J
-DELETE {_}Y-(>J
-PATH {_}Y-(>J ARAC0S85
-EXIT

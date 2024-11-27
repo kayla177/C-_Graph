@@ -1,7 +1,0 @@
-ENTITY 1ADXP7W9 name_1ADX author
-ENTITY 0BKPWRX8 name_0BKP conference
-ENTITY GTGQEWR7 name_GTGQ author
-PRINT *,Z<^0,#
-DELETE *,Z<^0,#
-PATH !=Y>N>Q? 0BKPWRX8
-EXIT

@@ -1,7 +1,0 @@
-ENTITY Y62Q6F5C name_Y62Q institution
-ENTITY VNBRMW2Z name_VNBR conference
-ENTITY LN9KE475 name_LN9K institution
-PRINT E^#6{VP(
-DELETE #%#6D#L9
-PATH #%#6D#L9 LN9KE475
-EXIT

@@ -1,7 +1,0 @@
-ENTITY S514K1QG name_S514 author
-ENTITY 4B6G0J60 name_4B6G conference
-ENTITY 9SKTM3Q7 name_9SKT institution
-PRINT $R(S$B,=
-DELETE $R(S$B,=
-PATH $R(S$B,= 4B6G0J60
-EXIT

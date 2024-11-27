@@ -1,7 +1,0 @@
-ENTITY 0GX2FDWJ name_0GX2 paper
-ENTITY D63WS3RJ name_D63W conference
-ENTITY B2LRU4EN name_B2LR journal
-PRINT >=9[@*T+
-DELETE 5-^3[|8^
-PATH >=9[@*T+ D63WS3RJ
-EXIT

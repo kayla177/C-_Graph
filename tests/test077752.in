@@ -1,7 +1,0 @@
-ENTITY 3UAX4YAL name_3UAX institution
-ENTITY 8HX3T01A name_8HX3 author
-ENTITY A1C3FB50 name_A1C3 author
-PRINT (#%_[QL:
-DELETE !Z=Z-D<%
-PATH (#%_[QL: 8HX3T01A
-EXIT

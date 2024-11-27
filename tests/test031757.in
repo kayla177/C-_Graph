@@ -1,7 +1,0 @@
-ENTITY OKNHL8VL name_OKNH paper
-ENTITY OLKNR20V name_OLKN institution
-ENTITY 8MFXNMLG name_8MFX conference
-PRINT [#.P}]$G
-DELETE P=B-|U|B
-PATH >2=#[2Y: OLKNR20V
-EXIT

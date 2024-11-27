@@ -1,7 +1,0 @@
-ENTITY YY8XM304 name_YY8X journal
-ENTITY 0I2Y0C3B name_0I2Y conference
-ENTITY OW3A0ZMU name_OW3A journal
-PRINT 9$*[H}!,
-DELETE 9$*[H}!,
-PATH 9$*[H}!, 0I2Y0C3B
-EXIT

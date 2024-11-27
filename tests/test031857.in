@@ -1,7 +1,0 @@
-ENTITY CGK6RNLU name_CGK6 journal
-ENTITY ISXNJ9NK name_ISXN journal
-ENTITY BZ0S7DZF name_BZ0S journal
-PRINT ;;_!P,^_
-DELETE ;;_!P,^_
-PATH BX3?,(-{ BZ0S7DZF
-EXIT

@@ -1,7 +1,0 @@
-ENTITY XIMW98RO name_XIMW institution
-ENTITY LH20BEG5 name_LH20 paper
-ENTITY NZCATQWU name_NZCA institution
-PRINT P!T,%_EI
-DELETE P!T,%_EI
-PATH ,7<|6#&} LH20BEG5
-EXIT

@@ -1,7 +1,0 @@
-ENTITY SKWS3R39 name_SKWS institution
-ENTITY 82PSODYT name_82PS institution
-ENTITY V1004HIY name_V100 journal
-PRINT _:>P:C|)
-DELETE ;2)34B]S
-PATH _:>P:C|) 82PSODYT
-EXIT

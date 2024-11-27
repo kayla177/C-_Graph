@@ -1,7 +1,0 @@
-ENTITY VEH337XR name_VEH3 paper
-ENTITY NBPCRSRP name_NBPC author
-ENTITY NOFFS69I name_NOFF conference
-PRINT (}A(N!>|
-DELETE (}A(N!>|
-PATH (}A(N!>| NOFFS69I
-EXIT

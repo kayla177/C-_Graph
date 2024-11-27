@@ -1,7 +1,0 @@
-ENTITY 18WRRYJZ name_18WR institution
-ENTITY CZZ2D7BI name_CZZ2 institution
-ENTITY ELD4ZZPX name_ELD4 author
-PRINT S;*@$)0<
-DELETE S;*@$)0<
-PATH S;*@$)0< 18WRRYJZ
-EXIT

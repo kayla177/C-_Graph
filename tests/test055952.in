@@ -1,7 +1,0 @@
-ENTITY A1DCUXGB name_A1DC author
-ENTITY KZBAXVGH name_KZBA paper
-ENTITY 1EN7VO7R name_1EN7 journal
-PRINT (?$#@)=_
-DELETE (?$#@)=_
-PATH C^?.IXMI A1DCUXGB
-EXIT

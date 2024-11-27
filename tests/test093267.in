@@ -1,7 +1,0 @@
-ENTITY PX4VOFPZ name_PX4V conference
-ENTITY W3XZ1MTR name_W3XZ author
-ENTITY CLTOSZZL name_CLTO journal
-PRINT ,7,&C+0?
-DELETE ,7,&C+0?
-PATH ):<$.G3_ W3XZ1MTR
-EXIT

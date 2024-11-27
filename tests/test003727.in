@@ -1,7 +1,0 @@
-ENTITY NOCWDV5H name_NOCW conference
-ENTITY SDZ4OLRM name_SDZ4 conference
-ENTITY 82TN8A10 name_82TN conference
-PRINT C4$=|>+(
-DELETE C4$=|>+(
-PATH =[K#5Y!! SDZ4OLRM
-EXIT

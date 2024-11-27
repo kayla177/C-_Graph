@@ -1,7 +1,0 @@
-ENTITY WIMXUJF0 name_WIMX conference
-ENTITY 1DB5WVR4 name_1DB5 institution
-ENTITY AXMFMCRR name_AXMF author
-PRINT ^@+&N;S}
-DELETE 1-JF|=-F
-PATH 1-JF|=-F 1DB5WVR4
-EXIT

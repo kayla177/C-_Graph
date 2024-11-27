@@ -1,7 +1,0 @@
-ENTITY JSCNB2DU name_JSCN institution
-ENTITY H2TFPEUL name_H2TF journal
-ENTITY RHXQ9XBI name_RHXQ institution
-PRINT (.->CCGV
-DELETE %3@M@D:]
-PATH %3@M@D:] H2TFPEUL
-EXIT

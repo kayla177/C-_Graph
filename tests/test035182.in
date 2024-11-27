@@ -1,7 +1,0 @@
-ENTITY N2V7NYWW name_N2V7 conference
-ENTITY U4KK8W0A name_U4KK conference
-ENTITY GB86GZUY name_GB86 institution
-PRINT Z>479{{;
-DELETE +_M_!{8S
-PATH Z>479{{; GB86GZUY
-EXIT

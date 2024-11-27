@@ -1,7 +1,0 @@
-ENTITY GWXG9VL7 name_GWXG paper
-ENTITY GAY7HY10 name_GAY7 author
-ENTITY PQBHHO7P name_PQBH institution
-PRINT 8{:-,0^,
-DELETE 8{:-,0^,
-PATH 8{:-,0^, GAY7HY10
-EXIT

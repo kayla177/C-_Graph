@@ -1,7 +1,0 @@
-ENTITY FOCD6V0D name_FOCD conference
-ENTITY M0T7U7FV name_M0T7 author
-ENTITY 3XYH4RBQ name_3XYH author
-PRINT X+-<{%Q-
-DELETE X+-<{%Q-
-PATH X+-<{%Q- FOCD6V0D
-EXIT

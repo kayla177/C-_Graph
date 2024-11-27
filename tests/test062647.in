@@ -1,7 +1,0 @@
-ENTITY L3H7DMTO name_L3H7 institution
-ENTITY 9SVTAMVM name_9SVT institution
-ENTITY C2H9AA4K name_C2H9 conference
-PRINT (=O(<VO^
-DELETE (=O(<VO^
-PATH (=O(<VO^ C2H9AA4K
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 0GX8CS41 name_0GX8 institution
-ENTITY GHZTUM9S name_GHZT paper
-ENTITY 2YOIPJDF name_2YOI institution
-PRINT !#[%{(NU
-DELETE !#[%{(NU
-PATH ?MY()L;P 2YOIPJDF
-EXIT

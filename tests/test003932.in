@@ -1,7 +1,0 @@
-ENTITY 8QK7O7MU name_8QK7 author
-ENTITY XRLU5WNS name_XRLU conference
-ENTITY VGR5W3ZS name_VGR5 journal
-PRINT :{,}*Q<*
-DELETE :{,}*Q<*
-PATH G^M<:N;T 8QK7O7MU
-EXIT

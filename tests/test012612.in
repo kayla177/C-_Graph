@@ -1,7 +1,0 @@
-ENTITY G0BMEN2N name_G0BM conference
-ENTITY RVMHCR7A name_RVMH institution
-ENTITY 6P4MEGDJ name_6P4M conference
-PRINT S{GS!_}>
-DELETE S{GS!_}>
-PATH ZC1,J^)| G0BMEN2N
-EXIT

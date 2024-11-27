@@ -1,7 +1,0 @@
-ENTITY 1LKFMOL3 name_1LKF journal
-ENTITY 4TAWNNY1 name_4TAW paper
-ENTITY HNP0SRKB name_HNP0 journal
-PRINT S<<.=*H:
-DELETE S<<.=*H:
-PATH +$.!J^,N HNP0SRKB
-EXIT

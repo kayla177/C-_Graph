@@ -1,7 +1,0 @@
-ENTITY YG73JA0W name_YG73 author
-ENTITY 8B2TR184 name_8B2T paper
-ENTITY A6Z3X8BX name_A6Z3 institution
-PRINT %K&{:,1;
-DELETE %K&{:,1;
-PATH =#-%1W9? YG73JA0W
-EXIT

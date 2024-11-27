@@ -1,7 +1,0 @@
-ENTITY 1AVSGLY6 name_1AVS journal
-ENTITY Q82JF2T5 name_Q82J journal
-ENTITY ETX9ZWYP name_ETX9 conference
-PRINT J+?|>4<+
-DELETE J+?|>4<+
-PATH J+?|>4<+ 1AVSGLY6
-EXIT

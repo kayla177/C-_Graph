@@ -1,7 +1,0 @@
-ENTITY YNI8OOTN name_YNI8 institution
-ENTITY KVRMZJ3S name_KVRM institution
-ENTITY XQGJL9P5 name_XQGJ conference
-PRINT ]:^{0GHX
-DELETE ]:^{0GHX
-PATH {P;{JQ}F KVRMZJ3S
-EXIT

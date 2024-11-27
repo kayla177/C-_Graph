@@ -1,7 +1,0 @@
-ENTITY 2OFG9XV4 name_2OFG institution
-ENTITY P3RRDOHZ name_P3RR paper
-ENTITY 3AVU9SDA name_3AVU conference
-PRINT :E31@X}:
-DELETE >^|:O#*6
-PATH >^|:O#*6 3AVU9SDA
-EXIT

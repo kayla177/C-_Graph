@@ -1,7 +1,0 @@
-ENTITY P9VXQUR7 name_P9VX paper
-ENTITY I2D29QKG name_I2D2 institution
-ENTITY 9CEW7I8P name_9CEW paper
-PRINT -L?-+$I;
-DELETE (E(-)2<=
-PATH (E(-)2<= I2D29QKG
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 15BIAZ1D name_15BI paper
-ENTITY 2AGYWM8L name_2AGY institution
-ENTITY 3Z3P8RZP name_3Z3P institution
-PRINT =JT[T[C#
-DELETE !(E,+%:{
-PATH =JT[T[C# 15BIAZ1D
-EXIT

@@ -1,7 +1,0 @@
-ENTITY IDSPBHWA name_IDSP conference
-ENTITY BV2L7U43 name_BV2L journal
-ENTITY UB1RV305 name_UB1R conference
-PRINT S-;:2{Z@
-DELETE ]FVO^@{}
-PATH S-;:2{Z@ UB1RV305
-EXIT

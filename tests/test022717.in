@@ -1,7 +1,0 @@
-ENTITY JNJOY0TR name_JNJO journal
-ENTITY FVYEDFU1 name_FVYE institution
-ENTITY ZQZV78D8 name_ZQZV conference
-PRINT =*1C<;^L
-DELETE =*1C<;^L
-PATH =*1C<;^L JNJOY0TR
-EXIT

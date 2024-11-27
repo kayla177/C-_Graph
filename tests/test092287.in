@@ -1,7 +1,0 @@
-ENTITY GUSI1JNI name_GUSI journal
-ENTITY HYUQR8I8 name_HYUQ institution
-ENTITY YSSX6762 name_YSSX paper
-PRINT :J##>@&A
-DELETE :J##>@&A
-PATH :P5<$#CO HYUQR8I8
-EXIT

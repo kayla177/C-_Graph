@@ -1,7 +1,0 @@
-ENTITY SHNX8R34 name_SHNX paper
-ENTITY E8WSA8TU name_E8WS conference
-ENTITY 167B6VEB name_167B conference
-PRINT Z5|{.*%3
-DELETE Z5|{.*%3
-PATH Z5|{.*%3 167B6VEB
-EXIT

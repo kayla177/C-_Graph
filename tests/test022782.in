@@ -1,7 +1,0 @@
-ENTITY DQL87FPH name_DQL8 conference
-ENTITY RIV312KJ name_RIV3 conference
-ENTITY W88RUYRB name_W88R journal
-PRINT UE:=1){H
-DELETE .>5$(,?M
-PATH UE:=1){H DQL87FPH
-EXIT

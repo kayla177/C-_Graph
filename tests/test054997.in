@@ -1,7 +1,0 @@
-ENTITY 65I5I8EK name_65I5 author
-ENTITY EI7EBUYC name_EI7E conference
-ENTITY KI3W9I9T name_KI3W conference
-PRINT <R9.%>^D
-DELETE <R9.%>^D
-PATH <R9.%>^D 65I5I8EK
-EXIT

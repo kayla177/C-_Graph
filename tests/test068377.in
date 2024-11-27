@@ -1,7 +1,0 @@
-ENTITY QCM4W09R name_QCM4 journal
-ENTITY EE0Y3BNY name_EE0Y paper
-ENTITY NSV3J4FN name_NSV3 institution
-PRINT >!(HG([-
-DELETE >!(HG([-
-PATH 3X(4!&Z? EE0Y3BNY
-EXIT

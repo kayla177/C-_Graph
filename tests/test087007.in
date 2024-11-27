@@ -1,7 +1,0 @@
-ENTITY 6EVCSSW2 name_6EVC institution
-ENTITY A18JQ5JO name_A18J institution
-ENTITY 0UXJ9HYE name_0UXJ institution
-PRINT [,]V{W(&
-DELETE [,]V{W(&
-PATH [,]V{W(& 0UXJ9HYE
-EXIT

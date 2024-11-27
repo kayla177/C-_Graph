@@ -1,7 +1,0 @@
-ENTITY 3DPCADEW name_3DPC institution
-ENTITY LYSRF8F6 name_LYSR institution
-ENTITY TD6SU61E name_TD6S conference
-PRINT E%#!R-XY
-DELETE E%#!R-XY
-PATH &V9?6).1 TD6SU61E
-EXIT

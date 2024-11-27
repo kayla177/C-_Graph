@@ -1,7 +1,0 @@
-ENTITY 72MIHDSA name_72MI institution
-ENTITY NWG39M71 name_NWG3 journal
-ENTITY CMRCFL6J name_CMRC institution
-PRINT %K}=|TP.
-DELETE {,FN%?D!
-PATH %K}=|TP. NWG39M71
-EXIT

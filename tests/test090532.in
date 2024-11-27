@@ -1,7 +1,0 @@
-ENTITY 5BC250Q3 name_5BC2 journal
-ENTITY J5LJIXMP name_J5LJ conference
-ENTITY 9CINGH3K name_9CIN author
-PRINT ,^39;)@,
-DELETE ,^39;)@,
-PATH ,^39;)@, J5LJIXMP
-EXIT

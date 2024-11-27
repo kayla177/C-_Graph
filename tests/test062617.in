@@ -1,7 +1,0 @@
-ENTITY L8DR5WLV name_L8DR author
-ENTITY N6TMPC6V name_N6TM conference
-ENTITY 0XS86YEN name_0XS8 journal
-PRINT #[H>;$?)
-DELETE #[H>;$?)
-PATH #[H>;$?) L8DR5WLV
-EXIT

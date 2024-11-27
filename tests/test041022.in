@@ -1,7 +1,0 @@
-ENTITY 60K22N8D name_60K2 institution
-ENTITY VJZAACRP name_VJZA conference
-ENTITY BAMDHMLQ name_BAMD institution
-PRINT BLIN&Z@,
-DELETE ,0A&55|T
-PATH V-D{&||, BAMDHMLQ
-EXIT

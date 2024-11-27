@@ -1,7 +1,0 @@
-ENTITY T9TH280A name_T9TH institution
-ENTITY TDKUWYEV name_TDKU conference
-ENTITY QPEYJ71J name_QPEY conference
-PRINT O=[0L*D|
-DELETE ^M&>5[|_
-PATH ;?@?!^AE TDKUWYEV
-EXIT

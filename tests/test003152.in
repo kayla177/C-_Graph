@@ -1,7 +1,0 @@
-ENTITY CUC02IJ1 name_CUC0 conference
-ENTITY CMPWJG0D name_CMPW author
-ENTITY SN13TMQC name_SN13 paper
-PRINT 5+.9{.)!
-DELETE 5+.9{.)!
-PATH 5+.9{.)! CMPWJG0D
-EXIT

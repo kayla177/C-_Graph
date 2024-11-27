@@ -1,7 +1,0 @@
-ENTITY LG5RKU2B name_LG5R conference
-ENTITY XD38ECRI name_XD38 conference
-ENTITY JWQHMS2S name_JWQH journal
-PRINT CR5&#W@[
-DELETE +_@+9-5>
-PATH +_@+9-5> LG5RKU2B
-EXIT

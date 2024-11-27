@@ -1,7 +1,0 @@
-ENTITY SD10NGMH name_SD10 conference
-ENTITY DIDS1392 name_DIDS journal
-ENTITY NV3YZIR4 name_NV3Y paper
-PRINT {5(|[_,.
-DELETE !|@|9=%%
-PATH {5(|[_,. NV3YZIR4
-EXIT

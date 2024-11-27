@@ -1,7 +1,0 @@
-ENTITY JBZRGKJA name_JBZR institution
-ENTITY DGUFSYU8 name_DGUF journal
-ENTITY Y2JLPFUT name_Y2JL conference
-PRINT MR&[$|5(
-DELETE MR&[$|5(
-PATH AQ]$_H$I Y2JLPFUT
-EXIT

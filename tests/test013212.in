@@ -1,7 +1,0 @@
-ENTITY ZK39T76M name_ZK39 institution
-ENTITY 9YGBD8DB name_9YGB journal
-ENTITY RY7GZXEJ name_RY7G institution
-PRINT :#_J+5T!
-DELETE :#_J+5T!
-PATH :#_J+5T! RY7GZXEJ
-EXIT

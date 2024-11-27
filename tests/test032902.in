@@ -1,7 +1,0 @@
-ENTITY HCLSXK8C name_HCLS conference
-ENTITY RMR1TCG3 name_RMR1 conference
-ENTITY SCQ40L44 name_SCQ4 paper
-PRINT ^$($|0]4
-DELETE ^$($|0]4
-PATH 1$*I3&$Y HCLSXK8C
-EXIT

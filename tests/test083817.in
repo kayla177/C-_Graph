@@ -1,7 +1,0 @@
-ENTITY 2BQELBG8 name_2BQE institution
-ENTITY 6DOHCPGW name_6DOH institution
-ENTITY LMELK2MZ name_LMEL conference
-PRINT %V{*-!@7
-DELETE *||(:E71
-PATH *||(:E71 6DOHCPGW
-EXIT

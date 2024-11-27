@@ -1,7 +1,0 @@
-ENTITY LACMWWRD name_LACM journal
-ENTITY 5NKJNDPX name_5NKJ institution
-ENTITY G3GQTJR6 name_G3GQ author
-PRINT .<>-:5B%
-DELETE .<>-:5B%
-PATH .<>-:5B% G3GQTJR6
-EXIT

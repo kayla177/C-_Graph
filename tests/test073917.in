@@ -1,7 +1,0 @@
-ENTITY 8FRRJ4TQ name_8FRR institution
-ENTITY X8EAZHR7 name_X8EA conference
-ENTITY 9C6GDEPH name_9C6G institution
-PRINT Y(T1^O++
-DELETE I!13-$5$
-PATH I!13-$5$ 9C6GDEPH
-EXIT

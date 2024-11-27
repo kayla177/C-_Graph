@@ -1,7 +1,0 @@
-ENTITY F2JELUMW name_F2JE conference
-ENTITY NK8WUTNW name_NK8W institution
-ENTITY 6NUN27UH name_6NUN author
-PRINT H*8|I,8&
-DELETE G8;{::=-
-PATH G8;{::=- F2JELUMW
-EXIT

@@ -1,7 +1,0 @@
-ENTITY YIQBOZID name_YIQB author
-ENTITY 6C7H9OJP name_6C7H paper
-ENTITY K495ANGQ name_K495 conference
-PRINT :$%-{ZK^
-DELETE :$%-{ZK^
-PATH :$%-{ZK^ 6C7H9OJP
-EXIT

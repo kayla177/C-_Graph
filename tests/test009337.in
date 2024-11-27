@@ -1,7 +1,0 @@
-ENTITY IZFP14J9 name_IZFP paper
-ENTITY XRG3RPTL name_XRG3 institution
-ENTITY L0ATBGRB name_L0AT conference
-PRINT {;P9T.:?
-DELETE {;P9T.:?
-PATH {;P9T.:? XRG3RPTL
-EXIT

@@ -1,7 +1,0 @@
-ENTITY A281K21T name_A281 author
-ENTITY A6FRR2QW name_A6FR institution
-ENTITY ODVSKGJM name_ODVS journal
-PRINT {#L._$L9
-DELETE {#L._$L9
-PATH A#+H|(}{ A6FRR2QW
-EXIT

@@ -1,7 +1,0 @@
-ENTITY ODFIF7UQ name_ODFI conference
-ENTITY 1DD7RNYK name_1DD7 institution
-ENTITY J3Y0Y570 name_J3Y0 journal
-PRINT 3@(-)$Q_
-DELETE _^40-|IB
-PATH 3@(-)$Q_ 1DD7RNYK
-EXIT

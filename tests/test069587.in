@@ -1,7 +1,0 @@
-ENTITY 4S6SG1LX name_4S6S institution
-ENTITY OU8DGVD0 name_OU8D institution
-ENTITY 6HPO1LGT name_6HPO institution
-PRINT (+,N;7(P
-DELETE (+,N;7(P
-PATH BHX5?*O3 OU8DGVD0
-EXIT

@@ -1,7 +1,0 @@
-ENTITY R1RDP0EX name_R1RD institution
-ENTITY 1PALN1VW name_1PAL institution
-ENTITY ZSUFH8PT name_ZSUF institution
-PRINT =!<8&]M9
-DELETE {O(2LV1$
-PATH {O(2LV1$ R1RDP0EX
-EXIT

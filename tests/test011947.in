@@ -1,7 +1,0 @@
-ENTITY 7ZM69BU5 name_7ZM6 institution
-ENTITY 9KCB60UJ name_9KCB conference
-ENTITY JC0QB69H name_JC0Q institution
-PRINT =L[QC(#S
-DELETE -$OGD]^?
-PATH -$OGD]^? JC0QB69H
-EXIT

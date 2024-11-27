@@ -1,7 +1,0 @@
-ENTITY ZTGNTLJU name_ZTGN author
-ENTITY RMS18BY1 name_RMS1 conference
-ENTITY CNE7T495 name_CNE7 conference
-PRINT _G@_<D-{
-DELETE #5;H*Z3!
-PATH _G@_<D-{ RMS18BY1
-EXIT

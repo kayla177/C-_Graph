@@ -1,7 +1,0 @@
-ENTITY 69BXUAGX name_69BX journal
-ENTITY 8XW5WP4X name_8XW5 institution
-ENTITY 8YW8ALPF name_8YW8 journal
-PRINT ^@*,M5),
-DELETE )^%M|ZCL
-PATH ^@*,M5), 8YW8ALPF
-EXIT

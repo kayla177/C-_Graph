@@ -1,7 +1,0 @@
-ENTITY 508A1W2E name_508A institution
-ENTITY BMV0JC0N name_BMV0 institution
-ENTITY 6KZ2BLZ9 name_6KZ2 journal
-PRINT (;*5+-+R
-DELETE (;*5+-+R
-PATH &;TTE[PY 508A1W2E
-EXIT

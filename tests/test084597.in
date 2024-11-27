@@ -1,7 +1,0 @@
-ENTITY YG06UVP0 name_YG06 conference
-ENTITY B846P9SB name_B846 journal
-ENTITY NXAEPS7O name_NXAE conference
-PRINT ()W._46_
-DELETE ()W._46_
-PATH ()W._46_ B846P9SB
-EXIT

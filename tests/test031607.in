@@ -1,7 +1,0 @@
-ENTITY 8NDD71BE name_8NDD institution
-ENTITY O6RRXXTY name_O6RR author
-ENTITY 652TMKP2 name_652T author
-PRINT _[&G(L*[
-DELETE [2^:,@#}
-PATH [2^:,@#} 652TMKP2
-EXIT

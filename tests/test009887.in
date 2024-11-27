@@ -1,7 +1,0 @@
-ENTITY E9MBOXSI name_E9MB author
-ENTITY WSOLYBI2 name_WSOL institution
-ENTITY 5MURAWGA name_5MUR journal
-PRINT Q-_!8$%[
-DELETE ;R[:Z{ZC
-PATH Q-_!8$%[ 5MURAWGA
-EXIT

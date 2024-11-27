@@ -1,7 +1,0 @@
-ENTITY 0MR1CJUJ name_0MR1 institution
-ENTITY 9YKP091U name_9YKP institution
-ENTITY 18B3HHDZ name_18B3 conference
-PRINT S:VH>>,K
-DELETE S:VH>>,K
-PATH S:VH>>,K 0MR1CJUJ
-EXIT

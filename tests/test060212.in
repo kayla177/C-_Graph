@@ -1,7 +1,0 @@
-ENTITY 6GKR5910 name_6GKR institution
-ENTITY AW7Y0HOG name_AW7Y journal
-ENTITY 35XUKYBO name_35XU paper
-PRINT J%(Y%:XT
-DELETE ?3:%(=6$
-PATH ?3:%(=6$ 35XUKYBO
-EXIT

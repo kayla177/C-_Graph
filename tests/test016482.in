@@ -1,7 +1,0 @@
-ENTITY 56B6GISW name_56B6 paper
-ENTITY NTJ7AEUA name_NTJ7 paper
-ENTITY MHXR0C8V name_MHXR conference
-PRINT &<[(X;%=
-DELETE &<[(X;%=
-PATH &<[(X;%= NTJ7AEUA
-EXIT

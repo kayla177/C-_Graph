@@ -1,7 +1,0 @@
-ENTITY 0Y3FOIQU name_0Y3F conference
-ENTITY WHLMH1XE name_WHLM institution
-ENTITY HCHZISY2 name_HCHZ journal
-PRINT (@^2.^P;
-DELETE (@^2.^P;
-PATH !<6P{3,C WHLMH1XE
-EXIT

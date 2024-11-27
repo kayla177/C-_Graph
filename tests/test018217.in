@@ -1,7 +1,0 @@
-ENTITY DJXEBVDR name_DJXE institution
-ENTITY 1365E5M8 name_1365 journal
-ENTITY E5G6D54B name_E5G6 institution
-PRINT ^:RE:I@L
-DELETE }>}TWQ##
-PATH }>}TWQ## DJXEBVDR
-EXIT

@@ -1,7 +1,0 @@
-ENTITY YXA3OVC5 name_YXA3 journal
-ENTITY 4VEZID2G name_4VEZ paper
-ENTITY PRBG0I8H name_PRBG conference
-PRINT O(:;*(<U
-DELETE O(:;*(<U
-PATH $!=}6]<+ PRBG0I8H
-EXIT

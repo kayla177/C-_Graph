@@ -1,7 +1,0 @@
-ENTITY 180MFGC8 name_180M institution
-ENTITY UJ5SOPOD name_UJ5S conference
-ENTITY E4W97289 name_E4W9 paper
-PRINT !>*=@U{_
-DELETE !>*=@U{_
-PATH >80OP+)U E4W97289
-EXIT

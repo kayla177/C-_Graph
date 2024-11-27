@@ -1,7 +1,0 @@
-ENTITY RG1UX63G name_RG1U conference
-ENTITY ULV3W9N1 name_ULV3 institution
-ENTITY G0DPEXY0 name_G0DP conference
-PRINT @{{ANM#]
-DELETE @{{ANM#]
-PATH &@HB*>(; RG1UX63G
-EXIT

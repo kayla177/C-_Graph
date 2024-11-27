@@ -1,7 +1,0 @@
-ENTITY 4YIMAIKR name_4YIM author
-ENTITY 5YZWHL8H name_5YZW institution
-ENTITY 9N3FFQQU name_9N3F conference
-PRINT %<,}TX+Z
-DELETE %<,}TX+Z
-PATH %<,}TX+Z 9N3FFQQU
-EXIT

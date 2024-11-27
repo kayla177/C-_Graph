@@ -1,7 +1,0 @@
-ENTITY RX1SLXLQ name_RX1S conference
-ENTITY H93KWMS2 name_H93K author
-ENTITY V2NSE40B name_V2NS author
-PRINT ,?W[=?@@
-DELETE $C|WS8>I
-PATH ,?W[=?@@ H93KWMS2
-EXIT

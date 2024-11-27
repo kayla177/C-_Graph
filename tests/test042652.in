@@ -1,7 +1,0 @@
-ENTITY 7XIP5OZL name_7XIP conference
-ENTITY CMDXFPTZ name_CMDX author
-ENTITY E6UL6N3V name_E6UL conference
-PRINT I[(U]R|:
-DELETE *<#V:C[,
-PATH I[(U]R|: CMDXFPTZ
-EXIT

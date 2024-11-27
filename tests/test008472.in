@@ -1,7 +1,0 @@
-ENTITY B1B47V6T name_B1B4 journal
-ENTITY G0N8OKBA name_G0N8 institution
-ENTITY SCXVSQ3J name_SCXV paper
-PRINT ^*(_<M}Q
-DELETE ^*(_<M}Q
-PATH ^*(_<M}Q SCXVSQ3J
-EXIT

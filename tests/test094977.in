@@ -1,7 +1,0 @@
-ENTITY ICRX1EUI name_ICRX institution
-ENTITY LBMGMEOA name_LBMG conference
-ENTITY SQRRA8AT name_SQRR author
-PRINT ^_K;!5C<
-DELETE ^_K;!5C<
-PATH =GJI[__] LBMGMEOA
-EXIT

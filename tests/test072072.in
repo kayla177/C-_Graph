@@ -1,7 +1,0 @@
-ENTITY G003I5PV name_G003 journal
-ENTITY NEO18VP6 name_NEO1 author
-ENTITY SZCS213I name_SZCS author
-PRINT +[C=,>?)
-DELETE +[C=,>?)
-PATH +[C=,>?) NEO18VP6
-EXIT

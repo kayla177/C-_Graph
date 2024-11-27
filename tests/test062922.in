@@ -1,7 +1,0 @@
-ENTITY FGX4NON2 name_FGX4 conference
-ENTITY 6L9JBQXI name_6L9J conference
-ENTITY KQNR9ET5 name_KQNR conference
-PRINT :*0F($9$
-DELETE :*0F($9$
-PATH .VED8>*C 6L9JBQXI
-EXIT

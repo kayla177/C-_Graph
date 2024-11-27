@@ -1,7 +1,0 @@
-ENTITY 9UPKGSH7 name_9UPK journal
-ENTITY VHE1G96H name_VHE1 journal
-ENTITY MHDC6YVH name_MHDC institution
-PRINT }+]{L,[G
-DELETE }+]{L,[G
-PATH }+]{L,[G VHE1G96H
-EXIT

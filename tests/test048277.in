@@ -1,7 +1,0 @@
-ENTITY K2IVEJ5K name_K2IV paper
-ENTITY 8UEDRG6O name_8UED author
-ENTITY NDZGVIL1 name_NDZG author
-PRINT >*O|[{>{
-DELETE ;[@-[3!{
-PATH ;[@-[3!{ 8UEDRG6O
-EXIT

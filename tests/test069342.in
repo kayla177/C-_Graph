@@ -1,7 +1,0 @@
-ENTITY WSLXM72Z name_WSLX institution
-ENTITY 1OQDA8PK name_1OQD author
-ENTITY IN1WI99X name_IN1W institution
-PRINT W-!*,68(
-DELETE _};C1FE.
-PATH W-!*,68( 1OQDA8PK
-EXIT

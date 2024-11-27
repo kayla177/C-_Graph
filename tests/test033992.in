@@ -1,7 +1,0 @@
-ENTITY 4BD2JMXF name_4BD2 conference
-ENTITY 2BOC862O name_2BOC institution
-ENTITY 8LVIRVTX name_8LVI journal
-PRINT V}(&${&J
-DELETE V}(&${&J
-PATH V}(&${&J 4BD2JMXF
-EXIT

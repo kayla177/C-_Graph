@@ -1,7 +1,0 @@
-ENTITY MIOO41WE name_MIOO institution
-ENTITY IK0SH3RV name_IK0S journal
-ENTITY YIYQNJEW name_YIYQ conference
-PRINT $,?_+S=V
-DELETE $,?_+S=V
-PATH ^7Q,2@=G YIYQNJEW
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 2N04KBIA name_2N04 author
-ENTITY 1VR25HLA name_1VR2 journal
-ENTITY WIE0NELF name_WIE0 conference
-PRINT [|-|)C.C
-DELETE ,>+RG@:&
-PATH ,>+RG@:& 1VR25HLA
-EXIT

@@ -1,7 +1,0 @@
-ENTITY O1YHQILG name_O1YH institution
-ENTITY QLL392G3 name_QLL3 paper
-ENTITY 046TFEHC name_046T conference
-PRINT &<!{=:H.
-DELETE &<!{=:H.
-PATH M][<{3XA 046TFEHC
-EXIT

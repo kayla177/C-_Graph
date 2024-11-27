@@ -1,7 +1,0 @@
-ENTITY EKEVGNDW name_EKEV conference
-ENTITY UWR2PDLR name_UWR2 conference
-ENTITY 5NYAOSLP name_5NYA paper
-PRINT ,-!9%@70
-DELETE ,-!9%@70
-PATH ,-!9%@70 EKEVGNDW
-EXIT

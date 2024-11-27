@@ -1,7 +1,0 @@
-ENTITY 1MTXUYLP name_1MTX conference
-ENTITY N2X17XPY name_N2X1 conference
-ENTITY 45EZOA8G name_45EZ author
-PRINT Q-*.#[P7
-DELETE Q-*.#[P7
-PATH Q-*.#[P7 N2X17XPY
-EXIT

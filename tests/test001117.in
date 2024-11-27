@@ -1,7 +1,0 @@
-ENTITY S7DBIAAA name_S7DB institution
-ENTITY C80OZY8V name_C80O institution
-ENTITY GRITMB36 name_GRIT journal
-PRINT 2-,F]G[|
-DELETE NN(2<-,&
-PATH 2-,F]G[| GRITMB36
-EXIT

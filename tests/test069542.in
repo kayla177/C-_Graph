@@ -1,7 +1,0 @@
-ENTITY D52V6NQS name_D52V conference
-ENTITY 0PDZFLQH name_0PDZ paper
-ENTITY NM7L2WY1 name_NM7L conference
-PRINT __E@@[8=
-DELETE __E@@[8=
-PATH P,;;18X+ NM7L2WY1
-EXIT

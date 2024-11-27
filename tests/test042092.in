@@ -1,7 +1,0 @@
-ENTITY CQ4CS8MG name_CQ4C institution
-ENTITY 11LYIEO2 name_11LY institution
-ENTITY QK8JLS80 name_QK8J paper
-PRINT {Z-1?*(I
-DELETE {Z-1?*(I
-PATH ZR7_>{W& 11LYIEO2
-EXIT

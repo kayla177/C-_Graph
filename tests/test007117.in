@@ -1,7 +1,0 @@
-ENTITY RQYPQDJ1 name_RQYP institution
-ENTITY UYJX0CTD name_UYJX conference
-ENTITY N5FB6T33 name_N5FB institution
-PRINT ;V_$N&F:
-DELETE ;V_$N&F:
-PATH F2{;YNMX RQYPQDJ1
-EXIT

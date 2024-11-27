@@ -1,7 +1,0 @@
-ENTITY 292I0DID name_292I conference
-ENTITY IORA8J8U name_IORA conference
-ENTITY IUQR3YFX name_IUQR paper
-PRINT 1*_[%<[:
-DELETE 4|{^{7,]
-PATH 1*_[%<[: 292I0DID
-EXIT

@@ -1,7 +1,0 @@
-ENTITY UNM0TLA4 name_UNM0 author
-ENTITY DXCB42U4 name_DXCB conference
-ENTITY D05EWJDX name_D05E institution
-PRINT 6|$6F(@{
-DELETE 6|$6F(@{
-PATH 6|$6F(@{ D05EWJDX
-EXIT

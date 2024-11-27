@@ -1,7 +1,0 @@
-ENTITY FW1MEAQE name_FW1M conference
-ENTITY 6A78ASZ7 name_6A78 paper
-ENTITY IND5ENM0 name_IND5 institution
-PRINT KT#%J->:
-DELETE L.}{$4C}
-PATH KT#%J->: 6A78ASZ7
-EXIT

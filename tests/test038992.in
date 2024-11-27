@@ -1,7 +1,0 @@
-ENTITY S5ID60LG name_S5ID conference
-ENTITY CD9HI7GY name_CD9H author
-ENTITY VPWBJ2E2 name_VPWB institution
-PRINT %+62.$1-
-DELETE %+62.$1-
-PATH %+62.$1- VPWBJ2E2
-EXIT

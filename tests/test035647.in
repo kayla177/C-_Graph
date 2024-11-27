@@ -1,7 +1,0 @@
-ENTITY IBDOBU9A name_IBDO journal
-ENTITY SSP9W5CR name_SSP9 conference
-ENTITY 7QPNYPMK name_7QPN conference
-PRINT [TH]Y^|^
-DELETE 6>S!=4>J
-PATH [TH]Y^|^ 7QPNYPMK
-EXIT

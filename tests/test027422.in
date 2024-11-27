@@ -1,7 +1,0 @@
-ENTITY 7BRY653Y name_7BRY paper
-ENTITY QIZ11O40 name_QIZ1 institution
-ENTITY 4LUKNGBX name_4LUK conference
-PRINT %:S_@)L2
-DELETE %:S_@)L2
-PATH *H&=|:F4 4LUKNGBX
-EXIT

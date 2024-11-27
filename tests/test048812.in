@@ -1,7 +1,0 @@
-ENTITY LPS6WVWX name_LPS6 author
-ENTITY 3HP502N0 name_3HP5 institution
-ENTITY USCOKHKP name_USCO conference
-PRINT _&^3MR|&
-DELETE ^J$5}AF#
-PATH _&^3MR|& LPS6WVWX
-EXIT

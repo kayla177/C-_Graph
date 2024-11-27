@@ -1,7 +1,0 @@
-ENTITY 22ORBC1B name_22OR conference
-ENTITY W5B6OHPU name_W5B6 author
-ENTITY 1PBBKBZ4 name_1PBB institution
-PRINT ?O#H-]P^
-DELETE ?O#H-]P^
-PATH ?O#H-]P^ W5B6OHPU
-EXIT

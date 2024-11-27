@@ -1,7 +1,0 @@
-ENTITY 1FIX5H54 name_1FIX institution
-ENTITY B35IZD1S name_B35I conference
-ENTITY GBE5TIOP name_GBE5 paper
-PRINT E+W>(#E<
-DELETE E+W>(#E<
-PATH E+W>(#E< GBE5TIOP
-EXIT

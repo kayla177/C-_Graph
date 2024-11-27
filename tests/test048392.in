@@ -1,7 +1,0 @@
-ENTITY RV1VMYPU name_RV1V institution
-ENTITY A4CAIRHH name_A4CA institution
-ENTITY NVHT7LNT name_NVHT conference
-PRINT ==]*+6%H
-DELETE ==]*+6%H
-PATH ==]*+6%H RV1VMYPU
-EXIT

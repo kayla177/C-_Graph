@@ -1,7 +1,0 @@
-ENTITY FX4FTFLX name_FX4F journal
-ENTITY F73JM6XC name_F73J conference
-ENTITY 94X5X35H name_94X5 institution
-PRINT #(!R_<%)
-DELETE |T9NAC%F
-PATH #(!R_<%) FX4FTFLX
-EXIT

@@ -1,7 +1,0 @@
-ENTITY DJL4O9QC name_DJL4 conference
-ENTITY 5BVV2NFB name_5BVV institution
-ENTITY 9TFFUXP5 name_9TFF conference
-PRINT ;+,UIJ?2
-DELETE ;+,UIJ?2
-PATH ;+,UIJ?2 DJL4O9QC
-EXIT

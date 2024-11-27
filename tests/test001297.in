@@ -1,7 +1,0 @@
-ENTITY FLE60UU1 name_FLE6 journal
-ENTITY 6U5MYV20 name_6U5M conference
-ENTITY 7LFP3OMF name_7LFP institution
-PRINT ,%+$M%K{
-DELETE @F<PM6ZQ
-PATH ,%+$M%K{ 7LFP3OMF
-EXIT

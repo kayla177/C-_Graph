@@ -1,7 +1,0 @@
-ENTITY BIZO5ECH name_BIZO institution
-ENTITY 2NMRGPJ1 name_2NMR conference
-ENTITY UOORD6V2 name_UOOR author
-PRINT ]G]).Q!X
-DELETE ]G]).Q!X
-PATH *{40?[]& BIZO5ECH
-EXIT

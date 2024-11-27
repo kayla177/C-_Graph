@@ -1,7 +1,0 @@
-ENTITY QIVOBMFA name_QIVO institution
-ENTITY QKGTIXRU name_QKGT paper
-ENTITY SKH22LUU name_SKH2 institution
-PRINT ZCE|$#+:
-DELETE ZCE|$#+:
-PATH ZCE|$#+: QIVOBMFA
-EXIT

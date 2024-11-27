@@ -1,7 +1,0 @@
-ENTITY 5000BLC6 name_5000 conference
-ENTITY RTUYAXE9 name_RTUY journal
-ENTITY 7MV6BPJZ name_7MV6 institution
-PRINT #E4|#=<?
-DELETE #E4|#=<?
-PATH #E4|#=<? RTUYAXE9
-EXIT

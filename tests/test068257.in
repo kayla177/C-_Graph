@@ -1,7 +1,0 @@
-ENTITY RKJ6IRV3 name_RKJ6 paper
-ENTITY MV1OFI7B name_MV1O institution
-ENTITY 0AMNWIAX name_0AMN conference
-PRINT P{=#=*F|
-DELETE P{=#=*F|
-PATH +4])WB|( RKJ6IRV3
-EXIT

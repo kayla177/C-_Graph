@@ -1,7 +1,0 @@
-ENTITY 9LF2A8DM name_9LF2 journal
-ENTITY BXXHF903 name_BXXH institution
-ENTITY LYCN5DGE name_LYCN conference
-PRINT &RL!#%33
-DELETE S$E!$*=5
-PATH S$E!$*=5 9LF2A8DM
-EXIT

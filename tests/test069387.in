@@ -1,7 +1,0 @@
-ENTITY K85NEK3V name_K85N conference
-ENTITY EF5SO8XU name_EF5S journal
-ENTITY I4JVDII2 name_I4JV paper
-PRINT .W8<!],{
-DELETE .W8<!],{
-PATH .W8<!],{ EF5SO8XU
-EXIT

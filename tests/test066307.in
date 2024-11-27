@@ -1,7 +1,0 @@
-ENTITY QCR018L1 name_QCR0 journal
-ENTITY 7HN5RBG7 name_7HN5 institution
-ENTITY WPJESN5Z name_WPJE paper
-PRINT ETW;V,%_
-DELETE SV|@$??{
-PATH SV|@$??{ QCR018L1
-EXIT

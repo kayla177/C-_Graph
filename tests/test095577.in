@@ -1,7 +1,0 @@
-ENTITY FQZONJR9 name_FQZO journal
-ENTITY C5QJBVOG name_C5QJ institution
-ENTITY SX97Q4O6 name_SX97 journal
-PRINT !SO_*.:W
-DELETE !SO_*.:W
-PATH 3%}@0[Y> SX97Q4O6
-EXIT

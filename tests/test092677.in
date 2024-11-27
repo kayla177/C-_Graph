@@ -1,7 +1,0 @@
-ENTITY S7C5MU2J name_S7C5 conference
-ENTITY JMS09TXW name_JMS0 author
-ENTITY 3KSITOJN name_3KSI institution
-PRINT 68H$)&%(
-DELETE 68H$)&%(
-PATH A-:R*,<^ JMS09TXW
-EXIT

@@ -1,7 +1,0 @@
-ENTITY BO4ZC1VO name_BO4Z conference
-ENTITY 6JLG2SEA name_6JLG conference
-ENTITY B1E81FXD name_B1E8 institution
-PRINT R-&$,3[5
-DELETE R-&$,3[5
-PATH ;<AM)V}T B1E81FXD
-EXIT

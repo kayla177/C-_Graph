@@ -1,7 +1,0 @@
-ENTITY SO1P5CKZ name_SO1P conference
-ENTITY UL4MZ8K3 name_UL4M institution
-ENTITY W6KHNUER name_W6KH journal
-PRINT ED:*!G,&
-DELETE +:6G__-+
-PATH ED:*!G,& W6KHNUER
-EXIT

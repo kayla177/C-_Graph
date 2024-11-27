@@ -1,7 +1,0 @@
-ENTITY Z1EWE0PQ name_Z1EW conference
-ENTITY NF56B09Y name_NF56 author
-ENTITY ULFQY5YM name_ULFQ author
-PRINT V(6+!N?^
-DELETE V(6+!N?^
-PATH [*?_>1=% Z1EWE0PQ
-EXIT

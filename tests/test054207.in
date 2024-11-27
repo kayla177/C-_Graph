@@ -1,7 +1,0 @@
-ENTITY D7CIAQ28 name_D7CI conference
-ENTITY D9K6JCHN name_D9K6 author
-ENTITY T0ZAMAGW name_T0ZA institution
-PRINT >_K[4,D+
-DELETE >_K[4,D+
-PATH >_K[4,D+ D9K6JCHN
-EXIT

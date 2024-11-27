@@ -1,7 +1,0 @@
-ENTITY JB0BZVAB name_JB0B author
-ENTITY OO3MD0IA name_OO3M institution
-ENTITY MHE7G06S name_MHE7 institution
-PRINT -*T[<>78
-DELETE I|@.W>|F
-PATH -*T[<>78 OO3MD0IA
-EXIT

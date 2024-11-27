@@ -1,7 +1,0 @@
-ENTITY 9ITLZ35M name_9ITL institution
-ENTITY 1TRXQV0A name_1TRX conference
-ENTITY PBFD9MTM name_PBFD institution
-PRINT #>5].UZ$
-DELETE _=$YUN|+
-PATH #>5].UZ$ 1TRXQV0A
-EXIT

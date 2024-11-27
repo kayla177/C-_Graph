@@ -1,7 +1,0 @@
-ENTITY FA2QFARQ name_FA2Q journal
-ENTITY M7SIMTCU name_M7SI journal
-ENTITY PSZ1YME9 name_PSZ1 institution
-PRINT {>!D);A)
-DELETE {>!D);A)
-PATH +.>+SF[P PSZ1YME9
-EXIT

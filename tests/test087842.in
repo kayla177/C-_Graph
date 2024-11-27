@@ -1,7 +1,0 @@
-ENTITY JYD29STT name_JYD2 author
-ENTITY B7W9JMN9 name_B7W9 institution
-ENTITY G0HPQDWT name_G0HP institution
-PRINT 4>{*<%?)
-DELETE 4>{*<%?)
-PATH 4>{*<%?) G0HPQDWT
-EXIT

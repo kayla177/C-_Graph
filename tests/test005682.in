@@ -1,7 +1,0 @@
-ENTITY ZJW90X3K name_ZJW9 institution
-ENTITY 6IAQEUFT name_6IAQ journal
-ENTITY 2KT2JYIY name_2KT2 conference
-PRINT 55@<E+=$
-DELETE 55@<E+=$
-PATH 55@<E+=$ 6IAQEUFT
-EXIT

@@ -1,7 +1,0 @@
-ENTITY MQCW9BPD name_MQCW institution
-ENTITY EEG5TMIW name_EEG5 institution
-ENTITY JS062T9J name_JS06 paper
-PRINT |F;$<?DD
-DELETE |F;$<?DD
-PATH H@>|SP-# EEG5TMIW
-EXIT

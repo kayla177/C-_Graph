@@ -1,7 +1,0 @@
-ENTITY 12YHIRLQ name_12YH institution
-ENTITY USGA3Q9A name_USGA conference
-ENTITY MX84HHMT name_MX84 paper
-PRINT D||,V;&_
-DELETE D||,V;&_
-PATH D||,V;&_ USGA3Q9A
-EXIT

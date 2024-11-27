@@ -1,7 +1,0 @@
-ENTITY IT4UR0EF name_IT4U author
-ENTITY 2IK82EU2 name_2IK8 journal
-ENTITY 9CRQEW57 name_9CRQ institution
-PRINT _>[*$?{=
-DELETE {{_SMY)|
-PATH {{_SMY)| 9CRQEW57
-EXIT

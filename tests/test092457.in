@@ -1,7 +1,0 @@
-ENTITY 0AWSB8QQ name_0AWS journal
-ENTITY KQ6EC83L name_KQ6E institution
-ENTITY BWTMV0YS name_BWTM conference
-PRINT =YQ?;%K=
-DELETE =YQ?;%K=
-PATH =YQ?;%K= KQ6EC83L
-EXIT

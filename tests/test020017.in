@@ -1,7 +1,0 @@
-ENTITY S60XZY3S name_S60X paper
-ENTITY 6CVH1D1R name_6CVH institution
-ENTITY WYQJ2SJN name_WYQJ institution
-PRINT *_W=@^*%
-DELETE *_W=@^*%
-PATH IL,*^:O{ WYQJ2SJN
-EXIT

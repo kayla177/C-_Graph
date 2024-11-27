@@ -1,7 +1,0 @@
-ENTITY 4VT4DNXE name_4VT4 paper
-ENTITY D48BCMJP name_D48B institution
-ENTITY CFWS4RIB name_CFWS institution
-PRINT =%,^M&^V
-DELETE =%,^M&^V
-PATH <C2_;^^& D48BCMJP
-EXIT

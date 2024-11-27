@@ -1,7 +1,0 @@
-ENTITY QRT0IIWW name_QRT0 conference
-ENTITY FVLT3KPP name_FVLT conference
-ENTITY HTB9DG0G name_HTB9 journal
-PRINT _!XGB>-(
-DELETE _!XGB>-(
-PATH _^+;.:[B QRT0IIWW
-EXIT

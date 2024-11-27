@@ -1,7 +1,0 @@
-ENTITY T94IFCPX name_T94I institution
-ENTITY B2G70SGV name_B2G7 institution
-ENTITY JSXSO8LO name_JSXS institution
-PRINT &6EDY:*?
-DELETE 4:_UFV_3
-PATH &6EDY:*? B2G70SGV
-EXIT

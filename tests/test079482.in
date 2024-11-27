@@ -1,7 +1,0 @@
-ENTITY PULFE1WA name_PULF conference
-ENTITY L2TDIWEE name_L2TD paper
-ENTITY KUHFYUC2 name_KUHF conference
-PRINT <($)[Y8Z
-DELETE <($)[Y8Z
-PATH :N^(.|+) L2TDIWEE
-EXIT

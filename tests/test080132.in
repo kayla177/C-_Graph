@@ -1,7 +1,0 @@
-ENTITY A71EN8GD name_A71E conference
-ENTITY 8YTN7CL9 name_8YTN conference
-ENTITY O89IWMM9 name_O89I institution
-PRINT RY,4M;%(
-DELETE %.F6:#K,
-PATH %.F6:#K, 8YTN7CL9
-EXIT

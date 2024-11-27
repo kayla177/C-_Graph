@@ -1,7 +1,0 @@
-ENTITY 9ARIIR32 name_9ARI institution
-ENTITY R4J1FVKR name_R4J1 journal
-ENTITY 7IEIS2V9 name_7IEI institution
-PRINT #.NW,!}>
-DELETE =37_]VWV
-PATH #.NW,!}> R4J1FVKR
-EXIT

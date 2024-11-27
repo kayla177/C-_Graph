@@ -1,7 +1,0 @@
-ENTITY 3RZ6AZTR name_3RZ6 institution
-ENTITY 2HIT9DB7 name_2HIT journal
-ENTITY RJ3JJSCQ name_RJ3J journal
-PRINT %={47};*
-DELETE %={47};*
-PATH !$:|_TFP RJ3JJSCQ
-EXIT

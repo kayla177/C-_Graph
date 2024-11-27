@@ -1,7 +1,0 @@
-ENTITY 3ROB8GAH name_3ROB institution
-ENTITY GRXN73CV name_GRXN paper
-ENTITY DVUGBQNF name_DVUG conference
-PRINT &+=[KI)(
-DELETE &+=[KI)(
-PATH ^&|=ND%> GRXN73CV
-EXIT

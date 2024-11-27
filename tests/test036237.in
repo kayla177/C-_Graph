@@ -1,7 +1,0 @@
-ENTITY C8K7HAXA name_C8K7 institution
-ENTITY LEP2KEJ0 name_LEP2 paper
-ENTITY JWTE8JMB name_JWTE conference
-PRINT XT7>(!=@
-DELETE =S&_U,;Q
-PATH @{)_0_&* LEP2KEJ0
-EXIT

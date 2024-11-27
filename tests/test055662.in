@@ -1,7 +1,0 @@
-ENTITY OAMM47DZ name_OAMM institution
-ENTITY 2532WZXK name_2532 conference
-ENTITY 3BOJSXZ2 name_3BOJ author
-PRINT 4#|:SR[@
-DELETE 4#|:SR[@
-PATH 4#|:SR[@ OAMM47DZ
-EXIT

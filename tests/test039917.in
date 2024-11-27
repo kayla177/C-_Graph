@@ -1,7 +1,0 @@
-ENTITY CRPAE89J name_CRPA author
-ENTITY 6TTU9IAG name_6TTU journal
-ENTITY VPCFSA9L name_VPCF conference
-PRINT [:_]!B#$
-DELETE [:_]!B#$
-PATH GX{TM$<N CRPAE89J
-EXIT

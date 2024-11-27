@@ -1,7 +1,0 @@
-ENTITY 2QJHSNTT name_2QJH journal
-ENTITY P7U21EVV name_P7U2 institution
-ENTITY EH533KCP name_EH53 author
-PRINT (&W*%Z]#
-DELETE (&W*%Z]#
-PATH (&W*%Z]# 2QJHSNTT
-EXIT

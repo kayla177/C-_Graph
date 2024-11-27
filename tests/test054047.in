@@ -1,7 +1,0 @@
-ENTITY IK3C7KN2 name_IK3C institution
-ENTITY ILCI6QLW name_ILCI conference
-ENTITY GFN0KPY3 name_GFN0 conference
-PRINT #>&P$+D{
-DELETE #>&P$+D{
-PATH N$%E*&NP ILCI6QLW
-EXIT

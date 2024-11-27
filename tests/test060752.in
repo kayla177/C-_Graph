@@ -1,7 +1,0 @@
-ENTITY 2LSEQEJY name_2LSE institution
-ENTITY F214C8GV name_F214 journal
-ENTITY MAP44286 name_MAP4 institution
-PRINT ).$E,S*9
-DELETE .E|4.+!=
-PATH .E|4.+!= MAP44286
-EXIT

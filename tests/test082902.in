@@ -1,7 +1,0 @@
-ENTITY LS5I82P1 name_LS5I institution
-ENTITY WSPHHWEZ name_WSPH paper
-ENTITY LQPVIBBP name_LQPV journal
-PRINT >^<-{?S%
-DELETE $#($*F11
-PATH >^<-{?S% LQPVIBBP
-EXIT

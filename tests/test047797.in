@@ -1,7 +1,0 @@
-ENTITY M063NQ84 name_M063 institution
-ENTITY ZWOK2669 name_ZWOK institution
-ENTITY AND4JNFU name_AND4 paper
-PRINT M6JA*{T_
-DELETE *&}[[C0%
-PATH .DW-@>&. AND4JNFU
-EXIT

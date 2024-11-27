@@ -1,7 +1,0 @@
-ENTITY LKPTZBSD name_LKPT institution
-ENTITY M0LDLF0R name_M0LD institution
-ENTITY DY15R51G name_DY15 paper
-PRINT -7[=]SW8
-DELETE -7[=]SW8
-PATH {?((#@%+ DY15R51G
-EXIT

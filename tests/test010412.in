@@ -1,7 +1,0 @@
-ENTITY P1D7SM6B name_P1D7 conference
-ENTITY W1R4QR72 name_W1R4 paper
-ENTITY 6JJEPIOL name_6JJE institution
-PRINT K%[&{E+<
-DELETE K%[&{E+<
-PATH K%[&{E+< W1R4QR72
-EXIT

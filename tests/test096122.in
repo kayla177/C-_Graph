@@ -1,7 +1,0 @@
-ENTITY E33YXIG4 name_E33Y journal
-ENTITY SMMPD6RB name_SMMP institution
-ENTITY D356RV5I name_D356 institution
-PRINT 7!4=|[-Q
-DELETE 7!4=|[-Q
-PATH _2&#}>9) D356RV5I
-EXIT

@@ -1,7 +1,0 @@
-ENTITY P1E68HQ8 name_P1E6 paper
-ENTITY XW3SZFEB name_XW3S conference
-ENTITY ISSSA25C name_ISSS paper
-PRINT :+B|V;{{
-DELETE :+B|V;{{
-PATH :+B|V;{{ P1E68HQ8
-EXIT

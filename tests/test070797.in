@@ -1,7 +1,0 @@
-ENTITY TNTW9B5H name_TNTW institution
-ENTITY GDH7MFM3 name_GDH7 conference
-ENTITY 3T8ZQXOL name_3T8Z conference
-PRINT ?[]:;@J@
-DELETE $%<?^M8K
-PATH ?[]:;@J@ GDH7MFM3
-EXIT

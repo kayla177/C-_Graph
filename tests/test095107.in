@@ -1,7 +1,0 @@
-ENTITY TP7B5PQN name_TP7B conference
-ENTITY 25D054YN name_25D0 institution
-ENTITY HZDRTMMV name_HZDR journal
-PRINT :P@]_RE@
-DELETE @Z=9%%;1
-PATH :P@]_RE@ TP7B5PQN
-EXIT

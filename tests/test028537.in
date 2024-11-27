@@ -1,7 +1,0 @@
-ENTITY ALOGWTW9 name_ALOG author
-ENTITY 7RSNMFIW name_7RSN institution
-ENTITY 38AIZURV name_38AI journal
-PRINT .<[=4]H!
-DELETE .<[=4]H!
-PATH .<[=4]H! ALOGWTW9
-EXIT

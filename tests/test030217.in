@@ -1,7 +1,0 @@
-ENTITY OAK2SHOG name_OAK2 conference
-ENTITY H5VE4NWB name_H5VE paper
-ENTITY 28RAJB0S name_28RA institution
-PRINT NP(&A+,&
-DELETE NP(&A+,&
-PATH NP(&A+,& 28RAJB0S
-EXIT

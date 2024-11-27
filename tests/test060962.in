@@ -1,7 +1,0 @@
-ENTITY BNKNHKSF name_BNKN conference
-ENTITY I7190WLA name_I719 author
-ENTITY 6NDW8ADD name_6NDW institution
-PRINT Y?%#{{:9
-DELETE Y?%#{{:9
-PATH ^YJ_^6?_ BNKNHKSF
-EXIT

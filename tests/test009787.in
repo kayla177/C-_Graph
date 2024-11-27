@@ -1,7 +1,0 @@
-ENTITY 94041VXR name_9404 institution
-ENTITY L3SP09F3 name_L3SP institution
-ENTITY BJDKK9EU name_BJDK institution
-PRINT 2Z2@^8!=
-DELETE 2Z2@^8!=
-PATH -ZB{US:F L3SP09F3
-EXIT

@@ -1,7 +1,0 @@
-ENTITY CVUPTQFB name_CVUP institution
-ENTITY FDNZDP6Q name_FDNZ journal
-ENTITY WPAI0OXN name_WPAI journal
-PRINT %XE#Z<-+
-DELETE &[5|*F0+
-PATH %XE#Z<-+ FDNZDP6Q
-EXIT

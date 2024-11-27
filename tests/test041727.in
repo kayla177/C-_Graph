@@ -1,7 +1,0 @@
-ENTITY UCJ5AYOS name_UCJ5 journal
-ENTITY PLB31CHF name_PLB3 journal
-ENTITY 9MFRQ5Y3 name_9MFR author
-PRINT (:6-{C%I
-DELETE I%?=|;*,
-PATH I%?=|;*, PLB31CHF
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 62K9EZTA name_62K9 journal
-ENTITY 07YMHKGJ name_07YM institution
-ENTITY 5XTD9YVN name_5XTD conference
-PRINT *11E7R,+
-DELETE ]=!:=>*G
-PATH =G$|B!00 62K9EZTA
-EXIT

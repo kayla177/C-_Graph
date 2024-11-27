@@ -1,7 +1,0 @@
-ENTITY KJDA45DI name_KJDA conference
-ENTITY G74PCAZK name_G74P institution
-ENTITY TAWWLGUV name_TAWW paper
-PRINT V.19:{<[
-DELETE %NQ!.(@]
-PATH %NQ!.(@] KJDA45DI
-EXIT

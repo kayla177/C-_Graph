@@ -1,7 +1,0 @@
-ENTITY JOS1DMD1 name_JOS1 conference
-ENTITY SHJPMH7B name_SHJP paper
-ENTITY Q31PF1UH name_Q31P author
-PRINT NB-}[%]+
-DELETE NB-}[%]+
-PATH NB-}[%]+ SHJPMH7B
-EXIT

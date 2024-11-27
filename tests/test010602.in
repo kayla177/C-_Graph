@@ -1,7 +1,0 @@
-ENTITY DXG0MHFO name_DXG0 conference
-ENTITY F2C9LZJ5 name_F2C9 conference
-ENTITY AZVJNES7 name_AZVJ conference
-PRINT +%L.5==-
-DELETE 4K@&D,{[
-PATH +%L.5==- F2C9LZJ5
-EXIT

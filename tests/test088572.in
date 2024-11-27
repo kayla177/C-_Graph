@@ -1,7 +1,0 @@
-ENTITY JJUW88ZN name_JJUW institution
-ENTITY 7JNT361Q name_7JNT author
-ENTITY W9NM1B7H name_W9NM institution
-PRINT -*Q,$};0
-DELETE -*Q,$};0
-PATH -*Q,$};0 7JNT361Q
-EXIT

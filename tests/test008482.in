@@ -1,7 +1,0 @@
-ENTITY ATJ01RHO name_ATJ0 institution
-ENTITY WTDNNK1J name_WTDN institution
-ENTITY 2D14E9CD name_2D14 conference
-PRINT R3^U&(->
-DELETE )LU|X#]5
-PATH R3^U&(-> ATJ01RHO
-EXIT

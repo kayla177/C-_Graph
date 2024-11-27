@@ -1,7 +1,0 @@
-ENTITY 7PI1XZZD name_7PI1 conference
-ENTITY KS1D2YR0 name_KS1D institution
-ENTITY TDMCKBW5 name_TDMC institution
-PRINT _I36=13L
-DELETE _A[#PT6O
-PATH {(@J.|*$ 7PI1XZZD
-EXIT

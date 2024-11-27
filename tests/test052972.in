@@ -1,7 +1,0 @@
-ENTITY V3DZX14A name_V3DZ institution
-ENTITY RUHUCD9M name_RUHU journal
-ENTITY LEIMTOJD name_LEIM conference
-PRINT #[+{B;7?
-DELETE #[+{B;7?
-PATH >1J.F9@? RUHUCD9M
-EXIT

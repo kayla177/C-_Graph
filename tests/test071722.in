@@ -1,7 +1,0 @@
-ENTITY NMRW48FI name_NMRW journal
-ENTITY PRW5QTJI name_PRW5 conference
-ENTITY L9EFLQYJ name_L9EF institution
-PRINT };}>.E_A
-DELETE };}>.E_A
-PATH 5;%-{|OS PRW5QTJI
-EXIT

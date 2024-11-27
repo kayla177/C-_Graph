@@ -1,7 +1,0 @@
-ENTITY DW3CGJR5 name_DW3C author
-ENTITY GER8HJC1 name_GER8 journal
-ENTITY W5YLRRD9 name_W5YL conference
-PRINT +#!CKP@:
-DELETE A:U=?}?#
-PATH +#!CKP@: DW3CGJR5
-EXIT

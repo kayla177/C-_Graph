@@ -1,7 +1,0 @@
-ENTITY DY21RMD7 name_DY21 institution
-ENTITY RU9VAMVR name_RU9V institution
-ENTITY FGB65V89 name_FGB6 institution
-PRINT O%3@F7);
-DELETE O%3@F7);
-PATH %{C)FP=& FGB65V89
-EXIT

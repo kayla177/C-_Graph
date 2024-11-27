@@ -1,7 +1,0 @@
-ENTITY QKS8T185 name_QKS8 conference
-ENTITY 7767LOXM name_7767 author
-ENTITY JZ15D224 name_JZ15 institution
-PRINT :W4[^}*-
-DELETE AX.@G}7T
-PATH :W4[^}*- JZ15D224
-EXIT

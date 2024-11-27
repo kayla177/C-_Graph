@@ -1,7 +1,0 @@
-ENTITY 8TMJK95H name_8TMJ journal
-ENTITY XB0N1G6B name_XB0N journal
-ENTITY MBSRH0WP name_MBSR journal
-PRINT {|[VL.++
-DELETE ?P0|-?%$
-PATH {|[VL.++ 8TMJK95H
-EXIT

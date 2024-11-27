@@ -1,7 +1,0 @@
-ENTITY MI4W85OL name_MI4W paper
-ENTITY LCRCDNSG name_LCRC conference
-ENTITY UCTWZZJ3 name_UCTW journal
-PRINT _?A?)<Y*
-DELETE _?A?)<Y*
-PATH _?A?)<Y* LCRCDNSG
-EXIT

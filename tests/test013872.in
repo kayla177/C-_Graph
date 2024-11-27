@@ -1,7 +1,0 @@
-ENTITY RINT6MF9 name_RINT institution
-ENTITY FRLVXDM2 name_FRLV paper
-ENTITY 0HQ941LG name_0HQ9 institution
-PRINT S&N_$R.]
-DELETE S&N_$R.]
-PATH S&N_$R.] RINT6MF9
-EXIT

@@ -1,7 +1,0 @@
-ENTITY E0IZVIVI name_E0IZ conference
-ENTITY UPCSQ8DN name_UPCS institution
-ENTITY 7U7B07JJ name_7U7B conference
-PRINT N*IS=U,;
-DELETE N*IS=U,;
-PATH N*IS=U,; E0IZVIVI
-EXIT

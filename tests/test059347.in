@@ -1,7 +1,0 @@
-ENTITY ZGX6OTSG name_ZGX6 conference
-ENTITY U46SB2HL name_U46S journal
-ENTITY W826TTNU name_W826 author
-PRINT ,Q*?^N%&
-DELETE ,Q*?^N%&
-PATH ,Q*?^N%& U46SB2HL
-EXIT

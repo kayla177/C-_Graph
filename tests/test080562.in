@@ -1,7 +1,0 @@
-ENTITY FH6MULQA name_FH6M journal
-ENTITY Y2M1IW8A name_Y2M1 conference
-ENTITY IS7BS6PH name_IS7B journal
-PRINT Y^>1-%%U
-DELETE Y^>1-%%U
-PATH =8>S%>]| Y2M1IW8A
-EXIT

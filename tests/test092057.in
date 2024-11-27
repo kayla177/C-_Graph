@@ -1,7 +1,0 @@
-ENTITY AQL83G46 name_AQL8 author
-ENTITY VBM5YQ59 name_VBM5 institution
-ENTITY 8J6AR37O name_8J6A conference
-PRINT R{<R;!V+
-DELETE R{<R;!V+
-PATH AS<$U(:Q 8J6AR37O
-EXIT

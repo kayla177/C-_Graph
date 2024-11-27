@@ -1,7 +1,0 @@
-ENTITY TU3180BD name_TU31 institution
-ENTITY NRUV5B3N name_NRUV conference
-ENTITY C8UGDW6I name_C8UG paper
-PRINT #P+;}@,&
-DELETE :U(C$J(J
-PATH :U(C$J(J C8UGDW6I
-EXIT

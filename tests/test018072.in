@@ -1,7 +1,0 @@
-ENTITY TPZ4T5SI name_TPZ4 author
-ENTITY Q8FCGVTE name_Q8FC conference
-ENTITY QU84EOSO name_QU84 conference
-PRINT ]_3@3.?7
-DELETE ]_3@3.?7
-PATH H:*$!U^+ Q8FCGVTE
-EXIT

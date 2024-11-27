@@ -1,7 +1,0 @@
-ENTITY 6BH6CT3O name_6BH6 conference
-ENTITY 7KCXKRIG name_7KCX conference
-ENTITY FJHLZFKA name_FJHL paper
-PRINT #)},Q,2-
-DELETE #)},Q,2-
-PATH #)},Q,2- 7KCXKRIG
-EXIT

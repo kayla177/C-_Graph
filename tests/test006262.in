@@ -1,7 +1,0 @@
-ENTITY HBRR7WHN name_HBRR conference
-ENTITY BC4MDEO2 name_BC4M author
-ENTITY K40SJA2M name_K40S institution
-PRINT $3T=]>Z[
-DELETE E#.#1^$B
-PATH <16#%LG! HBRR7WHN
-EXIT

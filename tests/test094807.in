@@ -1,7 +1,0 @@
-ENTITY WN4B4JCK name_WN4B institution
-ENTITY 06WIZWTB name_06WI conference
-ENTITY NBBPQ13T name_NBBP conference
-PRINT $#[;)!VG
-DELETE $#[;)!VG
-PATH $#[;)!VG WN4B4JCK
-EXIT

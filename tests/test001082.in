@@ -1,7 +1,0 @@
-ENTITY 24RJJ2RU name_24RJ author
-ENTITY BRANGLMX name_BRAN author
-ENTITY YZQODA7Z name_YZQO conference
-PRINT ]:>1&@=A
-DELETE ]:>1&@=A
-PATH ]:>1&@=A BRANGLMX
-EXIT

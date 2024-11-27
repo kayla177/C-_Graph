@@ -1,7 +1,0 @@
-ENTITY WV0WPY5Q name_WV0W conference
-ENTITY 559MP74I name_559M conference
-ENTITY P0SM8F2M name_P0SM author
-PRINT {((I?%U4
-DELETE {((I?%U4
-PATH (.1[&0]5 559MP74I
-EXIT

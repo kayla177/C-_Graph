@@ -1,7 +1,0 @@
-ENTITY IKLNWYXX name_IKLN conference
-ENTITY J9L51J5B name_J9L5 institution
-ENTITY OKCEKBZ0 name_OKCE journal
-PRINT E[89+Y$.
-DELETE !TG*::SE
-PATH .$Q.>^:G OKCEKBZ0
-EXIT

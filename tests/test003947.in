@@ -1,7 +1,0 @@
-ENTITY X5NZXFXZ name_X5NZ institution
-ENTITY PLJX7YYH name_PLJX institution
-ENTITY ITKMS4A7 name_ITKM journal
-PRINT _<2*WD^$
-DELETE _<2*WD^$
-PATH -U|J*MN! PLJX7YYH
-EXIT

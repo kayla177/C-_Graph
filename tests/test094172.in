@@ -1,7 +1,0 @@
-ENTITY CV65925H name_CV65 institution
-ENTITY AXEO6I40 name_AXEO institution
-ENTITY U9MJI4S6 name_U9MJ paper
-PRINT C|R1&&6?
-DELETE 0::+AX#?
-PATH #>X^(R+U CV65925H
-EXIT

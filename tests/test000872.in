@@ -1,7 +1,0 @@
-ENTITY AYEYQR5S name_AYEY author
-ENTITY UEDE9AYX name_UEDE author
-ENTITY UB0Q2064 name_UB0Q institution
-PRINT )EOL>:.(
-DELETE [=NM+-(@
-PATH [=NM+-(@ UEDE9AYX
-EXIT

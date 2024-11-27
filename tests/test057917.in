@@ -1,7 +1,0 @@
-ENTITY WX126PEA name_WX12 institution
-ENTITY 85BTKF4S name_85BT conference
-ENTITY KXXWG6D3 name_KXXW institution
-PRINT OP,X@!:8
-DELETE OP,X@!:8
-PATH .$;#K_5$ KXXWG6D3
-EXIT

@@ -1,7 +1,0 @@
-ENTITY GP6RMBC5 name_GP6R journal
-ENTITY L1ANXNIE name_L1AN institution
-ENTITY E9YDFPKB name_E9YD institution
-PRINT U->&[F<Y
-DELETE &4+9SB7-
-PATH U->&[F<Y E9YDFPKB
-EXIT

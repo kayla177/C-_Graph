@@ -1,7 +1,0 @@
-ENTITY WNB021TM name_WNB0 paper
-ENTITY YIFGB9D1 name_YIFG conference
-ENTITY 7DIHHF33 name_7DIH journal
-PRINT !CS!;;$}
-DELETE !CS!;;$}
-PATH !CS!;;$} 7DIHHF33
-EXIT

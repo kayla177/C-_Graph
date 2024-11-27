@@ -1,7 +1,0 @@
-ENTITY YYE673WL name_YYE6 journal
-ENTITY QFOSLYWK name_QFOS conference
-ENTITY K9620Q8B name_K962 conference
-PRINT %,(0*N-:
-DELETE 1&!MB$5[
-PATH [X;6**&V QFOSLYWK
-EXIT

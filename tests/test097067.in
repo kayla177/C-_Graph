@@ -1,7 +1,0 @@
-ENTITY SPT7V57Y name_SPT7 conference
-ENTITY BTNR1YB2 name_BTNR paper
-ENTITY LHIDFCBL name_LHID conference
-PRINT -}K7<@>3
-DELETE -}K7<@>3
-PATH -}K7<@>3 SPT7V57Y
-EXIT

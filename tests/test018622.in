@@ -1,7 +1,0 @@
-ENTITY SRC8CLIJ name_SRC8 institution
-ENTITY U66NPI1A name_U66N journal
-ENTITY J0J0M7PI name_J0J0 journal
-PRINT =IN*5_#?
-DELETE =IN*5_#?
-PATH =IN*5_#? J0J0M7PI
-EXIT

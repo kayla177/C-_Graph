@@ -1,7 +1,0 @@
-ENTITY I4ZZ7HMZ name_I4ZZ conference
-ENTITY Q8IFOQMW name_Q8IF author
-ENTITY HLKA9A0D name_HLKA institution
-PRINT 4$:%D=Z)
-DELETE 4$:%D=Z)
-PATH 4$:%D=Z) HLKA9A0D
-EXIT

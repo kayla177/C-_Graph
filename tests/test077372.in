@@ -1,7 +1,0 @@
-ENTITY WXEXSKZL name_WXEX paper
-ENTITY 47XUGNC2 name_47XU institution
-ENTITY 4TFT0FTH name_4TFT conference
-PRINT @%5YFB;R
-DELETE _=,^)%LY
-PATH _=,^)%LY WXEXSKZL
-EXIT

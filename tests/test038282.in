@@ -1,7 +1,0 @@
-ENTITY 2DN7YXY5 name_2DN7 journal
-ENTITY WHVDW33P name_WHVD institution
-ENTITY 1P8IJBMH name_1P8I conference
-PRINT 8}O=|0V|
-DELETE F:=I#_R#
-PATH F:=I#_R# 1P8IJBMH
-EXIT

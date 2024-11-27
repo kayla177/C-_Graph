@@ -1,7 +1,0 @@
-ENTITY SJHCHKZL name_SJHC conference
-ENTITY 038IEZDK name_038I institution
-ENTITY 695WM635 name_695W author
-PRINT X#0*F+|@
-DELETE [F-&=M+^
-PATH X#0*F+|@ 695WM635
-EXIT

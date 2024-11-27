@@ -1,7 +1,0 @@
-ENTITY VRHTL6BE name_VRHT conference
-ENTITY YMAC4MDL name_YMAC institution
-ENTITY XW1NARVK name_XW1N conference
-PRINT <>-B%U=M
-DELETE |^UH?D::
-PATH <>-B%U=M XW1NARVK
-EXIT

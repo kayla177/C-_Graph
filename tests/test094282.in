@@ -1,7 +1,0 @@
-ENTITY SOY1BUQZ name_SOY1 institution
-ENTITY E3ASUFJD name_E3AS institution
-ENTITY G4B6HLY7 name_G4B6 conference
-PRINT G#7C4_*=
-DELETE G#7C4_*=
-PATH G#7C4_*= E3ASUFJD
-EXIT

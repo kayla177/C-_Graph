@@ -1,7 +1,0 @@
-ENTITY S9Z1VJES name_S9Z1 author
-ENTITY 0XFREAF2 name_0XFR journal
-ENTITY PZYSX4KI name_PZYS institution
-PRINT ;!*_.S]H
-DELETE ;!*_.S]H
-PATH NSL:_@$: 0XFREAF2
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 1LI1ZFAB name_1LI1 institution
-ENTITY O4918JVQ name_O491 institution
-ENTITY HJPGN640 name_HJPG conference
-PRINT 6A+[5F}@
-DELETE 6A+[5F}@
-PATH 6A+[5F}@ 1LI1ZFAB
-EXIT

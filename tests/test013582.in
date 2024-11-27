@@ -1,7 +1,0 @@
-ENTITY UT575OJL name_UT57 author
-ENTITY M6EEN46R name_M6EE conference
-ENTITY LT904ULO name_LT90 author
-PRINT !+S$]Z]%
-DELETE !+S$]Z]%
-PATH !+S$]Z]% UT575OJL
-EXIT

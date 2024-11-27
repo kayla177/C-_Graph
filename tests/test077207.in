@@ -1,7 +1,0 @@
-ENTITY 43TUHI0F name_43TU journal
-ENTITY 4N8UITUB name_4N8U institution
-ENTITY ZCL1IB0F name_ZCL1 author
-PRINT ]&4:OU:^
-DELETE ;+-K(J[!
-PATH ]&4:OU:^ 4N8UITUB
-EXIT

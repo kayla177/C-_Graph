@@ -1,7 +1,0 @@
-ENTITY ZAPJ49E7 name_ZAPJ institution
-ENTITY BSGV341I name_BSGV conference
-ENTITY G99S82B0 name_G99S institution
-PRINT %C:;}ZZF
-DELETE %C:;}ZZF
-PATH %C:;}ZZF BSGV341I
-EXIT

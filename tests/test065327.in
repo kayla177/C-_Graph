@@ -1,7 +1,0 @@
-ENTITY JUDY297F name_JUDY institution
-ENTITY RMYIYV08 name_RMYI institution
-ENTITY H463AA7S name_H463 institution
-PRINT }2,}H7-&
-DELETE }2,}H7-&
-PATH F%03A>@Q RMYIYV08
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 2EAFRQ8M name_2EAF conference
-ENTITY 52MEO6HE name_52ME paper
-ENTITY JT8PAFY1 name_JT8P institution
-PRINT ^#Y?+5.N
-DELETE ^#Y?+5.N
-PATH ^#Y?+5.N 52MEO6HE
-EXIT

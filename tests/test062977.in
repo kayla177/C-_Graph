@@ -1,7 +1,0 @@
-ENTITY TCX8RCTX name_TCX8 institution
-ENTITY V0E5I0VS name_V0E5 journal
-ENTITY OJMALWDU name_OJMA institution
-PRINT Q5(%}G>8
-DELETE X.=_$[^U
-PATH Q5(%}G>8 TCX8RCTX
-EXIT

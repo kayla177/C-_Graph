@@ -1,7 +1,0 @@
-ENTITY 5NXVRIC6 name_5NXV author
-ENTITY SNF12RSN name_SNF1 paper
-ENTITY 2BCIG50K name_2BCI institution
-PRINT !A|Q(,-_
-DELETE {]>,4{]T
-PATH !A|Q(,-_ 5NXVRIC6
-EXIT

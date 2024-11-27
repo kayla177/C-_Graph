@@ -1,7 +1,0 @@
-ENTITY 73PJ3DP5 name_73PJ institution
-ENTITY LWVVJ12D name_LWVV conference
-ENTITY 2DFTV32U name_2DFT journal
-PRINT L=^}K)DE
-DELETE C+,0={+^
-PATH C+,0={+^ 2DFTV32U
-EXIT

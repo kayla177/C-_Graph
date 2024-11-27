@@ -1,7 +1,0 @@
-ENTITY SHNFTKZU name_SHNF journal
-ENTITY X9201APW name_X920 author
-ENTITY WUMB1PEO name_WUMB institution
-PRINT C<>5!<},
-DELETE C<>5!<},
-PATH *W^<.>.@ WUMB1PEO
-EXIT

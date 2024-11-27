@@ -1,7 +1,0 @@
-ENTITY V3VCLGUD name_V3VC paper
-ENTITY CFINSY83 name_CFIN institution
-ENTITY EKD6B4T9 name_EKD6 conference
-PRINT @<*<Q#I7
-DELETE @<*<Q#I7
-PATH @<*<Q#I7 EKD6B4T9
-EXIT

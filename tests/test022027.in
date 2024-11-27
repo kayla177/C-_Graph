@@ -1,7 +1,0 @@
-ENTITY JP94NGQJ name_JP94 conference
-ENTITY XIXXP712 name_XIXX conference
-ENTITY 6KXG469G name_6KXG author
-PRINT ]_$T@_1W
-DELETE ]_$T@_1W
-PATH ]_$T@_1W XIXXP712
-EXIT

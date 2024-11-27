@@ -1,7 +1,0 @@
-ENTITY H606Y61R name_H606 author
-ENTITY 6FWQYKXE name_6FWQ journal
-ENTITY TXGQMXSF name_TXGQ institution
-PRINT <7,_>0:#
-DELETE [<!;Y+39
-PATH <7,_>0:# H606Y61R
-EXIT

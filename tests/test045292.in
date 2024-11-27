@@ -1,7 +1,0 @@
-ENTITY OY37H6A9 name_OY37 institution
-ENTITY OO0HED3I name_OO0H institution
-ENTITY IKQRS0U2 name_IKQR conference
-PRINT DE+SWB;;
-DELETE EG[S@*;X
-PATH V_@.({Y, IKQRS0U2
-EXIT

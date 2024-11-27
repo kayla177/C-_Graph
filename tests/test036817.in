@@ -1,7 +1,0 @@
-ENTITY V7U01F3T name_V7U0 journal
-ENTITY 06NHUE6B name_06NH conference
-ENTITY 9843LTNJ name_9843 conference
-PRINT V:^6%*Z%
-DELETE -6|&.8SZ
-PATH V:^6%*Z% 06NHUE6B
-EXIT

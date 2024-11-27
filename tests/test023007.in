@@ -1,7 +1,0 @@
-ENTITY W3MMVK1O name_W3MM institution
-ENTITY B6VNA94E name_B6VN journal
-ENTITY MK26UD5F name_MK26 conference
-PRINT *4_7$}:Y
-DELETE ,;T${U[-
-PATH *4_7$}:Y W3MMVK1O
-EXIT

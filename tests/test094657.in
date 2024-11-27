@@ -1,7 +1,0 @@
-ENTITY 6SF0HD5C name_6SF0 institution
-ENTITY M4PPLLAM name_M4PP conference
-ENTITY GUCBBODQ name_GUCB institution
-PRINT D,Y%:H@K
-DELETE D,Y%:H@K
-PATH _{8[RQ-V 6SF0HD5C
-EXIT

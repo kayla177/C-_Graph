@@ -1,7 +1,0 @@
-ENTITY QC7JN2VY name_QC7J journal
-ENTITY O2TDKNVD name_O2TD conference
-ENTITY WGEGFSSV name_WGEG conference
-PRINT #]=${V,*
-DELETE <>CH6>N$
-PATH #]=${V,* O2TDKNVD
-EXIT

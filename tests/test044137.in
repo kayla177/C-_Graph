@@ -1,7 +1,0 @@
-ENTITY B4MZQTBD name_B4MZ conference
-ENTITY HKCXAF44 name_HKCX paper
-ENTITY VXV32HPC name_VXV3 author
-PRINT :?#K{|}:
-DELETE :?#K{|}:
-PATH ?JY>**?0 VXV32HPC
-EXIT

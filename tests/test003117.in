@@ -1,7 +1,0 @@
-ENTITY 5XGWX0KJ name_5XGW institution
-ENTITY HY9288C9 name_HY92 journal
-ENTITY X7V2U27W name_X7V2 institution
-PRINT ^NG#}+{U
-DELETE ^NG#}+{U
-PATH *B70$V7= 5XGWX0KJ
-EXIT

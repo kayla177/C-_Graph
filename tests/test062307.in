@@ -1,7 +1,0 @@
-ENTITY WPZMHN60 name_WPZM journal
-ENTITY 6BM8R7FI name_6BM8 conference
-ENTITY QZZSQUNN name_QZZS institution
-PRINT =F=?TP:!
-DELETE =F=?TP:!
-PATH =F=?TP:! WPZMHN60
-EXIT

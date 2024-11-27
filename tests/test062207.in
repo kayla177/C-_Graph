@@ -1,7 +1,0 @@
-ENTITY 1IM5CPIL name_1IM5 institution
-ENTITY 16WEKUHT name_16WE conference
-ENTITY RFQSJ0YZ name_RFQS conference
-PRINT _4-V&IL&
-DELETE I0J,*S||
-PATH _4-V&IL& 1IM5CPIL
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 960SL24M name_960S institution
-ENTITY 11DMBXAD name_11DM institution
-ENTITY 6GA93ZZK name_6GA9 institution
-PRINT :F+S-|#I
-DELETE :I4)!_MM
-PATH :I4)!_MM 6GA93ZZK
-EXIT

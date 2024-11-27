@@ -1,7 +1,0 @@
-ENTITY L1N4NJZI name_L1N4 institution
-ENTITY UAJI4ZC6 name_UAJI institution
-ENTITY QD7WRWOW name_QD7W institution
-PRINT %BI^|K!G
-DELETE %BI^|K!G
-PATH %BI^|K!G QD7WRWOW
-EXIT

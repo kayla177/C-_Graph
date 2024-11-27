@@ -1,7 +1,0 @@
-ENTITY E7JV0K20 name_E7JV institution
-ENTITY BYQF5TOU name_BYQF journal
-ENTITY ZKVTKC73 name_ZKVT paper
-PRINT +&+J,Y_*
-DELETE +&+J,Y_*
-PATH +&+J,Y_* ZKVTKC73
-EXIT

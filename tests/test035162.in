@@ -1,7 +1,0 @@
-ENTITY XHD0HPX7 name_XHD0 conference
-ENTITY S4JS4Q0G name_S4JS conference
-ENTITY TFNRVJPY name_TFNR paper
-PRINT VT:%|<]F
-DELETE $N9*7#..
-PATH $N9*7#.. TFNRVJPY
-EXIT

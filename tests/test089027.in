@@ -1,7 +1,0 @@
-ENTITY 7E7SMK5B name_7E7S institution
-ENTITY J6DWP1BV name_J6DW institution
-ENTITY HMEEG17G name_HMEE institution
-PRINT ^4Z&.N_X
-DELETE ^4Z&.N_X
-PATH $C[#:&A. 7E7SMK5B
-EXIT

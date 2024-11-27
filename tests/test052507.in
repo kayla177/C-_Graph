@@ -1,7 +1,0 @@
-ENTITY KTNPM0UO name_KTNP conference
-ENTITY EIB2FFBY name_EIB2 conference
-ENTITY LFWXKUHS name_LFWX institution
-PRINT %;I:@66@
-DELETE %;I:@66@
-PATH K]O:<;AA KTNPM0UO
-EXIT

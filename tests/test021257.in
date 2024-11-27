@@ -1,7 +1,0 @@
-ENTITY T9B0EH21 name_T9B0 conference
-ENTITY TS3YZFO5 name_TS3Y institution
-ENTITY R6MBEWG1 name_R6MB conference
-PRINT ;_J$M=F5
-DELETE -8=@(@A4
-PATH -8=@(@A4 R6MBEWG1
-EXIT

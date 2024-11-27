@@ -1,7 +1,0 @@
-ENTITY W2BLZAGK name_W2BL conference
-ENTITY ZA8GQX8B name_ZA8G institution
-ENTITY JRM4XABA name_JRM4 journal
-PRINT ^T,+9}Y|
-DELETE 8|*_>]!W
-PATH ^T,+9}Y| ZA8GQX8B
-EXIT

@@ -1,7 +1,0 @@
-ENTITY FPXU9N2N name_FPXU institution
-ENTITY 87ZKPUZO name_87ZK conference
-ENTITY RQ9QDIEV name_RQ9Q paper
-PRINT L[$T@(;E
-DELETE L[$T@(;E
-PATH L[$T@(;E FPXU9N2N
-EXIT

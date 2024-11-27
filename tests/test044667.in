@@ -1,7 +1,0 @@
-ENTITY L83CZLZ2 name_L83C author
-ENTITY YJFYC9IN name_YJFY conference
-ENTITY U9TNA2C3 name_U9TN institution
-PRINT >CH+<1!+
-DELETE >CH+<1!+
-PATH 3:.}*+4$ YJFYC9IN
-EXIT

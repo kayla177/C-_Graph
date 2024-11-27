@@ -1,7 +1,0 @@
-ENTITY J1IKC9KS name_J1IK institution
-ENTITY OY8B3ECU name_OY8B institution
-ENTITY BHKCSEYC name_BHKC author
-PRINT %&,L2U={
-DELETE %&,L2U={
-PATH 0]T|Q^%M J1IKC9KS
-EXIT

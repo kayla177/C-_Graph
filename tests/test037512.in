@@ -1,7 +1,0 @@
-ENTITY NMKFZ4JO name_NMKF institution
-ENTITY 3H46MZ3X name_3H46 journal
-ENTITY NL46JMOR name_NL46 author
-PRINT #.B9;]&I
-DELETE #.B9;]&I
-PATH )]+$-JV{ NMKFZ4JO
-EXIT

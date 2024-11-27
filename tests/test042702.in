@@ -1,7 +1,0 @@
-ENTITY K45LEFO0 name_K45L institution
-ENTITY 2MHGKYDP name_2MHG conference
-ENTITY DS4X7NJO name_DS4X institution
-PRINT KAE(,X>%
-DELETE +I&#;L%M
-PATH KAE(,X>% K45LEFO0
-EXIT

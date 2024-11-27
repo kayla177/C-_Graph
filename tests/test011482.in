@@ -1,7 +1,0 @@
-ENTITY YYNDURBX name_YYND conference
-ENTITY FGNRAB05 name_FGNR institution
-ENTITY NBVQ544O name_NBVQ institution
-PRINT X*0#2*<]
-DELETE >]+LNTBK
-PATH X*0#2*<] NBVQ544O
-EXIT

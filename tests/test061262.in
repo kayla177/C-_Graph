@@ -1,7 +1,0 @@
-ENTITY FOM2SVY3 name_FOM2 conference
-ENTITY F0W0QLZZ name_F0W0 author
-ENTITY SN3GFP3B name_SN3G conference
-PRINT _NA[:(^,
-DELETE 3%{(#J1}
-PATH _NA[:(^, SN3GFP3B
-EXIT

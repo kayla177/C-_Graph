@@ -1,7 +1,0 @@
-ENTITY PSH0V6F5 name_PSH0 institution
-ENTITY DBS8BDGP name_DBS8 conference
-ENTITY LAV4DU7D name_LAV4 paper
-PRINT (A@>$::S
-DELETE (A@>$::S
-PATH (A@>$::S DBS8BDGP
-EXIT

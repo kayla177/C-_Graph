@@ -1,7 +1,0 @@
-ENTITY 9SLAYP4V name_9SLA conference
-ENTITY SGT07EEM name_SGT0 conference
-ENTITY OYK0UPPW name_OYK0 institution
-PRINT ^KQ*L=$>
-DELETE {--{GU[1
-PATH ^KQ*L=$> 9SLAYP4V
-EXIT

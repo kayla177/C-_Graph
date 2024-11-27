@@ -1,7 +1,0 @@
-ENTITY RURJXB8Q name_RURJ author
-ENTITY STB4R7MM name_STB4 journal
-ENTITY FVPB22D6 name_FVPB paper
-PRINT [^@)%&]7
-DELETE %A;,2.-P
-PATH [^@)%&]7 FVPB22D6
-EXIT

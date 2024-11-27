@@ -1,7 +1,0 @@
-ENTITY 5XC40LPQ name_5XC4 conference
-ENTITY LTM431Y7 name_LTM4 institution
-ENTITY SSL9XAG4 name_SSL9 author
-PRINT R>*&,4>H
-DELETE K->(BB4_
-PATH R>*&,4>H 5XC40LPQ
-EXIT

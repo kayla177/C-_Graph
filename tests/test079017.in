@@ -1,7 +1,0 @@
-ENTITY 614ISRVU name_614I conference
-ENTITY 0WD72C66 name_0WD7 institution
-ENTITY CEPX5PUC name_CEPX paper
-PRINT }SDX[[=X
-DELETE =(_&=$?[
-PATH =(_&=$?[ 614ISRVU
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 0CYMHXHV name_0CYM conference
-ENTITY GL2HLDUQ name_GL2H conference
-ENTITY THZQ9WC5 name_THZQ author
-PRINT I(<,$(+S
-DELETE I(<,$(+S
-PATH ^|L@34+R THZQ9WC5
-EXIT

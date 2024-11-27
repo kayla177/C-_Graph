@@ -1,7 +1,0 @@
-ENTITY YM15D7UP name_YM15 institution
-ENTITY O66996T8 name_O669 author
-ENTITY A1NUTUR8 name_A1NU journal
-PRINT <#P+<<Z[
-DELETE ?A!]G){<
-PATH <#P+<<Z[ YM15D7UP
-EXIT

@@ -1,7 +1,0 @@
-ENTITY QFOOUBSI name_QFOO institution
-ENTITY K88J1E5F name_K88J institution
-ENTITY ERJUGUFN name_ERJU author
-PRINT G%#$Q,%[
-DELETE G%#$Q,%[
-PATH IN%!?T=# K88J1E5F
-EXIT

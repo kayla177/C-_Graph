@@ -1,7 +1,0 @@
-ENTITY LPE9JMU0 name_LPE9 institution
-ENTITY R3BRX5R6 name_R3BR institution
-ENTITY Z32KLHCD name_Z32K author
-PRINT >=J{,LL5
-DELETE >=J{,LL5
-PATH 2D#-?:=( LPE9JMU0
-EXIT

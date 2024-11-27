@@ -1,7 +1,0 @@
-ENTITY RBS11Z78 name_RBS1 paper
-ENTITY MT88T2DL name_MT88 paper
-ENTITY VPI1I8M8 name_VPI1 institution
-PRINT $<WM|<%+
-DELETE $<WM|<%+
-PATH $<WM|<%+ VPI1I8M8
-EXIT

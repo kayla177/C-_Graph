@@ -1,7 +1,0 @@
-ENTITY 53F2KT8V name_53F2 conference
-ENTITY LH2Z8ZYS name_LH2Z institution
-ENTITY 0278SOIU name_0278 conference
-PRINT @^U0%X:[
-DELETE @^U0%X:[
-PATH !]5PL,!| 0278SOIU
-EXIT

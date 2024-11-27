@@ -1,7 +1,0 @@
-ENTITY ZYMURL4T name_ZYMU conference
-ENTITY WBTV90IA name_WBTV conference
-ENTITY AHDJZ3RW name_AHDJ paper
-PRINT %$:)<6$.
-DELETE %$:)<6$.
-PATH O79Y><EX WBTV90IA
-EXIT

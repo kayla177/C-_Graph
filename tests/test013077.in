@@ -1,7 +1,0 @@
-ENTITY MHMC024N name_MHMC institution
-ENTITY NGC1XPW0 name_NGC1 institution
-ENTITY 9SBI5SU5 name_9SBI journal
-PRINT ^C{0_@.^
-DELETE QO2.|+F;
-PATH -1?B&TSY MHMC024N
-EXIT

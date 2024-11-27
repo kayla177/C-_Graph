@@ -1,7 +1,0 @@
-ENTITY UR8VY01W name_UR8V paper
-ENTITY 1ZA2E2PO name_1ZA2 author
-ENTITY ZV57KGMB name_ZV57 conference
-PRINT #}UG-_1-
-DELETE &#=R-{?:
-PATH &#=R-{?: 1ZA2E2PO
-EXIT

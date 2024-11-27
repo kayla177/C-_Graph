@@ -1,7 +1,0 @@
-ENTITY MR4CBXT5 name_MR4C conference
-ENTITY R3HOMFS0 name_R3HO conference
-ENTITY 17CHLE86 name_17CH institution
-PRINT (Z_MR_7,
-DELETE ,=3),{^0
-PATH ,=3),{^0 R3HOMFS0
-EXIT

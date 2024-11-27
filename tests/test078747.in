@@ -1,7 +1,0 @@
-ENTITY R7LLYWCS name_R7LL institution
-ENTITY RV2OBF39 name_RV2O conference
-ENTITY 3GQOYWG6 name_3GQO institution
-PRINT +^25,FO!
-DELETE +^25,FO!
-PATH =,9^$EJJ 3GQOYWG6
-EXIT

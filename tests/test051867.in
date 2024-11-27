@@ -1,7 +1,0 @@
-ENTITY E684DXUA name_E684 institution
-ENTITY MIQ7K26I name_MIQ7 institution
-ENTITY NM7MRHDS name_NM7M institution
-PRINT #S#RB<L2
-DELETE #S#RB<L2
-PATH -}B#E:=R E684DXUA
-EXIT

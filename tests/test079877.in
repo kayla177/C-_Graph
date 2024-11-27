@@ -1,7 +1,0 @@
-ENTITY D5354S95 name_D535 paper
-ENTITY V3T7SFWA name_V3T7 institution
-ENTITY 1O4SZOYL name_1O4S author
-PRINT %^$Y-=@P
-DELETE @.Y<IS>%
-PATH %^$Y-=@P 1O4SZOYL
-EXIT

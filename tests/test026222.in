@@ -1,7 +1,0 @@
-ENTITY FZGWJPII name_FZGW conference
-ENTITY V9Q1CKN6 name_V9Q1 conference
-ENTITY 48CXF15L name_48CX journal
-PRINT !|2*S_5|
-DELETE !|2*S_5|
-PATH >KP.<@%O 48CXF15L
-EXIT

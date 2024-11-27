@@ -1,7 +1,0 @@
-ENTITY RNNWDDVX name_RNNW institution
-ENTITY FVEO06JF name_FVEO institution
-ENTITY QO95NE19 name_QO95 author
-PRINT 3|=[+!MS
-DELETE _@E=3^;K
-PATH _@E=3^;K FVEO06JF
-EXIT

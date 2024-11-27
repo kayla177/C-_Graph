@@ -1,7 +1,0 @@
-ENTITY JFXQ002Z name_JFXQ institution
-ENTITY FR45AJE0 name_FR45 author
-ENTITY 2L3WBTH9 name_2L3W journal
-PRINT ?*G3*@P&
-DELETE ===]FP].
-PATH ?*G3*@P& JFXQ002Z
-EXIT

@@ -1,7 +1,0 @@
-ENTITY AHTAXCGP name_AHTA author
-ENTITY FC1E41JY name_FC1E author
-ENTITY ACR4I7UT name_ACR4 institution
-PRINT [@]9>6_)
-DELETE [@]9>6_)
-PATH [@]9>6_) FC1E41JY
-EXIT

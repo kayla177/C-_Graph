@@ -1,7 +1,0 @@
-ENTITY IZFMJ1P9 name_IZFM conference
-ENTITY QRDPUNDA name_QRDP institution
-ENTITY 8LM7JF7Q name_8LM7 author
-PRINT A?-S.-S{
-DELETE 4|6[;$A(
-PATH 4|6[;$A( IZFMJ1P9
-EXIT

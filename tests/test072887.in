@@ -1,7 +1,0 @@
-ENTITY AC3FA02M name_AC3F author
-ENTITY IKUFPIL5 name_IKUF institution
-ENTITY ECHDVE63 name_ECHD institution
-PRINT _6{J[;A)
-DELETE _6{J[;A)
-PATH _6{J[;A) IKUFPIL5
-EXIT

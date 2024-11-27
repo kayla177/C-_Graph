@@ -1,7 +1,0 @@
-ENTITY 5M82GZ4V name_5M82 conference
-ENTITY P2HH2U6D name_P2HH institution
-ENTITY T7OZ946R name_T7OZ author
-PRINT {D!U{=[%
-DELETE {D!U{=[%
-PATH {(#O@>7@ P2HH2U6D
-EXIT

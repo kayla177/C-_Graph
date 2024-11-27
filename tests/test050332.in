@@ -1,7 +1,0 @@
-ENTITY FVMKOYC8 name_FVMK institution
-ENTITY JD3PWVSL name_JD3P paper
-ENTITY 3FPI1CYD name_3FPI institution
-PRINT #]>0:9&X
-DELETE #]>0:9&X
-PATH 1H$!$},! JD3PWVSL
-EXIT

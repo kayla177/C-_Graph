@@ -1,7 +1,0 @@
-ENTITY U0MDJFSH name_U0MD institution
-ENTITY FJEUWXVF name_FJEU conference
-ENTITY R8PSZTVZ name_R8PS author
-PRINT >T+2<64|
-DELETE >T+2<64|
-PATH <L<_{V); U0MDJFSH
-EXIT

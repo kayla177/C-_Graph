@@ -1,7 +1,0 @@
-ENTITY ZR9PWS2L name_ZR9P conference
-ENTITY LHS5Z0AW name_LHS5 institution
-ENTITY VL8EW6FH name_VL8E institution
-PRINT #.>IQK,V
-DELETE _|:66-,9
-PATH WM[:^}]G LHS5Z0AW
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 1U75XT2T name_1U75 institution
-ENTITY 5WC33NQG name_5WC3 institution
-ENTITY 62QOSMJ7 name_62QO institution
-PRINT ^8X+-&^I
-DELETE -[&%BYUN
-PATH ^8X+-&^I 5WC33NQG
-EXIT

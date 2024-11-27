@@ -1,7 +1,0 @@
-ENTITY 6LIFNMT1 name_6LIF institution
-ENTITY QHU40GVN name_QHU4 institution
-ENTITY CG7Y24XD name_CG7Y journal
-PRINT {N&Q(__}
-DELETE VR&0<?S>
-PATH VR&0<?S> QHU40GVN
-EXIT

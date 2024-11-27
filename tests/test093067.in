@@ -1,7 +1,0 @@
-ENTITY 3KPK9KLL name_3KPK institution
-ENTITY O6O8FTXR name_O6O8 conference
-ENTITY RTWDLENP name_RTWD institution
-PRINT _@#>G3,A
-DELETE _@#>G3,A
-PATH !X_G@|0U RTWDLENP
-EXIT

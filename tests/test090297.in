@@ -1,7 +1,0 @@
-ENTITY H2IO84QJ name_H2IO institution
-ENTITY 42PMC9FC name_42PM journal
-ENTITY NRMSJJID name_NRMS conference
-PRINT KM7|#!{[
-DELETE KM7|#!{[
-PATH =+<U.]Z] NRMSJJID
-EXIT

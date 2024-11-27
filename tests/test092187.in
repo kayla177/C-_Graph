@@ -1,7 +1,0 @@
-ENTITY BCLWS6BN name_BCLW institution
-ENTITY P6SH37FO name_P6SH paper
-ENTITY T8UI7R48 name_T8UI author
-PRINT !-T{_*F$
-DELETE !-T{_*F$
-PATH !-T{_*F$ P6SH37FO
-EXIT

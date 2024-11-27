@@ -1,7 +1,0 @@
-ENTITY 5CM1YGFN name_5CM1 institution
-ENTITY HH6E47UD name_HH6E conference
-ENTITY B50ZO1GW name_B50Z institution
-PRINT !?#IFY@C
-DELETE !?#IFY@C
-PATH !?#IFY@C B50ZO1GW
-EXIT

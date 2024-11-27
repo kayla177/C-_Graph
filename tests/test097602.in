@@ -1,7 +1,0 @@
-ENTITY B8PMCCL3 name_B8PM institution
-ENTITY O2450HKI name_O245 conference
-ENTITY JQNFZ0MD name_JQNF institution
-PRINT L9@=@@6(
-DELETE CA|M.@I(
-PATH CA|M.@I( JQNFZ0MD
-EXIT

@@ -1,7 +1,0 @@
-ENTITY H4J1A8UX name_H4J1 paper
-ENTITY A2TG7UM1 name_A2TG author
-ENTITY BF2SBFMN name_BF2S conference
-PRINT H=&?.+[W
-DELETE ,^]]HH$0
-PATH H=&?.+[W H4J1A8UX
-EXIT

@@ -1,7 +1,0 @@
-ENTITY M00U5C9L name_M00U institution
-ENTITY 9WFUAOB3 name_9WFU author
-ENTITY 5ZS4FCTC name_5ZS4 conference
-PRINT <GC+]!_>
-DELETE <GC+]!_>
-PATH <GC+]!_> 9WFUAOB3
-EXIT

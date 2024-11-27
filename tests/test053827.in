@@ -1,7 +1,0 @@
-ENTITY SUYYWMP3 name_SUYY institution
-ENTITY M37H58TL name_M37H institution
-ENTITY GAD78A8X name_GAD7 institution
-PRINT GQ[%:=4V
-DELETE :D9N9,!Q
-PATH GQ[%:=4V SUYYWMP3
-EXIT

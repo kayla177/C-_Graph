@@ -1,7 +1,0 @@
-ENTITY O462VSL1 name_O462 institution
-ENTITY 3FMYEGZR name_3FMY institution
-ENTITY 52ULTGTK name_52UL journal
-PRINT @>@&OB?-
-DELETE @>@&OB?-
-PATH $2?,AHWR 3FMYEGZR
-EXIT

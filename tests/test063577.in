@@ -1,7 +1,0 @@
-ENTITY C6M252P1 name_C6M2 conference
-ENTITY F16MD185 name_F16M conference
-ENTITY GG9DYBJ0 name_GG9D paper
-PRINT @F*:$-ON
-DELETE @F*:$-ON
-PATH +=#I%!E^ F16MD185
-EXIT

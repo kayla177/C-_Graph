@@ -1,7 +1,0 @@
-ENTITY ARVMXYT3 name_ARVM institution
-ENTITY V5X06GJS name_V5X0 institution
-ENTITY JZOHY6CD name_JZOH conference
-PRINT A-D9B*2!
-DELETE A-D9B*2!
-PATH ?+-,LC:& ARVMXYT3
-EXIT

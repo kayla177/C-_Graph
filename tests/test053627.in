@@ -1,7 +1,0 @@
-ENTITY GL1QGSC9 name_GL1Q conference
-ENTITY CUCH7JG5 name_CUCH author
-ENTITY NH7JFNO3 name_NH7J conference
-PRINT XR=&3%B0
-DELETE $_$(8@,J
-PATH $_$(8@,J GL1QGSC9
-EXIT

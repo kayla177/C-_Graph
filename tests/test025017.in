@@ -1,7 +1,0 @@
-ENTITY DHFQ22YR name_DHFQ institution
-ENTITY OCSD949R name_OCSD journal
-ENTITY Y2Y6F7PS name_Y2Y6 institution
-PRINT {.J4&AP[
-DELETE 7(!)F:?4
-PATH 7(!)F:?4 DHFQ22YR
-EXIT

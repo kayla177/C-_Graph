@@ -1,7 +1,0 @@
-ENTITY I9YWQX0L name_I9YW institution
-ENTITY ITEETK2A name_ITEE conference
-ENTITY E7KSAZJ2 name_E7KS conference
-PRINT ^H{=6_@D
-DELETE ^H{=6_@D
-PATH DG:T^1Q2 I9YWQX0L
-EXIT

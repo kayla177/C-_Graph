@@ -1,7 +1,0 @@
-ENTITY W5UHE6ZZ name_W5UH conference
-ENTITY HHCIXY3P name_HHCI conference
-ENTITY KR144T3D name_KR14 conference
-PRINT _RQ;G,=$
-DELETE X;T;$?P:
-PATH _RQ;G,=$ W5UHE6ZZ
-EXIT

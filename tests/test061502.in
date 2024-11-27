@@ -1,7 +1,0 @@
-ENTITY 09149LRC name_0914 journal
-ENTITY TJT3TVCO name_TJT3 institution
-ENTITY NZ38RJHQ name_NZ38 institution
-PRINT ZG_Z,?U5
-DELETE ,-!R*0L.
-PATH _@D01?_@ NZ38RJHQ
-EXIT

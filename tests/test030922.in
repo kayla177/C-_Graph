@@ -1,7 +1,0 @@
-ENTITY 9KQN3SQC name_9KQN author
-ENTITY UKDUX4E0 name_UKDU journal
-ENTITY 9APGIAXA name_9APG conference
-PRINT [=.1%-)[
-DELETE :{6[:PR]
-PATH :{6[:PR] 9KQN3SQC
-EXIT

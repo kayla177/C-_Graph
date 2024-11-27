@@ -1,7 +1,0 @@
-ENTITY ZHWL6M62 name_ZHWL author
-ENTITY 116XOG4V name_116X conference
-ENTITY JV5HQ79H name_JV5H journal
-PRINT {TMU,+?|
-DELETE Y}_$:|[W
-PATH {TMU,+?| JV5HQ79H
-EXIT

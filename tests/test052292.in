@@ -1,7 +1,0 @@
-ENTITY RKP3XUOR name_RKP3 institution
-ENTITY F51HW101 name_F51H institution
-ENTITY GNI67F4Z name_GNI6 institution
-PRINT _>LS!{#7
-DELETE (9EUV(,3
-PATH (9EUV(,3 RKP3XUOR
-EXIT

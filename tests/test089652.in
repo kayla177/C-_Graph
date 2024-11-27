@@ -1,7 +1,0 @@
-ENTITY HG4S6H61 name_HG4S institution
-ENTITY 8E3VOIOF name_8E3V journal
-ENTITY AYTZBOQU name_AYTZ conference
-PRINT KMT<{{+=
-DELETE F,&K;F}M
-PATH KMT<{{+= 8E3VOIOF
-EXIT

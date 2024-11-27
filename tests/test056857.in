@@ -1,7 +1,0 @@
-ENTITY 3WBID9UE name_3WBI conference
-ENTITY XMPXTL8D name_XMPX institution
-ENTITY ERO3YVVP name_ERO3 institution
-PRINT @(V::BF*
-DELETE @(V::BF*
-PATH @(V::BF* 3WBID9UE
-EXIT

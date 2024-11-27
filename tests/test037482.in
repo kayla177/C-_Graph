@@ -1,7 +1,0 @@
-ENTITY BA6F65WF name_BA6F paper
-ENTITY 77CAEF6S name_77CA author
-ENTITY 11NJZLOH name_11NJ institution
-PRINT T,&8W,)*
-DELETE *D_)-@_)
-PATH *D_)-@_) BA6F65WF
-EXIT

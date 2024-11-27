@@ -1,7 +1,0 @@
-ENTITY WDYPXUGR name_WDYP institution
-ENTITY 5079EZ2O name_5079 journal
-ENTITY V48Z2C26 name_V48Z paper
-PRINT >:Y])$[#
-DELETE >:Y])$[#
-PATH >:Y])$[# WDYPXUGR
-EXIT

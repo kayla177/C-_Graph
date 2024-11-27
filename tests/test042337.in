@@ -1,7 +1,0 @@
-ENTITY 3M4LJ48M name_3M4L paper
-ENTITY 4YR223A2 name_4YR2 paper
-ENTITY J2X4E8SE name_J2X4 institution
-PRINT A4{2:{!,
-DELETE {?_G&<$L
-PATH {?_G&<$L 3M4LJ48M
-EXIT

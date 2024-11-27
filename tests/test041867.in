@@ -1,7 +1,0 @@
-ENTITY KURQN6XG name_KURQ institution
-ENTITY EDBP1327 name_EDBP conference
-ENTITY YHOHU0TV name_YHOH paper
-PRINT >E:(!?!_
-DELETE >E:(!?!_
-PATH >E:(!?!_ EDBP1327
-EXIT

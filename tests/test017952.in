@@ -1,7 +1,0 @@
-ENTITY ZEZBQQ4O name_ZEZB institution
-ENTITY E3E5V99Z name_E3E5 conference
-ENTITY Y30074U1 name_Y300 paper
-PRINT }J]$_D:J
-DELETE }J]$_D:J
-PATH }J]$_D:J Y30074U1
-EXIT

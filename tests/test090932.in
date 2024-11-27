@@ -1,7 +1,0 @@
-ENTITY M7MLVZON name_M7ML conference
-ENTITY 7RVGHH20 name_7RVG conference
-ENTITY SYLDC6AN name_SYLD author
-PRINT ST@{@X[#
-DELETE ST@{@X[#
-PATH ST@{@X[# M7MLVZON
-EXIT

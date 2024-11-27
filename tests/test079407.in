@@ -1,7 +1,0 @@
-ENTITY TK4I7UUR name_TK4I journal
-ENTITY R0YSIPHN name_R0YS conference
-ENTITY 7TXUN8A1 name_7TXU paper
-PRINT *L_[]YL!
-DELETE ?1=(^}=$
-PATH ?1=(^}=$ R0YSIPHN
-EXIT

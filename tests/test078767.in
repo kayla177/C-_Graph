@@ -1,7 +1,0 @@
-ENTITY YMFVBQTS name_YMFV institution
-ENTITY MAFCL08L name_MAFC conference
-ENTITY TQBORABG name_TQBO conference
-PRINT .NE]W?-[
-DELETE .NE]W?-[
-PATH .NE]W?-[ MAFCL08L
-EXIT

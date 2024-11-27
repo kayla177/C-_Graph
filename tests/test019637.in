@@ -1,7 +1,0 @@
-ENTITY ZSCNRLNM name_ZSCN author
-ENTITY 9GL7M8DO name_9GL7 institution
-ENTITY IZ6LETDO name_IZ6L conference
-PRINT @PC.!X$.
-DELETE ]MML@]]*
-PATH #?A|SX=N IZ6LETDO
-EXIT

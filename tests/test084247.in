@@ -1,7 +1,0 @@
-ENTITY 00BWVXBI name_00BW conference
-ENTITY FV3XDINC name_FV3X institution
-ENTITY YN6PQ9RV name_YN6P institution
-PRINT (-*{*6!!
-DELETE (-*{*6!!
-PATH (-*{*6!! 00BWVXBI
-EXIT

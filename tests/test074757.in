@@ -1,7 +1,0 @@
-ENTITY SNOAYC0F name_SNOA conference
-ENTITY NDZZJ1B9 name_NDZZ conference
-ENTITY BOI03G5E name_BOI0 author
-PRINT &*7[$.!T
-DELETE *_B=^CM?
-PATH &*7[$.!T BOI03G5E
-EXIT

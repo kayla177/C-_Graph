@@ -1,7 +1,0 @@
-ENTITY PVWSOXFG name_PVWS journal
-ENTITY N6NWTT1F name_N6NW institution
-ENTITY GPOO0WOQ name_GPOO conference
-PRINT $J-&*.SW
-DELETE $J-&*.SW
-PATH >J&,!=3Q N6NWTT1F
-EXIT

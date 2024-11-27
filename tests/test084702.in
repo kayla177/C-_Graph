@@ -1,7 +1,0 @@
-ENTITY JKWNHMCR name_JKWN institution
-ENTITY XB3UOF14 name_XB3U institution
-ENTITY SOA1SYHS name_SOA1 author
-PRINT P^3+.;AZ
-DELETE PX$+,T#>
-PATH PX$+,T#> SOA1SYHS
-EXIT

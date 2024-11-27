@@ -1,7 +1,0 @@
-ENTITY NKLSLRAW name_NKLS institution
-ENTITY TOS4FUZZ name_TOS4 conference
-ENTITY FJ74CLMP name_FJ74 conference
-PRINT MW*#!;A7
-DELETE -N;1N@){
-PATH MW*#!;A7 FJ74CLMP
-EXIT

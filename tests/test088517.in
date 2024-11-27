@@ -1,7 +1,0 @@
-ENTITY 464SI0PN name_464S conference
-ENTITY DL1ARBUW name_DL1A institution
-ENTITY TMTCWU7D name_TMTC conference
-PRINT 4!A.*M:!
-DELETE 4!A.*M:!
-PATH 1)D(}TJ} TMTCWU7D
-EXIT

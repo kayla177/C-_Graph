@@ -1,7 +1,0 @@
-ENTITY PL3E6UGQ name_PL3E conference
-ENTITY 13PDLVMS name_13PD institution
-ENTITY 27R4Y37D name_27R4 institution
-PRINT |K&RK>(S
-DELETE <>=1{}FL
-PATH <>=1{}FL 13PDLVMS
-EXIT

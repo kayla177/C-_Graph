@@ -1,7 +1,0 @@
-ENTITY K4NIO42F name_K4NI journal
-ENTITY S2W1OPW5 name_S2W1 conference
-ENTITY 7OQ490SK name_7OQ4 author
-PRINT @G{NP._-
-DELETE @G{NP._-
-PATH &(.$>:%S S2W1OPW5
-EXIT

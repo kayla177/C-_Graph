@@ -1,7 +1,0 @@
-ENTITY J2T9U5AL name_J2T9 institution
-ENTITY G4DPJEJX name_G4DP conference
-ENTITY 9X4F66EX name_9X4F paper
-PRINT (-0GG(^<
-DELETE (-0GG(^<
-PATH (-0GG(^< 9X4F66EX
-EXIT

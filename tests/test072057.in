@@ -1,7 +1,0 @@
-ENTITY B13IO8L2 name_B13I conference
-ENTITY BJ0G6NKI name_BJ0G conference
-ENTITY ZYCPSIID name_ZYCP institution
-PRINT +ZK_V|H,
-DELETE +ZK_V|H,
-PATH C?O*5&X! B13IO8L2
-EXIT

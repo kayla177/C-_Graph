@@ -1,7 +1,0 @@
-ENTITY UFN2E51T name_UFN2 institution
-ENTITY Z1MMPR10 name_Z1MM journal
-ENTITY AIHC5XMV name_AIHC author
-PRINT X=|;[=*G
-DELETE Y[;|XC$|
-PATH Y[;|XC$| Z1MMPR10
-EXIT

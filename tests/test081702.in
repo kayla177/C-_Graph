@@ -1,7 +1,0 @@
-ENTITY X9R4H6S0 name_X9R4 paper
-ENTITY DXHYG5VV name_DXHY institution
-ENTITY TFBMOI3F name_TFBM conference
-PRINT @?,D8&()
-DELETE @?,D8&()
-PATH R:O=-9$L X9R4H6S0
-EXIT

@@ -1,7 +1,0 @@
-ENTITY KLVLAMBR name_KLVL conference
-ENTITY ERZ457AC name_ERZ4 institution
-ENTITY SZJ1AICE name_SZJ1 institution
-PRINT :J9U-[]%
-DELETE *|1,W|&5
-PATH *|1,W|&5 ERZ457AC
-EXIT

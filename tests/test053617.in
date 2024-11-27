@@ -1,7 +1,0 @@
-ENTITY HYFRIH9K name_HYFR paper
-ENTITY 3FFMO31T name_3FFM institution
-ENTITY 6N2QIRH8 name_6N2Q institution
-PRINT 3F%R*+*[
-DELETE 3F%R*+*[
-PATH 3F%R*+*[ 6N2QIRH8
-EXIT

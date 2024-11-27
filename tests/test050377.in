@@ -1,7 +1,0 @@
-ENTITY JIOGH3GR name_JIOG institution
-ENTITY U1EU8UMF name_U1EU paper
-ENTITY QQ9NAQP3 name_QQ9N institution
-PRINT .@&;=.*6
-DELETE 8D=03A$U
-PATH .@&;=.*6 U1EU8UMF
-EXIT

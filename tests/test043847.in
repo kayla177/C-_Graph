@@ -1,7 +1,0 @@
-ENTITY UY58VAMK name_UY58 conference
-ENTITY NO3ICEHI name_NO3I paper
-ENTITY 05AH6PXX name_05AH institution
-PRINT ;8)*{8Z+
-DELETE ;8)*{8Z+
-PATH ;8)*{8Z+ NO3ICEHI
-EXIT

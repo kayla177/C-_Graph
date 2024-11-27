@@ -1,7 +1,0 @@
-ENTITY Z8P8D9AT name_Z8P8 author
-ENTITY YTTBXY06 name_YTTB author
-ENTITY 9CG13AUG name_9CG1 conference
-PRINT =2{}]?|^
-DELETE =2{}]?|^
-PATH =2{}]?|^ YTTBXY06
-EXIT

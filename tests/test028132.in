@@ -1,7 +1,0 @@
-ENTITY M98H3YJG name_M98H journal
-ENTITY S38VQFDJ name_S38V institution
-ENTITY MI7UFPNF name_MI7U conference
-PRINT %_<E#H|B
-DELETE %_<E#H|B
-PATH MV#1%+:E S38VQFDJ
-EXIT

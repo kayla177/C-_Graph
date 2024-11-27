@@ -1,7 +1,0 @@
-ENTITY TM7LHNZ2 name_TM7L institution
-ENTITY NI2L6E3P name_NI2L institution
-ENTITY MP8UHIK1 name_MP8U conference
-PRINT @SSVL-?+
-DELETE @SSVL-?+
-PATH @SSVL-?+ NI2L6E3P
-EXIT

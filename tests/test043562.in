@@ -1,7 +1,0 @@
-ENTITY BAMMS9F2 name_BAMM paper
-ENTITY Y6E7C1Q4 name_Y6E7 conference
-ENTITY F7GGTEQ3 name_F7GG institution
-PRINT $0)%9?.6
-DELETE S1-]{^}+
-PATH $0)%9?.6 F7GGTEQ3
-EXIT

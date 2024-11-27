@@ -1,7 +1,0 @@
-ENTITY WHZVPM6A name_WHZV journal
-ENTITY 2KI7S7DF name_2KI7 institution
-ENTITY UXZ0OWDP name_UXZ0 journal
-PRINT Q$=L[#(.
-DELETE Q$=L[#(.
-PATH Q$=L[#(. WHZVPM6A
-EXIT

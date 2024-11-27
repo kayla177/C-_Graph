@@ -1,7 +1,0 @@
-ENTITY 63Z1YTWF name_63Z1 conference
-ENTITY 3GLFKH6G name_3GLF conference
-ENTITY OM331LMR name_OM33 institution
-PRINT *Y((.P<&
-DELETE ^[&)R]Z9
-PATH ^[&)R]Z9 3GLFKH6G
-EXIT

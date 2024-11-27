@@ -1,7 +1,0 @@
-ENTITY JVURG2XK name_JVUR institution
-ENTITY 8A6K0HHS name_8A6K institution
-ENTITY OTMGLD7I name_OTMG paper
-PRINT +V:@^D6Y
-DELETE W|(.?,$K
-PATH W|(.?,$K JVURG2XK
-EXIT

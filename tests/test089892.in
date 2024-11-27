@@ -1,7 +1,0 @@
-ENTITY FKXRDMW3 name_FKXR institution
-ENTITY HPEVS3VP name_HPEV institution
-ENTITY JPNKPF4Y name_JPNK journal
-PRINT +-5,#!A-
-DELETE +-5,#!A-
-PATH +-5,#!A- FKXRDMW3
-EXIT

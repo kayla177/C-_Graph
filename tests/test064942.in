@@ -1,7 +1,0 @@
-ENTITY 1LH8KXU7 name_1LH8 institution
-ENTITY 8VUIYLF1 name_8VUI author
-ENTITY OEHA0JF6 name_OEHA institution
-PRINT G|&5&#=1
-DELETE G|&5&#=1
-PATH G|&5&#=1 OEHA0JF6
-EXIT

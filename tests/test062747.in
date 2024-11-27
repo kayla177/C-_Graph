@@ -1,7 +1,0 @@
-ENTITY 4AA3KEA4 name_4AA3 paper
-ENTITY NGDOTTHT name_NGDO institution
-ENTITY 667RBMGP name_667R conference
-PRINT #5#$?{!}
-DELETE #5#$?{!}
-PATH BW#;6((N 667RBMGP
-EXIT

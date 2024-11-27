@@ -1,7 +1,0 @@
-ENTITY KA2GORMY name_KA2G author
-ENTITY J3Z1PI6A name_J3Z1 institution
-ENTITY TZCE87K5 name_TZCE paper
-PRINT [R<?>!K|
-DELETE [R<?>!K|
-PATH 4*V*|_G: KA2GORMY
-EXIT

@@ -1,7 +1,0 @@
-ENTITY A6PJCBQ9 name_A6PJ institution
-ENTITY X4S9DVRK name_X4S9 institution
-ENTITY PU2QEQE7 name_PU2Q institution
-PRINT P)<A$4G.
-DELETE -S3$(_(*
-PATH -S3$(_(* PU2QEQE7
-EXIT

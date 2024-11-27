@@ -1,7 +1,0 @@
-ENTITY 2QZPGILK name_2QZP institution
-ENTITY R9MB7D21 name_R9MB conference
-ENTITY PRDIZH8U name_PRDI institution
-PRINT (>)I69C{
-DELETE M(13<$:A
-PATH (>)I69C{ R9MB7D21
-EXIT

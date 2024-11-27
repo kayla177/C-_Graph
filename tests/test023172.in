@@ -1,7 +1,0 @@
-ENTITY LE2Q2Q9L name_LE2Q journal
-ENTITY UKMM5BD4 name_UKMM journal
-ENTITY M6SHE9I2 name_M6SH institution
-PRINT {{}^[:1]
-DELETE 5HM,Z[I$
-PATH {{}^[:1] LE2Q2Q9L
-EXIT

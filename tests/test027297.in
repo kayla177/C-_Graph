@@ -1,7 +1,0 @@
-ENTITY M8MY1UE5 name_M8MY institution
-ENTITY LAWFG9Z1 name_LAWF journal
-ENTITY DP8LQG5P name_DP8L institution
-PRINT {!{(]*O(
-DELETE >1=Z-]-P
-PATH >1=Z-]-P DP8LQG5P
-EXIT

@@ -1,7 +1,0 @@
-ENTITY QE9OIG0T name_QE9O paper
-ENTITY 6OG8WKXM name_6OG8 institution
-ENTITY O0SU73OO name_O0SU author
-PRINT 4*&,4+@#
-DELETE 4*&,4+@#
-PATH %F]%9[T) 6OG8WKXM
-EXIT

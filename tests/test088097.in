@@ -1,7 +1,0 @@
-ENTITY TOE19PLL name_TOE1 conference
-ENTITY 604L2SRV name_604L institution
-ENTITY KGIUEQ8E name_KGIU journal
-PRINT WV*>4)8%
-DELETE @>H$X[}1
-PATH @>H$X[}1 KGIUEQ8E
-EXIT

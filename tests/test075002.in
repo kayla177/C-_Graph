@@ -1,7 +1,0 @@
-ENTITY 3NN16EPJ name_3NN1 paper
-ENTITY QGRZ24KG name_QGRZ institution
-ENTITY 52PLV6C0 name_52PL paper
-PRINT PU;<(*!}
-DELETE _!}#?3_@
-PATH _!}#?3_@ QGRZ24KG
-EXIT

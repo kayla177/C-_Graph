@@ -1,7 +1,0 @@
-ENTITY 1UB0TBEI name_1UB0 conference
-ENTITY 4GQ8CU27 name_4GQ8 institution
-ENTITY 6SX6STU5 name_6SX6 journal
-PRINT )+,&-G45
-DELETE )+,&-G45
-PATH )+,&-G45 6SX6STU5
-EXIT

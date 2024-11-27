@@ -1,7 +1,0 @@
-ENTITY QEEJUQ7M name_QEEJ institution
-ENTITY BWBLNFV9 name_BWBL institution
-ENTITY DJLJHD0W name_DJLJ journal
-PRINT :>,!H5}P
-DELETE :>,!H5}P
-PATH :>,!H5}P DJLJHD0W
-EXIT

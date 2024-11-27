@@ -1,7 +1,0 @@
-ENTITY C3Z26PIV name_C3Z2 institution
-ENTITY R6JDS2NR name_R6JD conference
-ENTITY K3MOLTQ7 name_K3MO institution
-PRINT N.(U=!:P
-DELETE E^<XUVFL
-PATH N.(U=!:P C3Z26PIV
-EXIT

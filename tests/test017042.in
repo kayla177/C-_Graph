@@ -1,7 +1,0 @@
-ENTITY I3TMIN3G name_I3TM paper
-ENTITY 8A0NDSWU name_8A0N paper
-ENTITY IVSUTRSF name_IVSU conference
-PRINT }L:)-]G%
-DELETE }L:)-]G%
-PATH }L:)-]G% I3TMIN3G
-EXIT

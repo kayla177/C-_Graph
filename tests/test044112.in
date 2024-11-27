@@ -1,7 +1,0 @@
-ENTITY SAMAFDRB name_SAMA author
-ENTITY J7LMYSKU name_J7LM paper
-ENTITY OMAA9HH8 name_OMAA conference
-PRINT {C8_##%%
-DELETE {C8_##%%
-PATH {C8_##%% OMAA9HH8
-EXIT

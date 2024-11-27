@@ -1,7 +1,0 @@
-ENTITY WP24ELAZ name_WP24 institution
-ENTITY 2H05CXBK name_2H05 journal
-ENTITY 7HYHRW40 name_7HYH institution
-PRINT 2*:|@*W*
-DELETE <Z:JTM;R
-PATH 2*:|@*W* WP24ELAZ
-EXIT

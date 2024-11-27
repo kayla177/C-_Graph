@@ -1,7 +1,0 @@
-ENTITY EFM86DJV name_EFM8 author
-ENTITY WE0RY1EC name_WE0R journal
-ENTITY TMHV95V6 name_TMHV journal
-PRINT >!X8|:#&
-DELETE >!X8|:#&
-PATH >!X8|:#& EFM86DJV
-EXIT

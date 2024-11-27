@@ -1,7 +1,0 @@
-ENTITY QV4X2EZC name_QV4X conference
-ENTITY U1JZH4AL name_U1JZ institution
-ENTITY FMM06DCA name_FMM0 conference
-PRINT *]%=[F{F
-DELETE *]%=[F{F
-PATH >CG!IA,; U1JZH4AL
-EXIT

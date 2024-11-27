@@ -1,7 +1,0 @@
-ENTITY 8A07VZ18 name_8A07 institution
-ENTITY 39ZW3MNG name_39ZW paper
-ENTITY EUPUDTQQ name_EUPU conference
-PRINT ;IN[4,%%
-DELETE @{&!%AJC
-PATH |!B|!(OM EUPUDTQQ
-EXIT

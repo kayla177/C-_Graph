@@ -1,7 +1,0 @@
-ENTITY 7EDV93MT name_7EDV institution
-ENTITY AXJM3EXV name_AXJM institution
-ENTITY 84AXK8OO name_84AX institution
-PRINT 9G.X>K::
-DELETE 9G.X>K::
-PATH 9G.X>K:: AXJM3EXV
-EXIT

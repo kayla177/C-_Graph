@@ -1,7 +1,0 @@
-ENTITY 06W5ORZV name_06W5 journal
-ENTITY IJPPMC2L name_IJPP institution
-ENTITY OSWPFW8U name_OSWP author
-PRINT ($!)<==F
-DELETE ($!)<==F
-PATH ($!)<==F 06W5ORZV
-EXIT

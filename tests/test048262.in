@@ -1,7 +1,0 @@
-ENTITY FWWK24JJ name_FWWK institution
-ENTITY B885F7B1 name_B885 conference
-ENTITY ZY5HIODC name_ZY5H conference
-PRINT .}$2^[UV
-DELETE .}$2^[UV
-PATH .}$2^[UV FWWK24JJ
-EXIT

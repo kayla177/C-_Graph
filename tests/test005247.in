@@ -1,7 +1,0 @@
-ENTITY RQYE4RG7 name_RQYE journal
-ENTITY XF8DL7KC name_XF8D journal
-ENTITY SCELUHPM name_SCEL institution
-PRINT _G||&S:3
-DELETE :.%E_@:M
-PATH :.%E_@:M SCELUHPM
-EXIT

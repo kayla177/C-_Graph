@@ -1,7 +1,0 @@
-ENTITY 5SZKRAHS name_5SZK paper
-ENTITY FYVGOPSI name_FYVG institution
-ENTITY QAGSMMO9 name_QAGS institution
-PRINT ,_()6O?P
-DELETE ,_()6O?P
-PATH ,_()6O?P QAGSMMO9
-EXIT

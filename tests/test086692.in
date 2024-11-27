@@ -1,7 +1,0 @@
-ENTITY AIOZ8GJ0 name_AIOZ institution
-ENTITY EK7G63K6 name_EK7G institution
-ENTITY ZEWXFJZI name_ZEWX paper
-PRINT JQ;8!;+!
-DELETE JQ;8!;+!
-PATH JQ;8!;+! EK7G63K6
-EXIT

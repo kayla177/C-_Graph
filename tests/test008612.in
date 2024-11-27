@@ -1,7 +1,0 @@
-ENTITY TQ1ELCAT name_TQ1E institution
-ENTITY A1CIKIHS name_A1CI institution
-ENTITY 46GWAGH1 name_46GW journal
-PRINT ^T&>.R(?
-DELETE ].=;A!?}
-PATH ^T&>.R(? TQ1ELCAT
-EXIT

@@ -1,7 +1,0 @@
-ENTITY SAHQU05W name_SAHQ institution
-ENTITY 2P3H7TCS name_2P3H institution
-ENTITY ZYZJSD04 name_ZYZJ conference
-PRINT -!<|AO]6
-DELETE -!<|AO]6
-PATH -!<|AO]6 2P3H7TCS
-EXIT

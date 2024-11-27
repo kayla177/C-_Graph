@@ -1,7 +1,0 @@
-ENTITY KCAEH4H1 name_KCAE author
-ENTITY EHP1AQ7L name_EHP1 institution
-ENTITY 32PPPX21 name_32PP institution
-PRINT ZI$3[E,?
-DELETE -:XD|*4{
-PATH -:XD|*4{ EHP1AQ7L
-EXIT

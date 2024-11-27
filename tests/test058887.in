@@ -1,7 +1,0 @@
-ENTITY 9ZAQ1FHT name_9ZAQ conference
-ENTITY POZPTGAI name_POZP institution
-ENTITY 4TJ9ZS7H name_4TJ9 journal
-PRINT M,Q$P>:|
-DELETE M,Q$P>:|
-PATH M,Q$P>:| POZPTGAI
-EXIT

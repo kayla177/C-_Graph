@@ -1,7 +1,0 @@
-ENTITY NSFNEPXT name_NSFN institution
-ENTITY EAWAG93R name_EAWA journal
-ENTITY SG6UX4VD name_SG6U conference
-PRINT ?Z>(B=)=
-DELETE ?Z>(B=)=
-PATH P?I<)7{H EAWAG93R
-EXIT

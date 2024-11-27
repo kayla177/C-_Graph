@@ -1,7 +1,0 @@
-ENTITY KCSHC2SO name_KCSH author
-ENTITY QMUZV2EZ name_QMUZ author
-ENTITY HAMTLYDB name_HAMT conference
-PRINT )}]%=S_W
-DELETE )}]%=S_W
-PATH )=X{YQ:} HAMTLYDB
-EXIT

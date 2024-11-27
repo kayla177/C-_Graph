@@ -1,7 +1,0 @@
-ENTITY H7TUK9O8 name_H7TU conference
-ENTITY R6LY2KGB name_R6LY institution
-ENTITY LNA6V4EJ name_LNA6 institution
-PRINT %=@DGJ?Z
-DELETE %=@DGJ?Z
-PATH %=@DGJ?Z LNA6V4EJ
-EXIT

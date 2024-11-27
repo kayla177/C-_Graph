@@ -1,7 +1,0 @@
-ENTITY EUKL6Q1S name_EUKL conference
-ENTITY PNSEFCIX name_PNSE paper
-ENTITY OTO96AE6 name_OTO9 institution
-PRINT CH?^*_H%
-DELETE CH?^*_H%
-PATH CH?^*_H% PNSEFCIX
-EXIT

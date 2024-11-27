@@ -1,7 +1,0 @@
-ENTITY M0PT1SE2 name_M0PT institution
-ENTITY I83WRYE3 name_I83W institution
-ENTITY UE2P1Q43 name_UE2P author
-PRINT %V{(,>T!
-DELETE L<?S{H[[
-PATH %V{(,>T! M0PT1SE2
-EXIT

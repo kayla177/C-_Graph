@@ -1,7 +1,0 @@
-ENTITY DAHZSAXQ name_DAHZ paper
-ENTITY UK061U65 name_UK06 journal
-ENTITY 2IR6ES7G name_2IR6 institution
-PRINT M0[-},B]
-DELETE M0[-},B]
-PATH 8_@R)[^) UK061U65
-EXIT

@@ -1,7 +1,0 @@
-ENTITY ECUCT8S1 name_ECUC author
-ENTITY B3121XWZ name_B312 author
-ENTITY 2FFSXGSW name_2FFS institution
-PRINT ^%!-^-<!
-DELETE Z=,?N:VQ
-PATH ^%!-^-<! 2FFSXGSW
-EXIT

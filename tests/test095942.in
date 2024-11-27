@@ -1,7 +1,0 @@
-ENTITY I7GOR3XB name_I7GO conference
-ENTITY TEL7VE70 name_TEL7 institution
-ENTITY PSLLUGCT name_PSLL institution
-PRINT CE+&>[Q%
-DELETE D-3GT,E$
-PATH CE+&>[Q% PSLLUGCT
-EXIT

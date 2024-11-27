@@ -1,7 +1,0 @@
-ENTITY NOP8THBO name_NOP8 conference
-ENTITY 25APRZ46 name_25AP paper
-ENTITY 9IRE3W1O name_9IRE institution
-PRINT M]I,*]V*
-DELETE M]I,*]V*
-PATH M]I,*]V* 9IRE3W1O
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 3MF6U62S name_3MF6 institution
-ENTITY E15L9PS9 name_E15L journal
-ENTITY 4B2YFB4S name_4B2Y conference
-PRINT 9=2T!);[
-DELETE 9=2T!);[
-PATH +#>W.N-1 E15L9PS9
-EXIT

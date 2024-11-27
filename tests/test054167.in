@@ -1,7 +1,0 @@
-ENTITY 7QCTEDKQ name_7QCT conference
-ENTITY QB3OLAW5 name_QB3O conference
-ENTITY 5E3OG2K4 name_5E3O conference
-PRINT HU,.@98%
-DELETE HU,.@98%
-PATH @|:%_1K; 5E3OG2K4
-EXIT

@@ -1,7 +1,0 @@
-ENTITY DBIWPE90 name_DBIW journal
-ENTITY SMDK4OY7 name_SMDK institution
-ENTITY E0ZGYSQ9 name_E0ZG institution
-PRINT $&{+BD>@
-DELETE **1,?=)1
-PATH $&{+BD>@ SMDK4OY7
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 74D578JO name_74D5 institution
-ENTITY 38N3M30I name_38N3 institution
-ENTITY 4176KMYA name_4176 conference
-PRINT 7J_HCJ$3
-DELETE R:&.9{R_
-PATH R:&.9{R_ 38N3M30I
-EXIT

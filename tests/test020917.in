@@ -1,7 +1,0 @@
-ENTITY WG1LQ68V name_WG1L conference
-ENTITY FE3XSHP7 name_FE3X conference
-ENTITY TNSWOX1Z name_TNSW author
-PRINT $A%&.:U[
-DELETE $A%&.:U[
-PATH $A%&.:U[ TNSWOX1Z
-EXIT

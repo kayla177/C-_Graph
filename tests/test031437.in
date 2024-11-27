@@ -1,7 +1,0 @@
-ENTITY WQ75K4JB name_WQ75 paper
-ENTITY C16OQ5MD name_C16O journal
-ENTITY DV3MNHKW name_DV3M institution
-PRINT +;:;&&OD
-DELETE ^0[-9%H4
-PATH +;:;&&OD WQ75K4JB
-EXIT

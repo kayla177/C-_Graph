@@ -1,7 +1,0 @@
-ENTITY NYL9SUS4 name_NYL9 author
-ENTITY 6LHAGSZU name_6LHA journal
-ENTITY 3O0G5DUU name_3O0G institution
-PRINT +]!:<?TD
-DELETE +]!:<?TD
-PATH +]!:<?TD 3O0G5DUU
-EXIT

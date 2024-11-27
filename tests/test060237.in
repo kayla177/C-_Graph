@@ -1,7 +1,0 @@
-ENTITY EUE2SN45 name_EUE2 conference
-ENTITY GAUV08YM name_GAUV author
-ENTITY K0JFUPOI name_K0JF institution
-PRINT *%-3-J_7
-DELETE *%-3-J_7
-PATH *%-3-J_7 K0JFUPOI
-EXIT

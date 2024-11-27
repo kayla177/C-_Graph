@@ -1,7 +1,0 @@
-ENTITY 61P2OTK5 name_61P2 institution
-ENTITY 4SLPOQVX name_4SLP journal
-ENTITY UEBHV3JO name_UEBH conference
-PRINT {QIZS{<N
-DELETE F^<!-@*$
-PATH F^<!-@*$ UEBHV3JO
-EXIT

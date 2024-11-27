@@ -1,7 +1,0 @@
-ENTITY MS7GRE40 name_MS7G conference
-ENTITY 8M723JIY name_8M72 institution
-ENTITY BJHGN5HQ name_BJHG author
-PRINT P#=@R.$2
-DELETE P#=@R.$2
-PATH P#E!K={0 BJHGN5HQ
-EXIT

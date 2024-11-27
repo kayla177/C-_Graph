@@ -1,7 +1,0 @@
-ENTITY Q64TW6CL name_Q64T journal
-ENTITY U1BKBADO name_U1BK paper
-ENTITY ZMX03GNK name_ZMX0 institution
-PRINT 9#?$KS=E
-DELETE V[@]**@O
-PATH V[@]**@O U1BKBADO
-EXIT

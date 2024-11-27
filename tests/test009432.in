@@ -1,7 +1,0 @@
-ENTITY 52QLQJRH name_52QL conference
-ENTITY PMZMRR62 name_PMZM institution
-ENTITY 2G95ACD9 name_2G95 conference
-PRINT KL_0P,}A
-DELETE KL_0P,}A
-PATH 0*^$?$-T 52QLQJRH
-EXIT

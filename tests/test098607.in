@@ -1,7 +1,0 @@
-ENTITY XAY3DTNI name_XAY3 journal
-ENTITY EJ3FVA5H name_EJ3F conference
-ENTITY ZR22ERCH name_ZR22 conference
-PRINT ^|(.IU(T
-DELETE Q924[&]-
-PATH ^|(.IU(T XAY3DTNI
-EXIT

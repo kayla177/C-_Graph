@@ -1,7 +1,0 @@
-ENTITY C0EC6T2H name_C0EC institution
-ENTITY 78ZGBKJF name_78ZG conference
-ENTITY DJCZ976V name_DJCZ conference
-PRINT ER(W{*:G
-DELETE ER(W{*:G
-PATH M]V&P.#> C0EC6T2H
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 2FCQG59R name_2FCQ conference
-ENTITY E02DH2FF name_E02D institution
-ENTITY 7T09LAZC name_7T09 institution
-PRINT -|4!O_CT
-DELETE ;?|},P*4
-PATH -|4!O_CT 7T09LAZC
-EXIT

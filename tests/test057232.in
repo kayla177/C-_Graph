@@ -1,7 +1,0 @@
-ENTITY 2G7POU8Y name_2G7P paper
-ENTITY 8V2VBDKK name_8V2V conference
-ENTITY Q9K9KEST name_Q9K9 institution
-PRINT ODDDB=%*
-DELETE _5[[D,>&
-PATH _5[[D,>& 2G7POU8Y
-EXIT

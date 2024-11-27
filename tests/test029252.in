@@ -1,7 +1,0 @@
-ENTITY XZTB1LLG name_XZTB paper
-ENTITY K12OABXF name_K12O paper
-ENTITY Q3RTJBD1 name_Q3RT author
-PRINT &[^}[].F
-DELETE &[^}[].F
-PATH ^([U&L*: K12OABXF
-EXIT

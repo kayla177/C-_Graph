@@ -1,7 +1,0 @@
-ENTITY 7N1R09S0 name_7N1R institution
-ENTITY II0KD3TT name_II0K institution
-ENTITY QGCCHZ0V name_QGCC conference
-PRINT B@S:=MN%
-DELETE ;#,_!$>K
-PATH B@S:=MN% QGCCHZ0V
-EXIT

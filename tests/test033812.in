@@ -1,7 +1,0 @@
-ENTITY KVXSJ2B3 name_KVXS journal
-ENTITY VZL3K2DG name_VZL3 institution
-ENTITY 3TSVMOFO name_3TSV institution
-PRINT [28,]#<L
-DELETE [28,]#<L
-PATH %!(}P>WB 3TSVMOFO
-EXIT

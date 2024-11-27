@@ -1,7 +1,0 @@
-ENTITY O1EE2TUB name_O1EE institution
-ENTITY A759QKAD name_A759 institution
-ENTITY 2R9YNGMY name_2R9Y institution
-PRINT Q$N,^H93
-DELETE P@T}_I_G
-PATH P@T}_I_G O1EE2TUB
-EXIT

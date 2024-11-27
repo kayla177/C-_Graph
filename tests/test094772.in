@@ -1,7 +1,0 @@
-ENTITY Q1IVK08I name_Q1IV paper
-ENTITY QBVTMSHN name_QBVT journal
-ENTITY EYLFHYJI name_EYLF institution
-PRINT >W#<U{<,
-DELETE :<|$S|@>
-PATH >W#<U{<, QBVTMSHN
-EXIT

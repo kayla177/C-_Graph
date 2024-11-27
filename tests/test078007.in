@@ -1,7 +1,0 @@
-ENTITY EOH7RW4K name_EOH7 paper
-ENTITY 9JSTIYC4 name_9JST conference
-ENTITY XJYVM1FG name_XJYV institution
-PRINT <+1-EL)^
-DELETE <+1-EL)^
-PATH <+1-EL)^ EOH7RW4K
-EXIT

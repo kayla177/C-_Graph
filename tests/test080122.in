@@ -1,7 +1,0 @@
-ENTITY LGCVWZNB name_LGCV author
-ENTITY J9FGDHSY name_J9FG institution
-ENTITY G786XAEI name_G786 journal
-PRINT 2%[{M.[%
-DELETE :&J;!:YG
-PATH 2%[{M.[% J9FGDHSY
-EXIT

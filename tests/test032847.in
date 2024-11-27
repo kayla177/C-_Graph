@@ -1,7 +1,0 @@
-ENTITY GASPTMHR name_GASP conference
-ENTITY HP4913S0 name_HP49 institution
-ENTITY 0F1Y3PYW name_0F1Y paper
-PRINT ,:(U+<U(
-DELETE $&(NLH+;
-PATH $&(NLH+; HP4913S0
-EXIT

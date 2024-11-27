@@ -1,7 +1,0 @@
-ENTITY QUZG8V7K name_QUZG author
-ENTITY 3SDSPBI5 name_3SDS institution
-ENTITY VYAWE9Q0 name_VYAW journal
-PRINT {$@&+&XT
-DELETE {$@&+&XT
-PATH {$@&+&XT QUZG8V7K
-EXIT

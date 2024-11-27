@@ -1,7 +1,0 @@
-ENTITY ECIPLK1D name_ECIP paper
-ENTITY 3ZCYH1PH name_3ZCY paper
-ENTITY HDAVD17C name_HDAV institution
-PRINT (?(.,+O@
-DELETE (?(.,+O@
-PATH (?(.,+O@ HDAVD17C
-EXIT

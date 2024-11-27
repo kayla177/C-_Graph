@@ -1,7 +1,0 @@
-ENTITY DY9JZE0G name_DY9J conference
-ENTITY CXPPI6PI name_CXPP conference
-ENTITY 3CY33TI2 name_3CY3 institution
-PRINT 0T_5;Q%:
-DELETE 0T_5;Q%:
-PATH 0T_5;Q%: CXPPI6PI
-EXIT

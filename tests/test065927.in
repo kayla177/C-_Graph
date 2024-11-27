@@ -1,7 +1,0 @@
-ENTITY Q1HCXU20 name_Q1HC paper
-ENTITY X546R7AL name_X546 paper
-ENTITY JS00JEM4 name_JS00 institution
-PRINT $<^:B^|,
-DELETE $<^:B^|,
-PATH N+?WO:]{ X546R7AL
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 2HMNFBKE name_2HMN conference
-ENTITY LJLGNGKF name_LJLG paper
-ENTITY HCJXTDW2 name_HCJX institution
-PRINT ^8!<<){R
-DELETE |KB${Y:(
-PATH |KB${Y:( HCJXTDW2
-EXIT

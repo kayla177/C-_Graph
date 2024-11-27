@@ -1,7 +1,0 @@
-ENTITY 9ZHANS0Q name_9ZHA journal
-ENTITY ETW3121M name_ETW3 institution
-ENTITY H1Q7RQ7K name_H1Q7 paper
-PRINT >D,^3^+*
-DELETE >D,^3^+*
-PATH >D,^3^+* H1Q7RQ7K
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 3A77R7UZ name_3A77 conference
-ENTITY 656MEU09 name_656M institution
-ENTITY 0IC6VYKG name_0IC6 institution
-PRINT 55^@+F.8
-DELETE 55^@+F.8
-PATH ^+:U(0:V 656MEU09
-EXIT

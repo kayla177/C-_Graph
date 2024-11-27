@@ -1,7 +1,0 @@
-ENTITY U2P43TTI name_U2P4 institution
-ENTITY E525514B name_E525 institution
-ENTITY QDIQWOBP name_QDIQ journal
-PRINT Y74};.J$
-DELETE Y74};.J$
-PATH [R-8|@{( E525514B
-EXIT

@@ -1,7 +1,0 @@
-ENTITY S7AJ6JKZ name_S7AJ conference
-ENTITY R5HNTCIC name_R5HN institution
-ENTITY AIYW4LYT name_AIYW institution
-PRINT {3276*S}
-DELETE G:B@(6?[
-PATH G:B@(6?[ S7AJ6JKZ
-EXIT

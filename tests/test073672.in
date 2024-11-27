@@ -1,7 +1,0 @@
-ENTITY 4MSBW9XE name_4MSB institution
-ENTITY 8S8PB10C name_8S8P institution
-ENTITY GYZSAI1A name_GYZS institution
-PRINT L&UOL[^T
-DELETE HT${O$>&
-PATH L&UOL[^T 8S8PB10C
-EXIT

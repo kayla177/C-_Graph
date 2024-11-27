@@ -1,7 +1,0 @@
-ENTITY BJHX818S name_BJHX conference
-ENTITY FV5FMX3H name_FV5F paper
-ENTITY U0CRQH8M name_U0CR conference
-PRINT *R^.XV>_
-DELETE *R^.XV>_
-PATH *R^.XV>_ U0CRQH8M
-EXIT

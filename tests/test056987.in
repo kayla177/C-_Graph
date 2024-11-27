@@ -1,7 +1,0 @@
-ENTITY K366IHPW name_K366 paper
-ENTITY K0P70QKS name_K0P7 conference
-ENTITY 4YSD516Q name_4YSD conference
-PRINT !=C>7|-;
-DELETE !=C>7|-;
-PATH !=C>7|-; K0P70QKS
-EXIT

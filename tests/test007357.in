@@ -1,7 +1,0 @@
-ENTITY FWX1DLD9 name_FWX1 conference
-ENTITY OC85LUCZ name_OC85 journal
-ENTITY ISS2YAMY name_ISS2 institution
-PRINT ](,*]:VG
-DELETE :K|3S>98
-PATH ](,*]:VG ISS2YAMY
-EXIT

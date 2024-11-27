@@ -1,7 +1,0 @@
-ENTITY EQG8ZF4F name_EQG8 institution
-ENTITY 2AMU5DBW name_2AMU conference
-ENTITY UPBKZ1J8 name_UPBK institution
-PRINT ,[B=2;C)
-DELETE {.1Z47<:
-PATH {.1Z47<: EQG8ZF4F
-EXIT

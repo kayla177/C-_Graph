@@ -1,7 +1,0 @@
-ENTITY 33FXMODD name_33FX conference
-ENTITY 4IACBDYK name_4IAC journal
-ENTITY R3OAXWI6 name_R3OA journal
-PRINT ^*:)7O::
-DELETE ^*:)7O::
-PATH (#^S&.>) 33FXMODD
-EXIT

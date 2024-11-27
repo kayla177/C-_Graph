@@ -1,7 +1,0 @@
-ENTITY CM8E6FW0 name_CM8E institution
-ENTITY T07Q13YT name_T07Q journal
-ENTITY H0YO0QW3 name_H0YO institution
-PRINT !(-];CNQ
-DELETE +9)#S($R
-PATH !(-];CNQ T07Q13YT
-EXIT

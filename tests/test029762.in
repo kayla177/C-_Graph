@@ -1,7 +1,0 @@
-ENTITY UMBOLT6Y name_UMBO author
-ENTITY PM9418MT name_PM94 institution
-ENTITY BNXNIS2M name_BNXN institution
-PRINT I;=>0=-|
-DELETE ^S*#^==6
-PATH I;=>0=-| PM9418MT
-EXIT

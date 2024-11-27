@@ -1,7 +1,0 @@
-ENTITY S8VUIQU7 name_S8VU institution
-ENTITY D5MTHKZ0 name_D5MT institution
-ENTITY ZZPT5JOT name_ZZPT conference
-PRINT !U=KV,:K
-DELETE #VB{I@*8
-PATH #VB{I@*8 S8VUIQU7
-EXIT

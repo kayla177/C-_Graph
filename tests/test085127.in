@@ -1,7 +1,0 @@
-ENTITY 968ZD43G name_968Z institution
-ENTITY FRID8146 name_FRID conference
-ENTITY X6NZAAB4 name_X6NZ paper
-PRINT ^Q{#T?]:
-DELETE %%(?0ZS+
-PATH %%(?0ZS+ 968ZD43G
-EXIT

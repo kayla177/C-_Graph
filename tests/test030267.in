@@ -1,7 +1,0 @@
-ENTITY HMRZFH7O name_HMRZ conference
-ENTITY C7ZJNRQ2 name_C7ZJ institution
-ENTITY QYWINLNF name_QYWI conference
-PRINT A>P_=^T!
-DELETE A>P_=^T!
-PATH A>P_=^T! QYWINLNF
-EXIT

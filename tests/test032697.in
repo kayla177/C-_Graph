@@ -1,7 +1,0 @@
-ENTITY 1L04WXL2 name_1L04 conference
-ENTITY I5AVWQA6 name_I5AV conference
-ENTITY NG4IPFES name_NG4I conference
-PRINT ?C?%,FZ*
-DELETE ?C?%,FZ*
-PATH +J^^)K#O NG4IPFES
-EXIT

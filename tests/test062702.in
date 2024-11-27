@@ -1,7 +1,0 @@
-ENTITY WTHPEZHQ name_WTHP conference
-ENTITY 5YJ38KXZ name_5YJ3 paper
-ENTITY UBX7W0BK name_UBX7 author
-PRINT S^F#*!_,
-DELETE [|$([,XA
-PATH .U[Y.+]< 5YJ38KXZ
-EXIT

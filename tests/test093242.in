@@ -1,7 +1,0 @@
-ENTITY RDYLGXHW name_RDYL author
-ENTITY IK4VQT0T name_IK4V institution
-ENTITY XUY41CG6 name_XUY4 conference
-PRINT J!,)$*QN
-DELETE J!,)$*QN
-PATH J!,)$*QN XUY41CG6
-EXIT

@@ -1,7 +1,0 @@
-ENTITY J0COYL37 name_J0CO institution
-ENTITY UFJ5ONDV name_UFJ5 paper
-ENTITY 29YQ4KI8 name_29YQ journal
-PRINT {*{SU|-O
-DELETE {*{SU|-O
-PATH $J$|<.:6 UFJ5ONDV
-EXIT

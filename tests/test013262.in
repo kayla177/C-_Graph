@@ -1,7 +1,0 @@
-ENTITY GY134JGG name_GY13 institution
-ENTITY L23XK0VV name_L23X paper
-ENTITY 3WCIGCPY name_3WCI conference
-PRINT G.:@(_II
-DELETE G.:@(_II
-PATH G.:@(_II GY134JGG
-EXIT

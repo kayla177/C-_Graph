@@ -1,7 +1,0 @@
-ENTITY U723YWTD name_U723 journal
-ENTITY R6H87IID name_R6H8 author
-ENTITY 5TMITC33 name_5TMI conference
-PRINT +BN.B@@*
-DELETE +BN.B@@*
-PATH ,*}+D}%R R6H87IID
-EXIT

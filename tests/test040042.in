@@ -1,7 +1,0 @@
-ENTITY S070BRQB name_S070 conference
-ENTITY 0I2AIZHU name_0I2A institution
-ENTITY Y6XZ2TO2 name_Y6XZ conference
-PRINT K$Y+!}^A
-DELETE K$Y+!}^A
-PATH K$Y+!}^A 0I2AIZHU
-EXIT

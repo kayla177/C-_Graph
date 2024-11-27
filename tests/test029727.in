@@ -1,7 +1,0 @@
-ENTITY K43IO5ZJ name_K43I conference
-ENTITY SUNXFCCU name_SUNX author
-ENTITY JCA0Q46X name_JCA0 journal
-PRINT Z+#+,,@$
-DELETE Z+#+,,@$
-PATH ,NM;S@1: JCA0Q46X
-EXIT

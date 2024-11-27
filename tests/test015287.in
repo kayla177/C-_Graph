@@ -1,7 +1,0 @@
-ENTITY 5EYS1VA0 name_5EYS author
-ENTITY V2KI28P9 name_V2KI journal
-ENTITY 8NCLFN34 name_8NCL journal
-PRINT +H(&Z.@!
-DELETE +H(&Z.@!
-PATH +H(&Z.@! 8NCLFN34
-EXIT

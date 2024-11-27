@@ -1,7 +1,0 @@
-ENTITY JCACWC2C name_JCAC journal
-ENTITY SGM48ZJW name_SGM4 institution
-ENTITY E2A2ICN4 name_E2A2 conference
-PRINT G<|R.R$3
-DELETE $=(*94__
-PATH G<|R.R$3 E2A2ICN4
-EXIT

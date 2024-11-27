@@ -1,7 +1,0 @@
-ENTITY A03ZM11Z name_A03Z conference
-ENTITY Y2K6KLCV name_Y2K6 journal
-ENTITY RKMOI1I1 name_RKMO institution
-PRINT 9.:)|2<A
-DELETE 9.:)|2<A
-PATH 9.:)|2<A Y2K6KLCV
-EXIT

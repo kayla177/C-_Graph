@@ -1,7 +1,0 @@
-ENTITY 3P0Y259C name_3P0Y journal
-ENTITY 9MY2UHFA name_9MY2 institution
-ENTITY 8M76F3XO name_8M76 conference
-PRINT Z@=R+*1,
-DELETE Z@=R+*1,
-PATH Z@=R+*1, 3P0Y259C
-EXIT

@@ -1,7 +1,0 @@
-ENTITY MPQ4NJLY name_MPQ4 institution
-ENTITY 8NQ9JP0R name_8NQ9 institution
-ENTITY NW06VAA4 name_NW06 conference
-PRINT -&6484&W
-DELETE U+N^(|8&
-PATH U+N^(|8& NW06VAA4
-EXIT

@@ -1,7 +1,0 @@
-ENTITY J9WLFCMX name_J9WL conference
-ENTITY T2K2LD8J name_T2K2 conference
-ENTITY SGF1INI9 name_SGF1 institution
-PRINT ^O|G{Q&:
-DELETE ^O|G{Q&:
-PATH CN>AY&^0 J9WLFCMX
-EXIT

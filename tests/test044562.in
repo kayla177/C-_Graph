@@ -1,7 +1,0 @@
-ENTITY 10F0Q7XM name_10F0 institution
-ENTITY V0K3DZWD name_V0K3 paper
-ENTITY QV4W3HY7 name_QV4W institution
-PRINT |%>LN;%:
-DELETE |%>LN;%:
-PATH [>6Y}*}H 10F0Q7XM
-EXIT

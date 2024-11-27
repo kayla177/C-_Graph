@@ -1,7 +1,0 @@
-ENTITY W8ONAMWS name_W8ON author
-ENTITY 017L4U5O name_017L conference
-ENTITY HRA14PR6 name_HRA1 paper
-PRINT (Y;.2$(@
-DELETE (Y;.2$(@
-PATH (Y;.2$(@ 017L4U5O
-EXIT

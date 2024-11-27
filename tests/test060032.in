@@ -1,7 +1,0 @@
-ENTITY 9W2MY58B name_9W2M conference
-ENTITY 3NM1I5ZL name_3NM1 institution
-ENTITY 836EEWR8 name_836E paper
-PRINT C+<?9I[=
-DELETE C+<?9I[=
-PATH [^59+;[# 836EEWR8
-EXIT

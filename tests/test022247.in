@@ -1,7 +1,0 @@
-ENTITY 485TAX5L name_485T author
-ENTITY M5K8PGS5 name_M5K8 journal
-ENTITY GTHY4KCN name_GTHY conference
-PRINT G#].>W>_
-DELETE :M{>5}|X
-PATH :M{>5}|X GTHY4KCN
-EXIT

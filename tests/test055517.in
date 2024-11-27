@@ -1,7 +1,0 @@
-ENTITY NLPBQ5FQ name_NLPB paper
-ENTITY 20G4FHTW name_20G4 institution
-ENTITY I2M903GS name_I2M9 institution
-PRINT %(}HK__>
-DELETE 19(L0$:[
-PATH %(}HK__> 20G4FHTW
-EXIT

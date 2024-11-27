@@ -1,7 +1,0 @@
-ENTITY IEOM819N name_IEOM conference
-ENTITY O6ISVKIV name_O6IS journal
-ENTITY 0XBV0DXU name_0XBV author
-PRINT }}{I%{(W
-DELETE }}{I%{(W
-PATH 5;,MY,O; O6ISVKIV
-EXIT

@@ -1,7 +1,0 @@
-ENTITY KTSOCXS1 name_KTSO author
-ENTITY 0D7B3PVI name_0D7B institution
-ENTITY UVKTZTN1 name_UVKT institution
-PRINT *=#-1|&G
-DELETE QNDAM_&{
-PATH *=#-1|&G KTSOCXS1
-EXIT

@@ -1,7 +1,0 @@
-ENTITY W4JE1YT9 name_W4JE conference
-ENTITY 4FRD7U6O name_4FRD institution
-ENTITY ABD0HI0F name_ABD0 conference
-PRINT .-T8.,A4
-DELETE .-T8.,A4
-PATH .-T8.,A4 W4JE1YT9
-EXIT

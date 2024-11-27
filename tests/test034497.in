@@ -1,7 +1,0 @@
-ENTITY HUB40501 name_HUB4 author
-ENTITY 5MAYX8VF name_5MAY institution
-ENTITY P11KJCYP name_P11K conference
-PRINT #7)VH!{}
-DELETE #7)VH!{}
-PATH #7)VH!{} HUB40501
-EXIT

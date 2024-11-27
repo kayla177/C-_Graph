@@ -1,7 +1,0 @@
-ENTITY OAY3NG1C name_OAY3 institution
-ENTITY N153NYDS name_N153 paper
-ENTITY 1H1WRB4J name_1H1W institution
-PRINT D{%0@Z+,
-DELETE 0#{[=4D7
-PATH D{%0@Z+, OAY3NG1C
-EXIT

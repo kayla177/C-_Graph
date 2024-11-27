@@ -1,7 +1,0 @@
-ENTITY 2FRPLJKK name_2FRP paper
-ENTITY DKI64O25 name_DKI6 institution
-ENTITY K2IXJT5O name_K2IX institution
-PRINT ^#(K2)C_
-DELETE ^#(K2)C_
-PATH B(:{_+LH 2FRPLJKK
-EXIT

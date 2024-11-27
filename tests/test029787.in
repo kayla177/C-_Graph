@@ -1,7 +1,0 @@
-ENTITY 05LR4Z1W name_05LR institution
-ENTITY A3KZB7XE name_A3KZ journal
-ENTITY FD0ZUKK6 name_FD0Z conference
-PRINT T):47#>?
-DELETE @*:>>!G:
-PATH T):47#>? FD0ZUKK6
-EXIT

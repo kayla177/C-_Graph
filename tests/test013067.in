@@ -1,7 +1,0 @@
-ENTITY IGQWWAEB name_IGQW author
-ENTITY 06N2VL2V name_06N2 paper
-ENTITY CWDJKNM2 name_CWDJ conference
-PRINT )}&0*&[2
-DELETE )}&0*&[2
-PATH )}&0*&[2 CWDJKNM2
-EXIT

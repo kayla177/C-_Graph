@@ -1,7 +1,0 @@
-ENTITY 300HRHDV name_300H conference
-ENTITY 7RIK0324 name_7RIK institution
-ENTITY 7RWULJ5K name_7RWU conference
-PRINT <[)&0?2S
-DELETE <[)&0?2S
-PATH <[)&0?2S 7RIK0324
-EXIT

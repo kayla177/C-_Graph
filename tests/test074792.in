@@ -1,7 +1,0 @@
-ENTITY IBTQSIK4 name_IBTQ institution
-ENTITY J0GQ0E5O name_J0GQ institution
-ENTITY HBHNFYZV name_HBHN institution
-PRINT OMB$E|.0
-DELETE MG,^!H[!
-PATH OMB$E|.0 J0GQ0E5O
-EXIT

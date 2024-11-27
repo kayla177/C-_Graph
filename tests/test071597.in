@@ -1,7 +1,0 @@
-ENTITY C5D0M5GM name_C5D0 paper
-ENTITY 9HOVXI3U name_9HOV author
-ENTITY MJ0NDREC name_MJ0N institution
-PRINT ^*=$8+_+
-DELETE ^*=$8+_+
-PATH ^*=$8+_+ C5D0M5GM
-EXIT

@@ -1,7 +1,0 @@
-ENTITY V33HMW61 name_V33H author
-ENTITY 0GR3Q2ST name_0GR3 institution
-ENTITY S9CHFWG5 name_S9CH author
-PRINT R@8,={&.
-DELETE R@8,={&.
-PATH =$,!R&S6 0GR3Q2ST
-EXIT

@@ -1,7 +1,0 @@
-ENTITY FXDD66BL name_FXDD conference
-ENTITY HN1LEOKT name_HN1L journal
-ENTITY POW1HMI8 name_POW1 institution
-PRINT -^[!X,08
-DELETE -^[!X,08
-PATH -^[!X,08 HN1LEOKT
-EXIT

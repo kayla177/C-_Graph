@@ -1,7 +1,0 @@
-ENTITY 39O7QLLC name_39O7 conference
-ENTITY J3IJYTU4 name_J3IJ journal
-ENTITY B1VRCWUU name_B1VR institution
-PRINT }*.--LB@
-DELETE }*.--LB@
-PATH >|5<M*P1 B1VRCWUU
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 1Y265VSV name_1Y26 institution
-ENTITY ST2DJXJH name_ST2D paper
-ENTITY A1YOTT46 name_A1YO institution
-PRINT @=C+}{!+
-DELETE [:|!Z|&-
-PATH @=C+}{!+ ST2DJXJH
-EXIT

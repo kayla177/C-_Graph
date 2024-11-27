@@ -1,7 +1,0 @@
-ENTITY 2DFP33F9 name_2DFP conference
-ENTITY AXQ7HEG8 name_AXQ7 conference
-ENTITY 9FNQWUHE name_9FNQ journal
-PRINT }PW|=-R(
-DELETE _(T:,R$^
-PATH _(T:,R$^ 2DFP33F9
-EXIT

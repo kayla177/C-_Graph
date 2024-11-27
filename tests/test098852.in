@@ -1,7 +1,0 @@
-ENTITY F3HPQMZ2 name_F3HP author
-ENTITY PDGC00FB name_PDGC conference
-ENTITY LMDH0VGN name_LMDH conference
-PRINT $N*?!X7X
-DELETE $N*?!X7X
-PATH ,*||Q&.! PDGC00FB
-EXIT

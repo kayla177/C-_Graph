@@ -1,7 +1,0 @@
-ENTITY 3EGYXMRA name_3EGY conference
-ENTITY 4LXY1A78 name_4LXY conference
-ENTITY 5QMIRHZA name_5QMI conference
-PRINT <>(MYS=,
-DELETE .**LT[QY
-PATH <>(MYS=, 3EGYXMRA
-EXIT

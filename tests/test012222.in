@@ -1,7 +1,0 @@
-ENTITY 22W9UX6N name_22W9 institution
-ENTITY XX23M2VL name_XX23 journal
-ENTITY VDLPBAMZ name_VDLP institution
-PRINT |#>3>NI)
-DELETE |#>3>NI)
-PATH |#>3>NI) 22W9UX6N
-EXIT

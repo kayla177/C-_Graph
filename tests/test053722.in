@@ -1,7 +1,0 @@
-ENTITY 81BDYXN6 name_81BD journal
-ENTITY D5QMZ76B name_D5QM institution
-ENTITY G3OS22WC name_G3OS institution
-PRINT _&})#UF9
-DELETE _&})#UF9
-PATH _&})#UF9 D5QMZ76B
-EXIT

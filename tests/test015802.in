@@ -1,7 +1,0 @@
-ENTITY Q81Z0E0H name_Q81Z journal
-ENTITY CY4BGH5H name_CY4B institution
-ENTITY T7V1K3ZE name_T7V1 journal
-PRINT {W;W:}<,
-DELETE {W;W:}<,
-PATH {W;W:}<, CY4BGH5H
-EXIT

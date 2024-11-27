@@ -1,7 +1,0 @@
-ENTITY J6ZKYGX4 name_J6ZK conference
-ENTITY MRPM86C6 name_MRPM conference
-ENTITY OJZFJ5KO name_OJZF paper
-PRINT }|QW=$O7
-DELETE I:#>($<0
-PATH I:#>($<0 MRPM86C6
-EXIT

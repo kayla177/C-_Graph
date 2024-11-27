@@ -1,7 +1,0 @@
-ENTITY A7SKOEQW name_A7SK author
-ENTITY YNZDCTK1 name_YNZD journal
-ENTITY U9KFHU7C name_U9KF author
-PRINT *FH=[S[W
-DELETE {!+,-4%}
-PATH {!+,-4%} A7SKOEQW
-EXIT

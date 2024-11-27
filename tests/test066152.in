@@ -1,7 +1,0 @@
-ENTITY CAB38EWM name_CAB3 institution
-ENTITY ZN20UFUW name_ZN20 journal
-ENTITY F8NI29RG name_F8NI institution
-PRINT )1=S>%;B
-DELETE )1=S>%;B
-PATH GR|X(,][ CAB38EWM
-EXIT

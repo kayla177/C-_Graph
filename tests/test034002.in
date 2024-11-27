@@ -1,7 +1,0 @@
-ENTITY RV3WPB50 name_RV3W paper
-ENTITY LCD36600 name_LCD3 conference
-ENTITY 9DE16GEW name_9DE1 institution
-PRINT *>Q,;YB|
-DELETE 1[Z#:}_)
-PATH *>Q,;YB| LCD36600
-EXIT

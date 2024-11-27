@@ -1,7 +1,0 @@
-ENTITY 2KMWR12C name_2KMW journal
-ENTITY CD8UHUR8 name_CD8U conference
-ENTITY PST2UQFQ name_PST2 conference
-PRINT WQ$;(@@{
-DELETE ?H.I@*+}
-PATH ?H.I@*+} 2KMWR12C
-EXIT

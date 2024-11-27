@@ -1,7 +1,0 @@
-ENTITY QKXGK2QP name_QKXG institution
-ENTITY PEA8LABT name_PEA8 institution
-ENTITY S59M1BD8 name_S59M conference
-PRINT X.CNI{4A
-DELETE ^..XMY:+
-PATH ^..XMY:+ S59M1BD8
-EXIT

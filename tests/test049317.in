@@ -1,7 +1,0 @@
-ENTITY G73TH8FV name_G73T institution
-ENTITY SI33SGWR name_SI33 institution
-ENTITY WV4VATTT name_WV4V author
-PRINT !,&=U[A=
-DELETE C[4C+#F]
-PATH C[4C+#F] SI33SGWR
-EXIT

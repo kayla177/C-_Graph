@@ -1,7 +1,0 @@
-ENTITY 9EZ6OA5W name_9EZ6 author
-ENTITY RPGXYWKP name_RPGX conference
-ENTITY 8VP1CY7V name_8VP1 journal
-PRINT -@<{{&1L
-DELETE -@<{{&1L
-PATH #7#N(RP[ 8VP1CY7V
-EXIT

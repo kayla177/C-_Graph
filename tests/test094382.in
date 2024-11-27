@@ -1,7 +1,0 @@
-ENTITY 9FZMOAYA name_9FZM conference
-ENTITY EP85HILC name_EP85 author
-ENTITY R8ONT7BO name_R8ON conference
-PRINT CXN;@%$|
-DELETE CXN;@%$|
-PATH CXN;@%$| R8ONT7BO
-EXIT

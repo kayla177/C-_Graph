@@ -1,7 +1,0 @@
-ENTITY D8BLGC7V name_D8BL conference
-ENTITY 4BAFHGXC name_4BAF conference
-ENTITY G5DD29U7 name_G5DD conference
-PRINT {<})<>4|
-DELETE {<})<>4|
-PATH !-U:91:+ 4BAFHGXC
-EXIT

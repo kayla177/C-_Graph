@@ -1,7 +1,0 @@
-ENTITY 3KW7LZ3G name_3KW7 journal
-ENTITY VW1IL9OX name_VW1I author
-ENTITY WY3IC6CQ name_WY3I paper
-PRINT 1[*{;5*{
-DELETE =;Q=>$[>
-PATH 1[*{;5*{ VW1IL9OX
-EXIT

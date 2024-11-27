@@ -1,7 +1,0 @@
-ENTITY I6HK297W name_I6HK conference
-ENTITY Y6MN1PBZ name_Y6MN paper
-ENTITY LEFDK454 name_LEFD conference
-PRINT 03]=#P9I
-DELETE ,$W$*:9.
-PATH ,$W$*:9. LEFDK454
-EXIT

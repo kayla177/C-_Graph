@@ -1,7 +1,0 @@
-ENTITY Z5SIPLQE name_Z5SI paper
-ENTITY 7THXH7HZ name_7THX conference
-ENTITY YZJ1LSM5 name_YZJ1 journal
-PRINT <#C|#$Y<
-DELETE <#C|#$Y<
-PATH <#C|#$Y< 7THXH7HZ
-EXIT

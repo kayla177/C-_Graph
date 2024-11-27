@@ -1,7 +1,0 @@
-ENTITY RG0OYWWG name_RG0O author
-ENTITY OQK0TJOJ name_OQK0 institution
-ENTITY M4NHO8RA name_M4NH conference
-PRINT }^N1*T_+
-DELETE }^N1*T_+
-PATH }^N1*T_+ M4NHO8RA
-EXIT

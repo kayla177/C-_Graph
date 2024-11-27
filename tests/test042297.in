@@ -1,7 +1,0 @@
-ENTITY 6A5NLM70 name_6A5N institution
-ENTITY 8U5J1PCM name_8U5J journal
-ENTITY 1T2TTUWQ name_1T2T institution
-PRINT &-<JJ%%F
-DELETE 44^]4^@(
-PATH &-<JJ%%F 1T2TTUWQ
-EXIT

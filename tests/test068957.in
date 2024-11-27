@@ -1,7 +1,0 @@
-ENTITY D61HQ5CT name_D61H journal
-ENTITY 6B984DWN name_6B98 institution
-ENTITY 86ADBA1Q name_86AD conference
-PRINT -T)!L$4@
-DELETE -T)!L$4@
-PATH -T)!L$4@ D61HQ5CT
-EXIT

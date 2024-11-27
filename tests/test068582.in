@@ -1,7 +1,0 @@
-ENTITY 8D3BBVR7 name_8D3B institution
-ENTITY M5F057EM name_M5F0 institution
-ENTITY Z2WH2CY0 name_Z2WH conference
-PRINT %$L[.]A&
-DELETE (U.!%(#0
-PATH %$L[.]A& 8D3BBVR7
-EXIT

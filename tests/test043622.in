@@ -1,7 +1,0 @@
-ENTITY Z5FVIZ5P name_Z5FV conference
-ENTITY 4M259GER name_4M25 conference
-ENTITY I0D0YXUS name_I0D0 author
-PRINT (@)9(:=<
-DELETE (@)9(:=<
-PATH #(=?U]^] Z5FVIZ5P
-EXIT

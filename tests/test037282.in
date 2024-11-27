@@ -1,7 +1,0 @@
-ENTITY OUP7POGP name_OUP7 journal
-ENTITY ENEDZ431 name_ENED author
-ENTITY 15BM2UNG name_15BM author
-PRINT {%@P7[)$
-DELETE {%@P7[)$
-PATH {%@P7[)$ OUP7POGP
-EXIT

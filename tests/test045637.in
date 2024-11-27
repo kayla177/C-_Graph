@@ -1,7 +1,0 @@
-ENTITY W85T61ED name_W85T conference
-ENTITY 4UE9AU4F name_4UE9 conference
-ENTITY XR0WNA6V name_XR0W conference
-PRINT M;*LC%-!
-DELETE M;*LC%-!
-PATH M;*LC%-! XR0WNA6V
-EXIT

@@ -1,7 +1,0 @@
-ENTITY YZJXL0FQ name_YZJX institution
-ENTITY 3V0WLTCU name_3V0W journal
-ENTITY 8HMFTMPT name_8HMF journal
-PRINT &H:X=O>_
-DELETE &H:X=O>_
-PATH &H:X=O>_ YZJXL0FQ
-EXIT

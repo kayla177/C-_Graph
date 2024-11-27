@@ -1,7 +1,0 @@
-ENTITY DM5E8FCK name_DM5E author
-ENTITY JAP0XEK3 name_JAP0 author
-ENTITY TSR58MGA name_TSR5 institution
-PRINT !&J(^{:J
-DELETE !&J(^{:J
-PATH !&J(^{:J TSR58MGA
-EXIT

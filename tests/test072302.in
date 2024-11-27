@@ -1,7 +1,0 @@
-ENTITY W8VATQP0 name_W8VA conference
-ENTITY 01RAN3KK name_01RA conference
-ENTITY T03R576O name_T03R institution
-PRINT !$H!F-?H
-DELETE ).+9{C-?
-PATH !$H!F-?H T03R576O
-EXIT

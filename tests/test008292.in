@@ -1,7 +1,0 @@
-ENTITY ZL99PK8T name_ZL99 institution
-ENTITY J94S2SB5 name_J94S institution
-ENTITY L0M7ICPZ name_L0M7 author
-PRINT %1!$$AC$
-DELETE -VI}B-#?
-PATH %1!$$AC$ J94S2SB5
-EXIT

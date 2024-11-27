@@ -1,7 +1,0 @@
-ENTITY IO6NMTLW name_IO6N journal
-ENTITY EAS00FZV name_EAS0 institution
-ENTITY BFU91KUW name_BFU9 author
-PRINT 6_??[A#.
-DELETE }C|.MQ_[
-PATH 6_??[A#. IO6NMTLW
-EXIT

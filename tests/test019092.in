@@ -1,7 +1,0 @@
-ENTITY 8JEE0WUR name_8JEE conference
-ENTITY WP620YYQ name_WP62 conference
-ENTITY Q8B4UOJR name_Q8B4 author
-PRINT {:>D2?:T
-DELETE {:>D2?:T
-PATH {:>D2?:T Q8B4UOJR
-EXIT

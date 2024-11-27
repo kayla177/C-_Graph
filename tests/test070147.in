@@ -1,7 +1,0 @@
-ENTITY IOZ0W8J8 name_IOZ0 paper
-ENTITY 1F0CBOJO name_1F0C journal
-ENTITY ZEBNOLNS name_ZEBN conference
-PRINT |D<3[>I:
-DELETE |D<3[>I:
-PATH :=-|A&<= ZEBNOLNS
-EXIT

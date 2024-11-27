@@ -1,7 +1,0 @@
-ENTITY V18W00SG name_V18W institution
-ENTITY 9RNTENOD name_9RNT institution
-ENTITY 73AM9LX1 name_73AM author
-PRINT :->-#BS:
-DELETE :->-#BS:
-PATH _U!OK1$. V18W00SG
-EXIT

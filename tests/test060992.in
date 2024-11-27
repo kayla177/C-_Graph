@@ -1,7 +1,0 @@
-ENTITY 5HTBL4G0 name_5HTB institution
-ENTITY 3BW19MBK name_3BW1 institution
-ENTITY RQIUUP1Y name_RQIU institution
-PRINT ;$>C;DF]
-DELETE ;$>C;DF]
-PATH ;$>C;DF] 5HTBL4G0
-EXIT

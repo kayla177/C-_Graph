@@ -1,7 +1,0 @@
-ENTITY M3TSILUA name_M3TS conference
-ENTITY J6T0XRFX name_J6T0 author
-ENTITY RK5IO259 name_RK5I conference
-PRINT *%<#@!Q#
-DELETE *%<#@!Q#
-PATH _?,G%BH? RK5IO259
-EXIT

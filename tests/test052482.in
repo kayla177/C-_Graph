@@ -1,7 +1,0 @@
-ENTITY VJE0QID7 name_VJE0 conference
-ENTITY FJTZ2LXP name_FJTZ journal
-ENTITY 4A0H3WL8 name_4A0H institution
-PRINT (4(_EI?.
-DELETE (4(_EI?.
-PATH (4(_EI?. FJTZ2LXP
-EXIT

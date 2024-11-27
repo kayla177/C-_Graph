@@ -1,7 +1,0 @@
-ENTITY YZJLMM2O name_YZJL journal
-ENTITY S29TK4IM name_S29T author
-ENTITY HRBKHIWL name_HRBK institution
-PRINT ?;%_F?|#
-DELETE ?;%_F?|#
-PATH =?I1-652 HRBKHIWL
-EXIT

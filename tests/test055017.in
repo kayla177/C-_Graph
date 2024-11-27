@@ -1,7 +1,0 @@
-ENTITY H021G0C4 name_H021 journal
-ENTITY EJ7CB7ZT name_EJ7C journal
-ENTITY RI3ROXJ8 name_RI3R conference
-PRINT ;O,N_$#^
-DELETE ;O,N_$#^
-PATH ;O,N_$#^ H021G0C4
-EXIT

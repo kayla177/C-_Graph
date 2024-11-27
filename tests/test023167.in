@@ -1,7 +1,0 @@
-ENTITY D1RRH8BP name_D1RR conference
-ENTITY OSOBAG0K name_OSOB paper
-ENTITY QBC22O5E name_QBC2 institution
-PRINT *+}(C{R=
-DELETE %.Q@%$CQ
-PATH %.Q@%$CQ D1RRH8BP
-EXIT

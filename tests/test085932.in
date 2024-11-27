@@ -1,7 +1,0 @@
-ENTITY TBFC7HF0 name_TBFC institution
-ENTITY NP7D61W9 name_NP7D journal
-ENTITY M0M1KBMP name_M0M1 paper
-PRINT :G9O+[<|
-DELETE :G9O+[<|
-PATH }|})!V|+ NP7D61W9
-EXIT

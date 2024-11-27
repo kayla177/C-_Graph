@@ -1,7 +1,0 @@
-ENTITY G2CLD1HL name_G2CL institution
-ENTITY SUEJ8VS3 name_SUEJ paper
-ENTITY 7VV98BDV name_7VV9 journal
-PRINT <_L0=.KF
-DELETE P:*>*O_?
-PATH P:*>*O_? SUEJ8VS3
-EXIT

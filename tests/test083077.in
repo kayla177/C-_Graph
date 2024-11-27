@@ -1,7 +1,0 @@
-ENTITY HE7AZ4XB name_HE7A conference
-ENTITY R3AETSHL name_R3AE institution
-ENTITY HR8NTX4N name_HR8N conference
-PRINT !=%3#[J;
-DELETE ]6|P21]4
-PATH !=%3#[J; R3AETSHL
-EXIT

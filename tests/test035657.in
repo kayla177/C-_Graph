@@ -1,7 +1,0 @@
-ENTITY R14N0NTH name_R14N author
-ENTITY DKDCAT3M name_DKDC author
-ENTITY U86Q2ZY6 name_U86Q journal
-PRINT 4.{.#R-6
-DELETE ?E+_<[([
-PATH ?E+_<[([ U86Q2ZY6
-EXIT

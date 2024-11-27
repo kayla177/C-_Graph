@@ -1,7 +1,0 @@
-ENTITY 6K2CKDXU name_6K2C institution
-ENTITY 4UK421J3 name_4UK4 institution
-ENTITY C3K7BWF4 name_C3K7 institution
-PRINT &+#6;_HA
-DELETE &+#6;_HA
-PATH S|:_:CI! 6K2CKDXU
-EXIT

@@ -1,7 +1,0 @@
-ENTITY 9VWIB96O name_9VWI conference
-ENTITY OXIQAMKO name_OXIQ author
-ENTITY TY9U9N1M name_TY9U conference
-PRINT =**=$;%>
-DELETE =**=$;%>
-PATH =**=$;%> TY9U9N1M
-EXIT

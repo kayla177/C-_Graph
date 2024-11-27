@@ -1,7 +1,0 @@
-ENTITY YL79G07J name_YL79 journal
-ENTITY XOO8DV6X name_XOO8 conference
-ENTITY I1YOEGKI name_I1YO paper
-PRINT #!#$S(:0
-DELETE #!#$S(:0
-PATH [L)}D[P: YL79G07J
-EXIT

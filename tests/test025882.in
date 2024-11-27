@@ -1,7 +1,0 @@
-ENTITY VKO34HTG name_VKO3 conference
-ENTITY MK4V9JKZ name_MK4V conference
-ENTITY 6GQAKW78 name_6GQA conference
-PRINT &_O7(W=%
-DELETE &_O7(W=%
-PATH &_O7(W=% VKO34HTG
-EXIT

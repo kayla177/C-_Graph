@@ -1,7 +1,0 @@
-ENTITY 4Z2HGMVI name_4Z2H conference
-ENTITY 8Y5ZE042 name_8Y5Z institution
-ENTITY IH65NDDR name_IH65 institution
-PRINT >ND*X9^%
-DELETE %.T:K#<>
-PATH >ND*X9^% 4Z2HGMVI
-EXIT

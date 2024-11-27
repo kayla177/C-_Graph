@@ -1,7 +1,0 @@
-ENTITY O6OUASYL name_O6OU journal
-ENTITY T6JUETSQ name_T6JU paper
-ENTITY 5DFE72N7 name_5DFE conference
-PRINT WQ>.[_B|
-DELETE 2.^;|}>O
-PATH 2.^;|}>O 5DFE72N7
-EXIT

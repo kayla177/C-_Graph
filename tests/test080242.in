@@ -1,7 +1,0 @@
-ENTITY 44CT5N7Q name_44CT journal
-ENTITY F0JZOUJF name_F0JZ author
-ENTITY 4MCJV1RO name_4MCJ conference
-PRINT :>P*:1:{
-DELETE ],=}@AZR
-PATH ],=}@AZR 44CT5N7Q
-EXIT

@@ -1,7 +1,0 @@
-ENTITY COF8SQNN name_COF8 institution
-ENTITY 7GMWSFTI name_7GMW conference
-ENTITY 8ZONY83A name_8ZON journal
-PRINT {P@.,,U=
-DELETE =&TNNR*.
-PATH #E*;.^^E 7GMWSFTI
-EXIT

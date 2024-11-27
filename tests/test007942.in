@@ -1,7 +1,0 @@
-ENTITY V2CW20HW name_V2CW institution
-ENTITY 371P4SHV name_371P institution
-ENTITY QV7HF0BB name_QV7H institution
-PRINT 2P:M2Y=*
-DELETE B?0Z#-6:
-PATH B?0Z#-6: 371P4SHV
-EXIT

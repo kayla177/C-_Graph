@@ -1,7 +1,0 @@
-ENTITY PG8MVDX2 name_PG8M journal
-ENTITY PRJ41K1H name_PRJ4 institution
-ENTITY I44COK1D name_I44C institution
-PRINT }6;M$@;@
-DELETE }6;M$@;@
-PATH C,1$=:FM I44COK1D
-EXIT

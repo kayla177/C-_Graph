@@ -1,7 +1,0 @@
-ENTITY 0JQI2QH1 name_0JQI institution
-ENTITY HNU9TU29 name_HNU9 author
-ENTITY PB05K9EV name_PB05 conference
-PRINT :E^WCN.*
-DELETE .J.%<-<,
-PATH .J.%<-<, HNU9TU29
-EXIT

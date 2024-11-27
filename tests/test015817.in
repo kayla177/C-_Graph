@@ -1,7 +1,0 @@
-ENTITY 743NM1WF name_743N institution
-ENTITY OFZ6TSVP name_OFZ6 conference
-ENTITY ZQEFCDB7 name_ZQEF journal
-PRINT :|_K+>8X
-DELETE :|_K+>8X
-PATH :|_K+>8X 743NM1WF
-EXIT

@@ -1,7 +1,0 @@
-ENTITY RYGJHWL4 name_RYGJ conference
-ENTITY 8TEE0OUV name_8TEE institution
-ENTITY SRRNUSR0 name_SRRN conference
-PRINT *Q*1;YR&
-DELETE .[:F&L:9
-PATH .[:F&L:9 SRRNUSR0
-EXIT

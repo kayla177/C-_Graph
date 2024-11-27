@@ -1,7 +1,0 @@
-ENTITY N06QZCUV name_N06Q conference
-ENTITY GH3R3Y9H name_GH3R conference
-ENTITY S1VX1B4C name_S1VX author
-PRINT >?,!5[H<
-DELETE DVC,)A*<
-PATH >?,!5[H< GH3R3Y9H
-EXIT

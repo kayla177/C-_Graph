@@ -1,7 +1,0 @@
-ENTITY HP9V0Z97 name_HP9V institution
-ENTITY Y5C35HKA name_Y5C3 conference
-ENTITY GGOZMAYO name_GGOZ author
-PRINT &+><(#J&
-DELETE &+><(#J&
-PATH &+><(#J& GGOZMAYO
-EXIT

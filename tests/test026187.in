@@ -1,7 +1,0 @@
-ENTITY IWJV248M name_IWJV conference
-ENTITY PYKFA63H name_PYKF institution
-ENTITY V5C12X6D name_V5C1 paper
-PRINT |#.{|K;T
-DELETE L!=3:!]T
-PATH |#.{|K;T V5C12X6D
-EXIT

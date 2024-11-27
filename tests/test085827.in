@@ -1,7 +1,0 @@
-ENTITY N4FWRR2I name_N4FW conference
-ENTITY 15ACNXAU name_15AC author
-ENTITY XEDI2EUE name_XEDI institution
-PRINT .<:%T+M[
-DELETE U675B-^E
-PATH .<:%T+M[ 15ACNXAU
-EXIT

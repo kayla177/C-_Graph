@@ -1,7 +1,0 @@
-ENTITY 3W0FXCDY name_3W0F institution
-ENTITY LJW8PJMU name_LJW8 paper
-ENTITY XRNZSDV2 name_XRNZ paper
-PRINT K<:#@7@,
-DELETE K<:#@7@,
-PATH K<:#@7@, XRNZSDV2
-EXIT

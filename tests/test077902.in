@@ -1,7 +1,0 @@
-ENTITY MHAIUQNV name_MHAI conference
-ENTITY NBOTY6I7 name_NBOT institution
-ENTITY 9WS5LXK8 name_9WS5 paper
-PRINT 1)YX<|${
-DELETE &=Q$$K=A
-PATH 1)YX<|${ 9WS5LXK8
-EXIT

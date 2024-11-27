@@ -1,7 +1,0 @@
-ENTITY 8IJ5E4ZS name_8IJ5 conference
-ENTITY 7JEPU20G name_7JEP author
-ENTITY XZSJ6O6R name_XZSJ institution
-PRINT }9{!.>}8
-DELETE G$L,-N_*
-PATH }9{!.>}8 XZSJ6O6R
-EXIT

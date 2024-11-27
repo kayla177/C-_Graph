@@ -1,7 +1,0 @@
-ENTITY DY27GC3S name_DY27 institution
-ENTITY I4SUMIHB name_I4SU institution
-ENTITY UZOFNUI7 name_UZOF conference
-PRINT W>+}WJ+Y
-DELETE W>+}WJ+Y
-PATH W>+}WJ+Y DY27GC3S
-EXIT

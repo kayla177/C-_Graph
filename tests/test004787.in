@@ -1,7 +1,0 @@
-ENTITY 55RULAB7 name_55RU institution
-ENTITY B4TYAA8H name_B4TY institution
-ENTITY WPC4O60V name_WPC4 paper
-PRINT *HPD%[?U
-DELETE G(^9M>-=
-PATH G(^9M>-= WPC4O60V
-EXIT

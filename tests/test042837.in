@@ -1,7 +1,0 @@
-ENTITY 4AMF8CIA name_4AMF journal
-ENTITY V4PUNGO8 name_V4PU conference
-ENTITY J47CPA4C name_J47C institution
-PRINT &[Z).*X^
-DELETE &[Z).*X^
-PATH &[Z).*X^ 4AMF8CIA
-EXIT

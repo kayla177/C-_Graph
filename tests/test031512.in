@@ -1,7 +1,0 @@
-ENTITY XYNYYYZF name_XYNY institution
-ENTITY 9F7EI92G name_9F7E institution
-ENTITY BVST5D9F name_BVST institution
-PRINT }|[_3I0}
-DELETE }|[_3I0}
-PATH 6M7Y,<3> XYNYYYZF
-EXIT

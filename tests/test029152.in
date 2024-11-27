@@ -1,7 +1,0 @@
-ENTITY YCUEJ5NX name_YCUE author
-ENTITY 3DGTV509 name_3DGT institution
-ENTITY QWGRUXBE name_QWGR conference
-PRINT &6{0(,-5
-DELETE Q;1;#(_-
-PATH &6{0(,-5 QWGRUXBE
-EXIT

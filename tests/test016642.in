@@ -1,7 +1,0 @@
-ENTITY AF79TZGH name_AF79 institution
-ENTITY ZKF934FF name_ZKF9 conference
-ENTITY 4GR5YRP1 name_4GR5 author
-PRINT FU{*-^:5
-DELETE {=E&1=3=
-PATH &N4:R&&& ZKF934FF
-EXIT

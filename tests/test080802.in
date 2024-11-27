@@ -1,7 +1,0 @@
-ENTITY JLLM8HAL name_JLLM institution
-ENTITY PQUR0864 name_PQUR conference
-ENTITY GB7VW74O name_GB7V institution
-PRINT U|!TT.,H
-DELETE U|!TT.,H
-PATH ||!*J]3Y JLLM8HAL
-EXIT
