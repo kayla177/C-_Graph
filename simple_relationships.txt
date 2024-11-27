@@ -1,0 +1,6 @@
+34a supervised_by 234 1.0
+123 supervised_by 234 0.9
+34a works_with 1244 0.2
+9342 supervised_by 234 1.0
+1244 works_with 234 0.1
+341 works_with 123 0.3

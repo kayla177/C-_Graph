@@ -2,7 +2,15 @@
 #include <fstream>
 #include <sstream>
 #include <string>
+#include <regex>
 #include "Graph.hpp"
+#include "illegal_exception.hpp" // Include illegal_exception header
+
+bool isValidId(const std::string &id) {
+    // Regex to check if the ID contains only letters and numerals
+    std::regex validIdRegex("^[a-zA-Z0-9]+$");
+    return std::regex_match(id, validIdRegex);
+}
 
 int main()
 {
@@ -34,6 +42,10 @@ int main()
                     std::string id, name, type;
                     while (infile >> id >> name >> type)
                     {
+                        if (!isValidId(id))
+                        {
+                            throw illegal_exception();
+                        }
                         graph.addNode(id, name, type);
                     }
                 }
@@ -43,6 +55,10 @@ int main()
                     double weight;
                     while (infile >> source >> label >> destination >> weight)
                     {
+                        if (!isValidId(source) || !isValidId(destination) || weight <= 0)
+                        {
+                            throw illegal_exception();
+                        }
                         graph.addEdge(source, destination, weight, label);
                     }
                 }
@@ -53,6 +69,11 @@ int main()
                 std::string sourceId, label, destId;
                 double weight;
                 iss >> sourceId >> label >> destId >> weight;
+
+                if (!isValidId(sourceId) || !isValidId(destId) || weight <= 0)
+                {
+                    throw illegal_exception();
+                }
 
                 if (graph.addEdge(sourceId, destId, weight, label) == "success")
                 {
@@ -67,6 +88,12 @@ int main()
             {
                 std::string id, name, type;
                 iss >> id >> name >> type;
+
+                if (!isValidId(id))
+                {
+                    throw illegal_exception();
+                }
+
                 graph.addNode(id, name, type);
                 std::cout << "success" << std::endl;
             }
@@ -74,18 +101,36 @@ int main()
             {
                 std::string id;
                 iss >> id;
+
+                if (!isValidId(id))
+                {
+                    throw illegal_exception();
+                }
+
                 graph.printAdjacency(id);
             }
             else if (operation == "DELETE")
             {
                 std::string id;
                 iss >> id;
+
+                if (!isValidId(id))
+                {
+                    throw illegal_exception();
+                }
+
                 std::cout << graph.removeNode(id) << std::endl;
             }
             else if (operation == "PATH")
             {
                 std::string id1, id2;
                 iss >> id1 >> id2;
+
+                if (!isValidId(id1) || !isValidId(id2))
+                {
+                    throw illegal_exception();
+                }
+
                 auto result = graph.findPath(id1, id2);
                 std::vector<std::string> path = std::get<0>(result);
                 double weight = std::get<1>(result);
@@ -119,7 +164,7 @@ int main()
             }
             else
             {
-                std::cout << "illegal argument" << std::endl;
+                throw illegal_exception();
             }
         }
         catch (const illegal_exception &e)
