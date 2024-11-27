@@ -2,14 +2,16 @@
 #include <fstream>
 #include <sstream>
 #include <string>
-#include <regex>
 #include "Graph.hpp"
 #include "illegal_exception.hpp" // Include illegal_exception header
 
 bool isValidId(const std::string &id) {
-    // Regex to check if the ID contains only letters and numerals
-    std::regex validIdRegex("^[a-zA-Z0-9]+$");
-    return std::regex_match(id, validIdRegex);
+    for (char c : id) {
+        if (!std::isalnum(c)) {
+            return false;
+        }
+    }
+    return true;
 }
 
 int main()
