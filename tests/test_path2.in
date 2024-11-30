@@ -1,0 +1,43 @@
+ENTITY A1 NodeA Type1
+ENTITY A2 NodeB Type1
+ENTITY A3 NodeC Type1
+ENTITY A4 NodeD Type2
+ENTITY A5 NodeE Type2
+ENTITY A6 NodeF Type3
+ENTITY A7 NodeG Type3
+ENTITY A8 NodeH Type4
+ENTITY A9 NodeI Type4
+ENTITY A10 NodeJ Type5
+RELATIONSHIP A1 relation A2 10.0
+RELATIONSHIP A2 relation A3 15.0
+RELATIONSHIP A3 relation A4 20.0
+RELATIONSHIP A4 relation A5 25.0
+RELATIONSHIP A5 relation A6 30.0
+RELATIONSHIP A6 relation A7 35.0
+RELATIONSHIP A7 relation A8 40.0
+RELATIONSHIP A8 relation A9 45.0
+RELATIONSHIP A9 relation A10 50.0
+RELATIONSHIP A1 relation A10 5.0
+RELATIONSHIP A3 relation A8 12.0
+RELATIONSHIP A5 relation A9 18.0
+PATH A1 A10  # Direct path through the relationship A1 -> A10, should output A1 A10 with weight 5.0
+PATH A1 A5   # Should output A1 A2 A3 A4 A5 with cumulative weight 70.0
+PATH A1 A9   # Should output A1 A2 A3 A8 A9 with weight 82.0 (using the shorter route through A3 -> A8)
+PATH A4 A7   # Should output A4 A5 A6 A7 with weight 90.0
+PATH A1 A3   # Should output A1 A2 A3 with weight 25.0
+PATH A10 A8  # Should output A10 A9 A8 with weight 95.0
+DELETE A3    # Remove node A3, this should remove any paths involving A3
+PATH A1 A5   # Should output A1 A2 A4 A5 with weight 55.0
+PATH A1 A9   # Should output A1 A10 A9 with weight 55.0 (direct to A10 and then A9)
+PATH A4 A7   # Should output A4 A5 A6 A7 with weight 90.0 (still available)
+PATH A1 A3   # Should output failure (since A3 is deleted)
+DELETE A1    # Remove node A1, testing its impact on paths
+PATH A2 A10  # Should output failure since A1 was deleted and there was a direct path through A1
+PATH A2 A8   # Should output failure
+PATH A6 A9   # Should output A6 A7 A8 A9 with weight 120.0
+ENTITY A1 NodeA Type1
+RELATIONSHIP A1 relation A2 10.0
+RELATIONSHIP A1 relation A10 5.0
+PATH A1 A9   # Should output A1 A10 A9 with weight 55.0
+PATH A1 A5   # Should output A1 A2 A4 A5 with weight 55.0
+PATH A1 A7   # Should output A1 A2 A4 A5 A6 A7 with weight 120.0
