@@ -1,4 +1,9 @@
+#ifndef NODE_HPP
+#define NODE_HPP
+
+
 #include <iostream>
+#include <vector>
 
 class Node
 {
@@ -20,3 +25,5 @@ public:
     //---------------------------------- modifiers -------------------------
     void update(std::string newName, std::string newType);
 };
+
+#endif

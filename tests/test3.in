@@ -1,0 +1,12 @@
+LOAD simple_entities.txt entities
+LOAD simple_relationships.txt relationships
+DELETE 123
+PRINT 341
+PRINT 234
+DELETE 123
+DELETE 999
+DELETE 234
+PRINT 9342
+PRINT 34a
+DELETE _!!
+EXIT

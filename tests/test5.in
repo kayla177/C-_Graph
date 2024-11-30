@@ -1,0 +1,8 @@
+HIGHEST
+LOAD test_path_entities.txt entities
+HIGHEST
+LOAD test_path_relationships.txt relationships
+HIGHEST
+DELETE 3
+HIGHEST
+EXIT

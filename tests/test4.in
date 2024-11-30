@@ -1,0 +1,18 @@
+PATH 111 222
+LOAD test_path_entities.txt entities
+LOAD test_path_relationships.txt relationships
+PATH 1 5
+PATH 1 8
+PATH 1 11
+PATH 7 9
+DELETE 7
+PATH 8 9
+DELETE 3
+PATH 1 11
+PATH 20 1
+PATH 20 21
+PATH 1 20
+PATH ! 1
+PATH 1 !
+PATH ! !
+EXIT

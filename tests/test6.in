@@ -1,0 +1,24 @@
+LOAD test_path_entities.txt entities
+FINDALL name A
+FINDALL name B
+FINDALL name Z
+DELETE 13
+FINDALL name A
+DELETE 2
+FINDALL name B
+ENTITY 2 B Branch
+FINDALL name B
+ENTITY 13 Z Superman
+FINDALL name A
+FINDALL type Branch
+FINDALL type Z
+DELETE 3
+FINDALL type Branch
+DELETE 1
+FINDALL type Root
+ENTITY 1 A Root
+FINDALL type Root
+DELETE 1
+ENTITY 1 A Superman
+FINDALL type Root
+EXIT

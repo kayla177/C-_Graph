@@ -16,11 +16,9 @@ int Graph::getNodeIndex(const std::string &id)
             return i;
         }
     }
-    // node not found
     return -1;
 }
 
-// Add a new node or update an existing one
 void Graph::addNode(const std::string &id, const std::string &name, const std::string &type)
 {
     if (id.empty() || name.empty() || type.empty())
@@ -31,12 +29,17 @@ void Graph::addNode(const std::string &id, const std::string &name, const std::s
     int index = getNodeIndex(id);
     if (index != -1)
     {
-        nodes[index].update(name, type); // Update existing node
+        nodes[index].update(name, type);
         return;
     }
+
     nodeIds.push_back(id);
     nodes.emplace_back(id, name, type);
-    adjList.emplace_back(); // Initialize adjacency list for the new node
+
+    while (adjList.size() < nodeIds.size())
+    {
+        adjList.emplace_back();
+    }
 }
 
 std::string Graph::addEdge(const std::string &sourceId, const std::string &destinationId, double weight, const std::string &label)
@@ -54,7 +57,6 @@ std::string Graph::addEdge(const std::string &sourceId, const std::string &desti
         return "failure";
     }
 
-    // Update or add the edge if it already exists
     for (auto &edge : adjList[sourceIndex])
     {
         if (std::get<0>(edge) == destIndex)
@@ -64,35 +66,30 @@ std::string Graph::addEdge(const std::string &sourceId, const std::string &desti
         }
     }
 
-    // Add bidirectional edges
     adjList[sourceIndex].emplace_back(destIndex, weight, label);
     adjList[destIndex].emplace_back(sourceIndex, weight, label);
 
     return "success";
 }
 
-
 std::string Graph::removeNode(const std::string &targetID)
 {
-    if (isGraphEmpty())
-    {
-        return "failure";
-    }
     int targetIndex = getNodeIndex(targetID);
 
-    if (targetIndex == -1)
+    if (targetIndex < 0 || targetIndex >= adjList.size())
     {
         return "failure";
     }
 
-    // Erase the adjacency list for the target node
-    adjList.erase(adjList.begin() + targetIndex);
+    if (nodeIds.size() != adjList.size())
+    {
+        return "failure";
+    }
 
-    // Remove the node from the nodeIds and nodes list
+    adjList.erase(adjList.begin() + targetIndex);
     nodeIds.erase(nodeIds.begin() + targetIndex);
     nodes.erase(nodes.begin() + targetIndex);
 
-    // Update adjacency lists to remove references to the deleted node and adjust indices
     for (auto &edges : adjList)
     {
         std::vector<std::tuple<int, double, std::string>> updatedEdges;
@@ -101,17 +98,14 @@ std::string Graph::removeNode(const std::string &targetID)
             int neighborIndex = std::get<0>(edge);
             if (neighborIndex == targetIndex)
             {
-                // Skip edges that connect to the deleted node
                 continue;
             }
             else if (neighborIndex > targetIndex)
             {
-                // Adjust index for nodes that were after the deleted node
                 updatedEdges.push_back({neighborIndex - 1, std::get<1>(edge), std::get<2>(edge)});
             }
             else
             {
-                // Keep the edge as it is
                 updatedEdges.push_back(edge);
             }
         }
@@ -120,8 +114,6 @@ std::string Graph::removeNode(const std::string &targetID)
 
     return "success";
 }
-
-
 
 void Graph::printAdjacency(const std::string &targetID)
 {
@@ -138,7 +130,7 @@ void Graph::printAdjacency(const std::string &targetID)
         std::cout << std::endl;
         return;
     }
-    
+
     for (auto &edge : adjList[targetIndex])
     {
         std::cout << nodeIds[std::get<0>(edge)] << " ";

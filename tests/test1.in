@@ -1,0 +1,16 @@
+LOAD simple_entities.txt entities
+LOAD simple_entities.txt entities
+LOAD simple_relationships.txt relationships
+LOAD simple_relationships.txt relationships
+PRINT 34a
+PRINT 234
+PRINT 123
+PRINT 9342
+PRINT 341
+PRINT 1244
+PRINT !1244
+PRINT 1245
+ENTITY 1245 leon student
+PRINT 1245
+PRINT 34a
+EXIT
