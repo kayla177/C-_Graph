@@ -1,5 +1,6 @@
 #include "MaxHeap.hpp"
 #include <algorithm>
+#include <tuple>
 
 // Constructor
 MaxHeap::MaxHeap() {}

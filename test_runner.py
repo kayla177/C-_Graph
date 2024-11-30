@@ -47,12 +47,12 @@ def compare_output(command, actual_output, expected_output):
     """
     比较程序的输出和预期输出，根据命令不同调整比较规则。
     """
-    if command in ["PRINT", "FINDALL"]:
+    if command in ["PRINT", "FINDALL"] and expected_output != "failure":
         # 忽略顺序，比较内容
         actual_set = set(actual_output.split())
         expected_set = set(expected_output.split())
         return actual_set == expected_set
-    elif command == "HIGHEST":
+    elif command == "HIGHEST" and expected_output != "failure":
         # 忽略前两个ID顺序，比较权重
         actual_parts = actual_output.split()
         expected_parts = expected_output.split()
@@ -66,11 +66,10 @@ def compare_output(command, actual_output, expected_output):
         expected_weight = normalize_double(expected_parts[2])
 
         return actual_ids == expected_ids and actual_weight == expected_weight
-    elif command == "PATH":
+    elif command == "PATH" and expected_output != "failure":
         # 比较完整路径，最后一个权重需要标准化
         actual_parts = actual_output.split()
         expected_parts = expected_output.split()
-
         if len(actual_parts) < 2 or len(expected_parts) < 2:
             return False
 
