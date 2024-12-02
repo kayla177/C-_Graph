@@ -10,6 +10,9 @@ class Graph {
 private:
     std::vector<std::string> nodeIds;
     std::vector<Node> nodes;
+
+    // adjacency list of a graph
+    // each node has a list of edges, each edge is a tuple made of (destination index, weight, label)
     std::vector<std::vector<std::tuple<int, double, std::string>>> adjList;
 
 public:

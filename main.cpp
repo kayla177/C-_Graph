@@ -5,6 +5,7 @@
 #include "Graph.hpp"
 #include "illegal_exception.hpp"
 
+// check if the given ID contains only letters and digits
 bool isValidId(const std::string &id) {
     for (char c : id) {
         if (!((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z') || (c >= '0' && c <= '9')))

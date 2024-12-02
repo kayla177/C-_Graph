@@ -1,5 +1,6 @@
 #include "Node.hpp"
 
+// constructor, initialize the variable based on given value
 Node::Node(const std::string &id, const std::string &name, const std::string &type)
 {
     this->ID = id;
@@ -26,6 +27,7 @@ std::string Node::getType()
 
 //---------------------------------- modifiers -------------------------
 
+// update nodes info
 void Node::update(std::string newName, std::string newType)
 {
     this->name = newName;

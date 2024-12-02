@@ -7,7 +7,8 @@
 
 class MaxHeap {
 private:
-    std::vector<std::tuple<double, int, int>> heap; // {weight, currentNodeIndex, parentIndex}
+    // store the heap elements as (weight, current node, parent node)
+    std::vector<std::tuple<double, int, int>> heap;
     
     int parent(int i) { return (i - 1) / 2; }
     int left(int i) { return 2 * i + 1; }
