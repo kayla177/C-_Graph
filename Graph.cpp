@@ -1,7 +1,6 @@
 #include "Graph.hpp"
 #include "MaxHeap.hpp"
 #include <algorithm>
-#include <stdexcept>
 #include <tuple>
 #include <iostream>
 #include "illegal_exception.hpp"

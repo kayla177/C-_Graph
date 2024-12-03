@@ -1,0 +1,95 @@
+ENTITY A name_Author_A author
+ENTITY B name_Book_B book
+ENTITY C name_Conference_C conference
+ENTITY D name_Author_D author
+ENTITY E name_Editor_E editor
+ENTITY F name_Journal_F journal
+ENTITY G name_Paper_G paper
+ENTITY H name_Author_H author
+ENTITY I name_Institute_I institute
+ENTITY J name_Author_J author
+ENTITY NOT!VALID NOT!VALID NOT!VALID
+ENTITY K name_Paper_K paper
+ENTITY L name_Journal_L journal
+ENTITY M name_Author_M author
+ENTITY N name_Publisher_N publisher
+ENTITY O name_Paper_O paper
+ENTITY P name_Conference_P conference
+ENTITY Q name_Author_Q author
+ENTITY R name_Book_R book
+ENTITY S name_Journal_S journal
+ENTITY T name_Author_T author
+ENTITY U name_Paper_U paper
+ENTITY V name_Publisher_V publisher
+ENTITY W name_Journal_W journal
+ENTITY X name_Author_X author
+ENTITY Y name_Conference_Y conference
+ENTITY Z name_Paper_Z paper
+ENTITY AA name_Author_AA author
+ENTITY AB name_Paper_AB paper
+ENTITY AC name_Journal_AC journal
+ENTITY AD name_Author_AD author
+ENTITY AE name_Conference_AE conference
+RELATIONSHIP A writes B 3.0
+RELATIONSHIP B published_in C 2.5
+RELATIONSHIP D edits B 1.5
+RELATIONSHIP E edits F 2.0
+RELATIONSHIP G cited_by H 4.0
+RELATIONSHIP I affiliated_with A 1.0
+RELATIONSHIP J collaborates_with A 2.2
+RELATIONSHIP K published_in L 3.1
+RELATIONSHIP M writes K 4.5
+RELATIONSHIP N publishes B 2.3
+RELATIONSHIP O presented_at P 3.2
+RELATIONSHIP Q writes O 1.8
+RELATIONSHIP R cited_by S 2.9
+RELATIONSHIP T writes U 2.6
+RELATIONSHIP V publishes R 3.7
+RELATIONSHIP W includes K 2.4
+RELATIONSHIP X collaborates_with M 2.1
+RELATIONSHIP Y hosts C 1.9
+RELATIONSHIP Z extends U 3.3
+RELATIONSHIP AA writes AB 4.1
+RELATIONSHIP AB published_in AC 2.6
+RELATIONSHIP AD edits AB 1.7
+RELATIONSHIP AE hosts AC 2.9
+RELATIONSHIP F cited_by AE 3.4
+RELATIONSHIP H collaborates_with T 2.8
+RELATIONSHIP S publishes G 3.6
+PATH NOT!VALID A
+DELETE NOT!VALID
+PRINT NOT!VALID
+PATH P O
+PATH L K
+RELATIONSHIP P includes O 1.5
+RELATIONSHIP L publishes K 2.2
+PATH P O
+PATH L K
+RELATIONSHIP U extends O 3.0
+PATH Q P
+HIGHEST
+FINDALL name name_Author_A
+ENTITY A name_New_Author_A author
+FINDALL name name_Author_A
+FINDALL type book
+ENTITY B name_Book_B new_book
+FINDALL type book
+ENTITY R name_Book_R new_book
+FINDALL type book
+PRINT B
+PATH M L
+FINDALL name name_Author_D
+DELETE D
+FINDALL name name_Author_D
+HIGHEST
+DELETE V
+PATH A C
+PRINT A
+PATH AA AC
+PRINT AC
+DELETE AD
+HIGHEST
+PATH T U
+PRINT T
+PATH T AA
+EXIT
